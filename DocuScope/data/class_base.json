@@ -1,0 +1,87 @@
+{
+  "mage": {
+    "baseSpellMultiplier": 1.0,
+    "spellConversions": {
+      "meteor": {"earth": 30, "fire": 30},
+      "ice_snake": {"water": 70},
+      "teleport": {"air": 50},
+      "heal": {"water": 40}
+    },
+    "baseDamageMultiplier": 1.0,
+    "defenseMultiplier": 0.8,
+    "spellCosts": {
+      "heal": [8, 7, 6],
+      "teleport": [4, 4, 4],
+      "meteor": [8, 8, 8],
+      "ice_snake": [4, 4, 4]
+    }
+  },
+  "archer": {
+    "baseSpellMultiplier": 1.0,
+    "spellConversions": {
+      "arrow_storm": {"air": 40},
+      "escape": {"air": 80},
+      "bomb": {"fire": 100},
+      "arrow_shield": {"earth": 30}
+    },
+    "baseDamageMultiplier": 1.1,
+    "defenseMultiplier": 0.9,
+    "spellCosts": {
+      "arrow_storm": [6, 6, 6],
+      "escape": [3, 3, 3],
+      "bomb": [8, 8, 8],
+      "arrow_shield": [8, 9, 10]
+    }
+  },
+  "warrior": {
+    "baseSpellMultiplier": 0.9,
+    "spellConversions": {
+      "bash": {"earth": 50},
+      "charge": {"earth": 30},
+      "uppercut": {"thunder": 50},
+      "war_scream": {"thunder": 30}
+    },
+    "baseDamageMultiplier": 1.2,
+    "defenseMultiplier": 1.2,
+    "spellCosts": {
+      "bash": [6, 6, 6],
+      "charge": [4, 4, 4],
+      "uppercut": [9, 9, 9],
+      "war_scream": [6, 6, 6]
+    }
+  },
+  "assassin": {
+    "baseSpellMultiplier": 1.1,
+    "spellConversions": {
+      "spin_attack": {"air": 40},
+      "vanish": {"air": 20},
+      "multihit": {"thunder": 30},
+      "smoke_bomb": {"fire": 20}
+    },
+    "baseDamageMultiplier": 1.3,
+    "defenseMultiplier": 0.7,
+    "spellCosts": {
+      "spin_attack": [6, 6, 6],
+      "vanish": [2, 2, 2],
+      "multihit": [8, 8, 8],
+      "smoke_bomb": [8, 8, 8]
+    }
+  },
+  "shaman": {
+    "baseSpellMultiplier": 1.0,
+    "spellConversions": {
+      "totem": {"earth": 40},
+      "haul": {"air": 60},
+      "aura": {"water": 30},
+      "uproot": {"earth": 60}
+    },
+    "baseDamageMultiplier": 1.0,
+    "defenseMultiplier": 1.0,
+    "spellCosts": {
+      "totem": [4, 4, 4],
+      "haul": [3, 2, 1],
+      "aura": [8, 8, 8],
+      "uproot": [6, 6, 6]
+    }
+  }
+}

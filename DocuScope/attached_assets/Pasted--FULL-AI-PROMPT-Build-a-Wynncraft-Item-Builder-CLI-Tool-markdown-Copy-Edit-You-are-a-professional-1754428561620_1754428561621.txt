@@ -1,0 +1,124 @@
+🧠 FULL AI PROMPT: Build a Wynncraft Item Builder CLI Tool
+markdown
+Copy
+Edit
+You are a professional developer building a Python-based CLI tool for generating Wynncraft builds.
+
+🧩 PROJECT GOAL:
+Create a command-line interface (CLI) tool that:
+- Loads Wynncraft item data from Wynnbuilder's GitHub JSON
+- Lets the user select class, elements, playstyle, and filters
+- Generates valid builds that meet user constraints
+- Calculates spell damage, EHP, and mana sustain
+- Exports builds as readable text or as a Wynnbuilder share string
+
+🎯 PROJECT STRUCTURE:
+- `cli.py`: User interaction and menu logic
+- `data/items.json`: Downloaded from https://raw.githubusercontent.com/wynnbuilder/wynnbuilder.github.io/main/src/assets/items/items.json
+- `core/loader.py`: Loads and parses item JSON
+- `core/builder.py`: Build generation and validation logic
+- `core/filters.py`: Playstyle-based filtering logic
+- `core/stats.py`: Spell cost, damage, mana sustain, EHP
+- `export.py`: Wynnbuilder-compatible export logic
+- `requirements.txt`: Needed libraries
+
+🧱 FEATURES TO IMPLEMENT:
+1. Load all items into memory
+2. Let the user:
+   - Select a class (Archer, Mage, etc.)
+   - Choose a playstyle (Spellspam, Melee, Hybrid, Tank)
+   - Choose elements (e.g., thunder, water)
+   - Apply filters: No Mythics, Min mana regen, Min DPS, etc.
+3. Generate all viable combinations of:
+   - 1 weapon
+   - 4 armor pieces
+   - 4 accessories (2 rings, bracelet, necklace)
+4. Validate builds based on:
+   - Skill point reqs (sum must be ≤ 120)
+   - Build synergy (e.g., no conflicting -mana regen)
+   - Stat goals: Spell DPS, EHP, mana regen/steal
+5. Calculate:
+   - Spell costs (using INT formula)
+   - Spell damage (use base class damage × % bonuses)
+   - Effective HP (HP × defense multipliers)
+   - Mana sustain (total MR + MS × % chance)
+6. Output best 5–10 builds based on:
+   - Highest DPS with minimum sustain threshold
+   - Highest EHP with acceptable mana
+
+🎨 CLI INTERFACE EXAMPLE:
+User flow should look like:
+Welcome to WynnBuilder CLI!
+Choose your class: [1] Mage, [2] Archer, ...
+Playstyle: [1] Spellspam, [2] Melee, ...
+Elements (comma-separated): thunder, water
+Allow mythics? (y/n): n
+Min spell DPS?: 18000
+Min mana regen?: 7
+Generating builds...
+[✓] 23 builds found!
+
+#1 Mage Spellspam:
+Weapon: The Nothing
+Helmet: Anima-Infused
+...
+DPS: 22,800 | Mana: 9 | EHP: 18,000
+
+Export this build to Wynnbuilder? (y/n): y
+Exported as: build_1.txt and wynnbuilder string
+
+perl
+Copy
+Edit
+
+📦 EXPORT FORMAT:
+Use the format:
+```python
+[Class,Weapon,Helmet,Chestplate,Leggings,Boots,Ring1,Ring2,Bracelet,Necklace]
+For example:
+
+text
+Copy
+Edit
+[Mage,The Nothing,Anima-Infused Cuirass,Aquarius,Vaward,Memento,Suppression,Suppression,Diamond Hydro Bracelet,Diamond Hydro Necklace]
+🔧 ADDITIONAL TECH DETAILS:
+
+Class spell multipliers and base damage can be pulled from classBase.json
+
+Spell cost reduction follows INT formula (Wynnbuilder formula)
+
+Mana regen = sum of all MR + MS converted to MR (via hit rate simulation or approximation)
+
+EHP = HP × class-specific defense multipliers
+
+Use itertools or custom logic for efficient gear combination iteration
+
+🧠 TIPS:
+
+Use caching for filtering steps
+
+Modularize spell cost and damage calculations
+
+Ensure skill point validation works BEFORE checking build viability
+
+Please write the full working Python CLI tool and all supporting modules.
+
+yaml
+Copy
+Edit
+
+---
+
+## 🛠️ After Using the Prompt
+
+Once the AI generates your code:
+1. Save all files into folders as per the `PROJECT STRUCTURE`.
+2. Download the item data manually or add a startup script to fetch it from:
+https://raw.githubusercontent.com/wynnbuilder/wynnbuilder.github.io/main/src/assets/items/items.json
+
+go
+Copy
+Edit
+3. Run your CLI:
+```bash
+python cli.py

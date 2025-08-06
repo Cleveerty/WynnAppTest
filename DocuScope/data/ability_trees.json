@@ -1,0 +1,165 @@
+{
+  "mage": {
+    "archetypes": {
+      "riftwalker": {
+        "name": "Riftwalker",
+        "description": "Revolves around stacking the Winded debuff on mobs",
+        "difficulty": "Easy",
+        "damage": "High",
+        "defense": "Low",
+        "range": "Medium",
+        "speed": "High",
+        "key_abilities": [
+          "Windsweeper",
+          "Time Dilation", 
+          "Timelock"
+        ],
+        "primary_mechanic": "Winded stacking and consumption"
+      },
+      "lightbender": {
+        "name": "Light Bender",
+        "description": "Heals and supports allies with empowering buffs",
+        "difficulty": "Medium",
+        "damage": "Medium",
+        "defense": "Medium",
+        "range": "High",
+        "speed": "Medium",
+        "key_abilities": [
+          "Ophanim",
+          "Heal Enhancement",
+          "Support Buffs"
+        ],
+        "primary_mechanic": "Orb management and ally support"
+      },
+      "arcanist": {
+        "name": "Arcanist",
+        "description": "Sacrifices Heal ability for Mana Bank system",
+        "difficulty": "Hard",
+        "damage": "High",
+        "defense": "Low",
+        "range": "High",
+        "speed": "Medium",
+        "key_abilities": [
+          "Arcane Transfer",
+          "Mana Bank",
+          "Chaos Explosion"
+        ],
+        "primary_mechanic": "Mana Bank accumulation and burst spells"
+      }
+    },
+    "base_spells": {
+      "main_attack": {
+        "description": "Damages all enemies in a straight line with instant hit",
+        "mana_cost": 0,
+        "range": "Line attack",
+        "enhancements": {
+          "mage_melee": {
+            "damage_bonus": 10,
+            "range_bonus": 4
+          }
+        }
+      },
+      "meteor": {
+        "combo": "RIGHT-LEFT-LEFT",
+        "description": "Slow but powerful meteor dealing massive area damage",
+        "mana_cost": 50,
+        "damage_multiplier": 4.0,
+        "damage_split": {
+          "neutral": 3.3,
+          "earth": 0.7
+        },
+        "range": 18,
+        "aoe": 5,
+        "enhancements": {
+          "mana_reduction": -10,
+          "fire_sigil": {
+            "damage_multiplier": 0.4,
+            "duration": 8,
+            "aoe": 7
+          },
+          "damage_boost": 1.2
+        }
+      },
+      "teleport": {
+        "combo": "RIGHT-RIGHT-RIGHT",
+        "description": "Instant teleportation in facing direction",
+        "mana_cost": 25,
+        "range": 16,
+        "enhancements": {
+          "mana_reduction": -5,
+          "slash_damage": 1.0,
+          "blindness": true,
+          "double_cast": true
+        }
+      },
+      "heal": {
+        "combo": "RIGHT-LEFT-RIGHT",
+        "description": "Heals self and nearby allies",
+        "mana_cost": 35,
+        "heal_percentage": 15,
+        "range": 5,
+        "duration": 0.6,
+        "enhancements": {
+          "mana_reduction": -5,
+          "speed_buff": {
+            "speed_bonus": 80,
+            "duration": 4
+          }
+        }
+      },
+      "ice_snake": {
+        "combo": "RIGHT-RIGHT-LEFT",
+        "description": "Fast-moving ice snake that damages and slows",
+        "mana_cost": 30,
+        "damage_multiplier": 1.75,
+        "damage_split": {
+          "neutral": 1.2,
+          "water": 0.55
+        },
+        "range": 18,
+        "aoe": 2,
+        "slowness": 40,
+        "duration": 3,
+        "enhancements": {
+          "mana_reduction": -5,
+          "controllable": true,
+          "freeze": true,
+          "winded_synergy": 0.3
+        }
+      }
+    },
+    "passive_abilities": {
+      "elemental_mastery": {
+        "air": {
+          "flat_damage": "3-4",
+          "damage_percentage": 15
+        },
+        "thunder": {
+          "flat_damage": "1-8", 
+          "damage_percentage": 10
+        },
+        "earth": {
+          "flat_damage": "2-4",
+          "damage_percentage": 20
+        },
+        "fire": {
+          "flat_damage": "3-5",
+          "damage_percentage": 15
+        }
+      },
+      "wisdom": {
+        "description": "For every 2% or 2 Raw Spell Damage, gain +1/5s Mana Regen",
+        "max_bonus": 5
+      },
+      "seance": {
+        "description": "For every 5/3s Lifesteal, gain +1% Spell Damage",
+        "max_bonus": 50
+      },
+      "manastorm": {
+        "description": "If you have more than 100 Mana, casting a spell gives +5 Mana over 2s",
+        "threshold": 100,
+        "bonus": 5
+      }
+    }
+  }
+}

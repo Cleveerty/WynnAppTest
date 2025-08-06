@@ -1,0 +1,754 @@
+Fabled Items
+(Redirected from Fabled)
+Fabled Items, introduced in the Silent Expanse (1.19), are one of the best items available in terms of their damage values and level minimum, and are signified by a red name tag. Fabled items are the second rarest variant of items that can be found, coming right after Legendary, and preceding Mythic. A Fabled Item's name will appear red. Note that Mythic Items may also have Major IDs, which were introduced with Fabled Items.
+
+
+Contents
+1	List of Fabled Items
+1.1	Fabled Weapons
+1.2	Fabled Armour
+1.3	Fabled Accessories
+2	Navigation
+List of Fabled Items
+Fabled Weapons
+As of Version 2.1.3, there are currently 10 Fabled Spears, 12 Fabled Bows, 12 Fabled Wands, 10 Fabled Daggers, and 11 Fabled Reliks.
+
+Icon	Name	Type	Combat
+Lv. Min	Str
+Min	Dex
+Min	Int
+Min	Def
+Min	Agi
+Min	Neutral
+Damage	Earth
+Damage	Thunder
+Damage	Water
+Damage	Fire
+Damage	Air
+Damage	Average
+DPS	Attack
+Speed	Slots	Notes
+
+Overreach	Spear	30	-	-	-	-	25	5-15 
+-	-	-	-	1-24 
+97	Super Fast	2	+Overwhelm
+
+Catamaran	Spear	51	-	-	40	-	40	0-10 
+-	-	20-30 
+-	20-30 
+237	Super Fast	1	+Rally
+
+Terminal Velocity	Spear	60	-	35	-	25	-	70-80 
+-	45-75 
+-	60-70 
+-	300	Slow	2	+Tackle
+
+Apotheosis	Spear	85	25	25	40	40	25	-	49-59 
+37-71 
+65-83 
+80-88 
+44-64 
+480	Slow	3	+Paragon
+
+Shredder Club	Spear	86	70	-	-	-	-	600-800 
+330-380 
+-	-	-	-	310	Super Slow	2	+Troll Barge
+
+Desperate Facsimile	Spear	88	-	70	-	-	-	70-95 
+-	0-35 
+-	-	-	310	Very Fast	7	+Last Resort
+
+Veritas	Spear	98	-	-	-	55	55	25-25 
+-	-	-	75-125 
+75-125 
+464	Normal	4	+Divine Honor
+
+Forlorn Pursuit	Spear	98	-	55	-	-	40	55-75 
+-	120-230 
+-	-	85-110 
+506	Slow	2	+Scarce Comfort
+
+Rhythm of the Seasons	Spear	100	80	-	-	60	-	40-50 
+100-140 
+-	-	-	-	512	Very Fast	2	+Rally
+
+Blunt Force	Spear	105	65	-	-	45	45	0-10 
+50-80 
+-	-	60-70 
+40-90 
+620	Very Fast	1	+Vitriol
+
+Viscera Burst	Bow	33	15	20	-	-	-	75-85 
+65-75 
+75-125 
+-	-	-	208	Vert Slow	1	+Fallout
+
+Deadeye	Bow	45	-	-	-	-	-	577-578 
+-	-	-	-	-	295	Super Slow	1	+Hawkeye, Untradable
+
+Attrition	Bow	55	-	-	40	40	-	65-90 
+-	-	-	210-235 
+-	450	Slow	3	+Methodical
+
+Hesperium	Bow	65	50	-	-	40	-	239-239 
+94-239 
+-	-	94-239 
+-	475	Very Slow	2	+Fission
+
+Blighted Seraph	Bow	67	-	40	50	-	-	40-45 
+-	55-135 
+75-90 
+-	-	682	Very Fast	1	+Frenetic Spirit
+
+Wanderer's Purpose	Bow	86	60	-	-	-	60	-	400-500 
+-	-	-	400-500 
+747	Very Slow	3	+Seeking Module
+
+Herald of Ruin	Bow	88	55	-	35	45	-	-	250-330 
+-	200-280 
+-	-	795	Slow	2	+Fallout
+
+Axiom	Bow	92	-	85	-	-	-	625-675 
+-	245-1445 
+-	-	-	762	Super Slow	4	+Reality Revision
+
+Song of Solitude	Bow	96	-	-	95	-	-	-	-	-	1250-1500 
+-	-	701	Super Slow	2	+Pioneer's Echo
+
+Air in a Can	Bow	97	-	-	-	-	75	-	-	-	-	-	115-235 
+753	Super Fast	3	+Freerunner
+
+Briars' Embrace	Bow	99	85	-	-	-	-	10-40 
+220-260 
+-	-	-	-	663	Fast	3	+Forest's Blessing
+
+Watchman's Vendetta	Bow	105	-	75	55	-	-	50-100 
+-	110-290 
+70-130 
+-	-	769	Normal	2	+Vedette
+
+Sealight Prism	Wand	50	21	21	27	21	21	-	13-17 
+4-26 
+15-25 
+12-18 
+9-21 
+200	Fast	3	+Lustrate
+
+Heat Death	Wand	57	-	-	55	-	35	-	-	-	36-38 
+-	26-48 
+229	Very Fast	0	+Flashfreeze
+
+Botched Experiment	Wand	58	37	-	-	29	23	-	127-127 
+-	-	97-113 
+89-101 
+271	Very Slow	2	+Perilous Flare
+
+Plague Staff	Wand	60	-	-	50	-	-	0-1 
+-	-	-	-	-	2	Super Fast	2	+Plague, Untradable
+
+Carnage Agglomerate	Wand	62	65	20	-	-	-	35-45 
+105-125 
+30-40 
+-	-	-	285	Slow	2	+Displace
+
+Warden	Wand	74	-	65	-	-	-	50-60 
+-	25-275 
+-	-	-	308	Slow	4	+Lockdown
+
+Deliverance	Wand	84	-	-	-	80	-	80-120 
+-	-	-	90-150 
+-	453	Normal	0	+Lustrate
+
+Shattered Horizon	Wand	85	55	-	35	-	35	-	50-70 
+-	40-50 
+-	30-60 
+465	Very Fast	0	+Entropy
+
+Suspended Soliloquy	Wand	97	-	-	-	-	85	-	-	-	-	-	725-945 
+426	Super Slow	2	+Inversion
+
+Cerberus	Wand	100	-	70	-	75	-	45-75 
+-	20-120 
+-	80-100 
+-	330	Slow	4	+Meteor Crash
+
+Third Wish	Wand	102	-	60	60	-	-	81-87 
+-	81-87 
+81-87 
+-	-	519	Normal	3	+Perfect Recall
+
+Malevolent Urge	Wand	103	45	-	-	75	-	40-55 
+60-85 
+-	-	60-85 
+-	395	Normal	3	+Sorcery
+
+Monsoon	Dagger	54	-	-	60	-	-	75-85 
+-	-	50-60 
+-	-	338	Fast	2	+Hurricane's Eye
+
+Omnia Mors	Dagger	59	40	-	-	-	40	45-45 
+55-65 
+-	-	-	58-63 
+414	Fast	2	+Flurry of Blows
+
+Roiling Ruckus	Dagger	64	-	45	-	-	-	0-63 
+-	0-142 
+-	-	-	441	Super Fast	2	+Juggle
+
+Aviform	Dagger	83	25	35	-	-	50	-	70-100 
+0-170 
+-	-	35-135 
+638	Fast	3	+Windsurf
+
+Blossom Haze	Dagger	87	65	-	-	-	-	55-75 
+145-185 
+-	-	-	-	575	Fast	2	+Cherry Bombs
+
+Dance Among the Stars	Dagger	92	-	-	55	-	60	-	-	-	160-170 
+-	160-170 
+680	Normal	2	+Space Glide
+
+The Incomprehensible	Dagger	97	67	59	-	-	-	3-11 
+89-127 
+137-163 
+-	-	-	663	Fast	1	+Wormhole
+
+Syncope	Dagger	100	-	46	-	66	-	-	-	66-166 
+-	100-166 
+-	623	Fast	4	+Heat Shimmer
+
+Ysengrim	Dagger	101	-	-	-	65	50	80-110 
+-	-	-	140-230 
+90-280 
+698	Slow	2	+Soul Eater
+
+Animosity	Dagger	103	63	63	-	-	-	133-166 
+666-666 
+360-960 
+-	-	-	753	Super Slow	3	+Hurricane's Eye
+
+Decaybound Spindle	Relik	50	45	-	-	-	-	60-80 
+40-50 
+-	-	-	-	357	Very Fast	2	+Gruesome Knots
+
+Infernus Aeterna	Relik	65	-	45	-	30	-	180-220 
+-	200-325 
+-	150-190 
+-	525	Very Slow	2	+Geocentrism
+
+Tachypsychia	Relik	77	50	50	-	-	-	-	85-125 
+85-125 
+-	-	-	651	Very Fast	2	+Furious Effigy
+
+Triple Point	Relik	89	-	-	60	60	-	5-25 
+-	-	125-175 
+125-175 
+-	646	Normal	3	+Sublimation
+
+Narcissist	Relik	92	70	-	-	-	-	225-340 
+600-600 
+-	-	-	-	732	Very Slow	3	+Geocentrism
+
+A16-L31 Handheld Mortar	Relik	96	45	45	-	45	-	-	525-575 
+495-610 
+-	480-530 
+-	820	Super Slow	3	+Totemic Fuse
+
+Grand Design	Relik	97	45	-	-	65	-	0-125 
+615-785 
+-	-	545-855 
+-	746	Super Slow	3	+Ergosphere
+
+Tremorcaller	Relik	98	85	-	-	-	-	-	1550-1775 
+-	-	-	-	848	Super Slow	0	+Dead Weight
+
+Mephistophelian	Relik	98	-	50	-	-	30	66-66 
+-	66-202 
+-	-	66-118 
+730	Fast	3	+Faustian Gambit
+
+Marionette	Relik	100	40	-	45	30	-	25-25 
+105-145 
+-	100-120 
+-	-	806	Very Fast	2	+Strings of Fate
+
+Panic Zealot	Relik	101	-	-	-	-	85	54-60 
+-	-	-	-	48-66 
+490	Super Fast	3	+Furious Effigy, Untradable
+Fabled Armour
+As of Version 2.1.3, there are currently 16 Fabled Helmets, 21 Fabled Chestplates, 19 Fabled Leggings, and 13 Fabled Boots.
+
+Icon	Name	Type	Combat
+Lv. Min	Str
+Min	Dex
+Min	Int
+Min	Def
+Min	Agi
+Min	Health	Earth
+Defense	Thunder
+Defense	Water
+Defense	Fire
+Defense	Air
+Defense	Slots	Notes
+
+The Scavenged	Helmet	41	-	10	-	10	15	-275 ♥	-	-15 
+-	-15 
+-15 
+0	+Escape Route
+
+Scarlet Veil	Helmet	52	-	-	-	-	-	+1000 ♥	-30 
+-30 
+-30 
+-30 
+-30 
+0	+Explosive Impact
+
+Stifling Spores	Helmet	69	-	-	-	-	-	+2000 ♥	-	-	-	-	-	2	+Plague
+
+Iosis	Helmet	84	-	-	-	80	-	+3050 ♥	-	-	-100 
++165 
+-	2	+Temblor
+
+Ornithopter	Helmet	86	35	-	-	-	70	+3300 ♥	-	-	-	-	-	2	+Freerunner
+
+Vulcan	Helmet	86	60	-	-	65	-	+3400 ♥	+200 
+-	-	+200 
+-300 
+2	+Heart of the Pack
+
+Gnossis	Helmet	89	-	-	80	-	-	+3375 ♥	-	-120 
++80 
+-	-	3	+Geocentrism
+
+Nighthawk	Helmet	94	-	-	-	-	-	+3000 ♥	-	-125 
+-	-	-	2	+Hawkeye, requires Archer
+
+Cypress Amber	Helmet	96	-	80	-	-	-	+3075 ♥	-150 
++100 
+-	-	-	2	+Perilous Flare
+
+Apex	Helmet	97	-	70	-	-	70	+4150 ♥	-	+120 
+-150 
+-150 
++120 
+4	+Alter Ego
+
+Propeller Hat	Helmet	98	-	-	-	-	70	+3700 ♥	-	-125 
+-	-	+200 
+3	+Windsurf
+
+Titanomachia	Helmet	100	65	-	-	70	-	+5250 ♥	+150 
+-250 
+-	+150 
+-	2	+Dauntless Inferno
+
+Dark Matter	Helmet	100	45	45	55	50	55	+3000 ♥	-	-	-	-	-	4	+Intangible
+
+Ornate Shadow Cowl	Helmet	103	-	-	-	-	-	+4000 ♥	+100 
++100 
+-	-	-	3	Untradable, requires A Hunter's Calling
+
+Nuclear Emesis	Helmet	105	60	-	-	50	-	+4500 ♥	+175 
+-200 
+-	+175 
+-	3	+Napalm
+
+Fool's Errand	Helmet	105	40	45	40	-	45	+2800 ♥	+100 
++100 
+-	+100 
++100 
+0	+Pounce, Untradable
+
+Lurking Peril	Chestplate	38	30	-	-	-	-	+450 ♥	+25 
+-	-	-	-	0	+Lunge
+
+Molten Fleshmass	Chestplate	55	15	15	-	30	-	+300 ♥	-	-	-15 
++30 
+-	1	+Temblor
+
+Singed Regrets	Chestplate	60	-	-	-	50	-	+1450 ♥	-	-	-25 
++100 
+-25 
+2	+Meteor Crash
+
+The Jingling Jester	Chestplate	69	-	-	-	-	-	+2325 ♥	+1 
++1 
++1 
++1 
++1 
+3	+Greed
+
+Phantasmal Remnants	Chestplate	71	-	-	-	-	-	+1500 ♥	-	-	-	-	-	0	+Alter Ego
+
+Disfigured Vessel	Chestplate	73	-	-	-	-	-	+1600 ♥	-80 
+-80 
+-80 
+-80 
+-80 
+0	+Mangle
+
+Uranium Aegis	Chestplate	77	35	45	-	-	-	+2725 ♥	-	+75 
+-60 
+-	-	2	+Plague
+
+Pristine Antiquity	Chestplate	79	-	-	50	50	50	+3400 ♥	-	-	+100 
++100 
++100 
+4	+Divine Honor
+
+Eleventh Hour	Chestplate	80	55	-	-	30	-	-	+100 
++100 
++100 
++100 
++100 
+2	+Saviour's Sacrifice, Untradable
+
+Granitic Mettle	Chestplate	84	75	-	-	-	-	+3350 ♥	+150 
+-	-	-	-	3	+Rock Shield
+
+Echoes of the Lost	Chestplate	88	-	-	-	-	90	+2750 ♥	-120 
+-	-	-	+120 
+2	+Sorcery
+
+Quilted Carapace	Chestplate	90	-	-	85	85	-	+2750 ♥	+75 
++50 
++100 
++125 
++50 
+5	+Transcendence, Untradable
+
+Keeper of Souls	Chestplate	91	80	-	-	-	-	-1000 ♥	-	-	-	-	-	5	+Soul Eater
+
+H-215 Plasmatic Exograft	Chestplate	91	-	65	-	65	-	+2150 ♥	-	-125 
+-	-125 
+-	1	+Sublimation
+
+Time Rift	Chestplate	95	-	-	120	-	-	+3000 ♥	-	-	-250 
+-	-	3	+Sorcery
+
+Firebird	Chestplate	95	-	-	-	60	60	+4000 ♥	+75 
++75 
++125 
++125 
++125 
+2	+Phoenix-Born, Untradable
+
+Insignia	Chestplate	100	-	75	-	65	-	+3750 ♥	-	+175 
+-150 
++125 
+-	4	+Superconductor
+
+Inhibitor	Chestplate	100	-	-	-	-	-	-	-	-	-	-	-	0	Untradable
+
+Empyreal Emberplate	Chestplate	103	-	-	50	75	-	+5300 ♥	-	-	-	-	-	4	+Divine Honor
+
+Schadenfreude	Chestplate	103	-	65	55	-	-	+3500 ♥	-175 
++150 
++150 
+-	-	3	+Strings of Fate
+
+Ornate Shadow Garb	Chestplate	103	-	-	-	-	-	+4000 ♥	+100 
++100 
+-	-	-	3	Untradable, requires A Hunter's Calling
+
+Philosopher	Leggings	36	-	-	20	-	-	+525 ♥	-	-	-	+15 
+-	2	+Peaceful Effigy, requires Shaman
+
+Funambulist	Leggings	40	-	-	-	-	35	+475 ♥	-	-	-	-	-25 
+2	+Juggle
+
+Crumbling Foundation	Leggings	55	-	50	-	-	-	+900 ♥	-	+50 
+-100 
+-	-	2	+Entropy
+
+Mirror's Edge	Leggings	63	-	-	-	-	60	+625 ♥	-	-	-	-	-	2	-
+
+Impact Winter	Leggings	66	40	-	25	-	-	+1450 ♥	-	-	-	-90 
+-90 
+3	+Flashfreeze
+
+Jungle Rogue	Leggings	66	50	-	-	-	25	+1800 ♥	+60 
+-	-	-60 
+-	2	+Brachiate
+
+Infernal Impulse	Leggings	73	-	20	-	55	-	+2300 ♥	-	+65 
+-80 
++95 
+-80 
+3	+Rally
+
+Helios Lux	Leggings	73	-	45	-	-	45	+2000 ♥	-	+70 
+-	-	+70 
+2	+Gentle Glow
+
+Reliquiae	Leggings	73	-	-	-	-	-	+2750 ♥	+100 
++100 
++100 
++100 
++100 
+3	+Rusted Ichor
+
+Conspirator's Trickpockets	Leggings	78	-	-	-	-	65	+2000 ♥	-80 
+-	-	-80 
+-	0	+Cherry Bombs, requires Assassin
+
+Spring-Coiled Cataphract	Leggings	80	-	55	-	-	45	+3000 ♥	-	-	-100 
+-	-	2	+Pounce
+
+Second Wind	Leggings	83	-	-	-	65	40	+6325 ♥	-350 
+-350 
+-	+120 
++120 
+3	-
+
+Runebound Chains	Leggings	85	40	40	-	40	40	+3250 ♥	-	-	-	-	-	4	+Sorcery, Untradable
+
+Whirling Gyre	Leggings	89	-	-	75	-	-	+3200 ♥	-250 
+-	-	-	+125 
+2	+Hurricane's Eye
+
+Anti-Causality	Leggings	90	-	-	-	-	-	+4000 ♥	+65 
++65 
++65 
++65 
++65 
+3	+Reckless Abandon
+
+Pain Cycle	Leggings	93	-	-	-	-	70	+3775 ♥	-90 
+-90 
+-90 
+-	-	0	+Gruesome Knots
+
+Psionic Pretense	Leggings	99	-	30	50	-	-	+3500 ♥	-	+75 
++125 
+-	-	3	+Expunge
+
+Pyrrhic Respite	Leggings	101	-	40	55	55	-	+4650 ♥	+100 
+-	-	-	+100 
+2	+Gentle Glow
+
+Ornate Shadow Cover	Leggings	103	-	-	-	-	-	+4000 ♥	+100 
++100 
+-	-	-	3	Untradable, requires A Hunter's Calling
+
+Phlebotomy	Boots	37	-	-	20	10	-	+500 ♥	-	-	-	+20 
+-15 
+2	+Cannulate
+
+Galloping Spurs	Boots	40	25	-	-	-	-	+560 ♥	+20 
+-	-	-	-	0	+Cavalryman
+
+Buoyant Balmorals	Boots	52	-	20	-	-	45	+450 ♥	-25 
++20 
+-	-	+30 
+0	+Combo Stomp
+
+Phage Pins	Boots	65	-	-	-	60	-	-260 ♥	+75 
+-	-	+75 
+-	3	-
+
+Aphorism	Boots	70	-	-	-	-	-	+2250 ♥	-	-	-	-	-	3	+Paragon
+
+Violet-Shift	Boots	77	-	-	-	-	-	-	-	-	-	-50 
+-	2	+Entropy
+
+Takeoff	Boots	88	-	-	-	-	75	+2700 ♥	-	-	-	-125 
++125 
+2	+Lunge
+
+Tachyon	Boots	88	-	55	-	-	30	+3000 ♥	-	-	-	-	-	2	+Escape Route
+
+Blind Thrust	Boots	90	95	-	-	-	-	+3725 ♥	-	-300 
+-	-	-	2	+Explosive Impact
+
+Equites	Boots	92	-	-	-	55	65	+4500 ♥	-	-	-	+180 
++180 
+4	+Cavalryman
+
+Repurposed Vessels	Boots	97	-	45	-	45	-	+4650 ♥	+180 
+-60 
+-60 
+-60 
+-60 
+2	+Dead Weight
+
+Cytotoxic Striders	Boots	99	60	45	-	-	-	+3500 ♥	+150 
++100 
+-	-	-	2	+Plague
+
+Ornate Shadow Cloud	Boots	103	-	-	-	-	-	+4000 ♥	+100 
++100 
+-	-	-	3	Untradable, requires A Hunter's Calling
+Fabled Accessories
+As of Version 2.1.3, there are currently 11 Fabled Rings, 15 Fabled Necklaces, and 16 Fabled Bracelets.
+
+Icon	Name	Type	Combat
+Lv. Min	Str
+Min	Dex
+Min	Int
+Min	Def
+Min	Agi
+Min	Health	Earth
+Defense	Thunder
+Defense	Water
+Defense	Fire
+Defense	Air
+Defense	Notes
+
+Draoi Fair	Ring	60	25	-	25	-	-	-	+20 
+-	+20 
+-	-	Requires The Order of the Grook
+
+Extinction	Ring	60	20	20	15	10	10	-	-20 
+-20 
+-25 
+-30 
+-30 
+-
+
+Symbiont	Ring	60	-	-	-	35	35	+220 ♥	-	-	-	-	-	-
+
+Cold Wave	Ring	75	-	-	40	-	-	-	-	-	-	-	+20 
++Flashfreeze
+
+Athanasia	Ring	80	-	-	-	55	-	+725 ♥	-	-	+50 
++30 
++50 
+-
+
+Cacophony	Ring	80	-	-	-	-	55	-	-15 
+-15 
+-15 
+-15 
+-15 
+-
+
+Bloodborne	Ring	94	-	-	-	30	30	-	-	-35 
+-	+20 
++20 
++Coagulate
+
+Dispersion	Ring	100	45	-	-	-	55	-	-	-	-	-	+60 
+-
+
+Obstinance	Ring	100	-	-	50	-	50	-	-	-	+50 
+-60 
++50 
+-
+
+Forbearance	Ring	105	-	60	60	-	-	-	-	-	-	-	-	-
+
+Ingress	Ring	105	55	-	-	-	55	-	+55 
+-	-	-	+55 
+-
+
+Strobelight	Necklace	54	-	-	-	-	30	+350 ♥	-	-	-	-	-	+Taunt, requires Warrior
+
+Apex Predator	Necklace	60	40	-	-	-	40	-	-	+20 
+-	+20 
+-	-
+
+Eyes On All	Necklace	60	-	45	45	-	-	-	-	-60 
+-60 
+-	-	-
+
+Renda Langit	Necklace	60	-	-	-	-	40	+230 ♥	-	-	-	-	+30 
+Requires The Order of the Grook
+
+Afelis's Locket	Necklace	70	-	-	-	60	-	+375 ♥	-	-	-	+50 
+-	-
+
+Metamorphosis	Necklace	80	-	-	-	-	-	-	+20 
++20 
+-100 
++20 
++20 
+-
+
+Reckoning	Necklace	80	-	-	45	-	45	-400 ♥	-	-	+50 
+-	+30 
+-
+
+Alkali	Necklace	87	-	-	-	55	-	+550 ♥	-	-	-	-	-	+Insoluble
+
+Auxetic Capacitor	Necklace	88	-	65	-	-	-	-250 ♥	-	-40 
+-	-	-	+Self-sufficient
+
+Daredevil	Necklace	92	-	-	-	-	45	-333 ♥	-	-	-	-	+50 
++Lunge
+
+Necklace of a Thousand Storms	Necklace	98	-	-	-	-	50	-300 ♥	-	-	-	-	+60 
+Untradable
+
+Abrasion	Necklace	100	-	-	-	-	-	-	-	-	+40 
++40 
+-	-
+
+Recalcitrance	Necklace	100	45	-	-	-	-	-2600 ♥	+65 
+-	-	-	-45 
+-
+
+Collection	Necklace	105	-	-	50	60	-	-	+30 
++30 
+-60 
+-60 
++30 
+-
+
+Simulacrum	Necklace	105	55	-	-	45	-	-800 ♥	-70 
+-	-	-90 
+-	-
+
+Vindicator	Bracelet	30	-	-	-	-	-	+50 ♥	-	-	-	-	-	+Magnet, requires The Mercenary
+
+Atavistic	Bracelet	60	-	-	40	35	-	+325 ♥	-	-	-	+30 
+-	-
+
+Dragon's Eye Bracelet	Bracelet	60	-	-	-	40	-	-	-	-	-	+25 
+-	Requires The Order of the Grook
+
+Homeorhesis	Bracelet	60	40	-	-	-	-	-	+35 
+-	+35 
+-	-	-
+
+Panic Attack	Bracelet	78	25	30	-	-	-	-400 ♥	-	-	-	-	-	+Freerunner
+
+Double Vision	Bracelet	79	-	-	-	-	-	-750 ♥	-	-	-	-	-50 
++Lightweight, requires The Realm of Light
+
+Provenance	Bracelet	80	45	-	-	-	40	-	-	-	-	-	-	-
+
+Veneration	Bracelet	80	-	55	-	45	-	-	-	-	-65 
+-	-	-
+
+Lachesism	Bracelet	86	-	40	-	-	-	-	-20 
+-	-20 
+-20 
+-20 
++Entropy
+
+Minokawa's Grasp	Bracelet	95	-	-	45	-	55	-300 ♥	-120 
+-	-	-	+90 
++Sun Eater
+
+Anya's Penumbra	Bracelet	100	-	-	-	-	-	-	-	+30 
++30 
+-	-	Untradable
+
+Compliance	Bracelet	100	-	35	35	-	-	+700 ♥	+100 
+-	-	+60 
++80 
+-
+
+Succession	Bracelet	100	30	30	60	30	30	-	-	-	-	-	-	-
+
+Black Space	Bracelet	101	-	-	-	-	-	-	-	-	-	-	-	+Find Thyself
+
+Breakthrough	Bracelet	105	-	-	45	-	45	-	-45 
+-45 
+-	-30 
+-	-
+
+Detachment	Bracelet	105	-	55	-	-	60	-	-	+60 
+-	-	+60 
+-

@@ -1,0 +1,362 @@
+Normal Items
+(Redirected from Normal)
+Normal Items are the most common type of items that can be found in Wynncraft. It isn't hard to find Normal weapons or armour as they are often dropped by mobs and can be bought at Armour Merchants, but are the only type of item that cannot be identified.
+
+
+Contents
+1	List of Normal items
+1.1	Weapons
+1.1.1	Bows
+1.1.2	Spears
+1.1.3	Wands
+1.1.4	Daggers
+1.1.5	Reliks
+1.2	Armour
+1.2.1	Helmets
+1.2.2	Chestplates
+1.2.3	Leggings
+1.2.4	Boots
+2	Navigation
+List of Normal items
+Weapons
+Normal weapon names are systematic. All normal weapons can be divided into four series:
+
+Weapons with levels 1-25 have no prefix
+Weapons with levels 28-55 are prefixed "Flawless"
+Weapons with levels 56-76 are prefixed "Pure"
+Weapons with levels 78-98 are prefixed "Impeccable"
+Within each of those divisions, weapons of various materials are found, with certain materials being of higher level than others. For example, the Oak (sometimes Oak Wood) weapons are the lowest-leveled in each series, while the Light Jungle weapons are the highest-leveled.
+
+Note that some weapons may not have every expected weapon - for example, there is no Light Jungle Stick.
+
+Bows
+Weapon Name	Attack Speed	Damage	Min. Level	Slots
+Oak Wood Bow	Slow	5-13	1	1
+Light Oak Wood Bow	Normal	7-13	4	?
+Stone-hewn Bow	Very Slow	17-21	2	?
+Birch Wood Bow	Slow	13-19	6	?
+Andesite-hewn Bow	Very Slow	31-40	8	?
+Light Birch Wood Bow	Normal	15-21	11	?
+Spruce Wood Bow	Slow	21-32	13	1
+Diorite-hewn Bow	Very Slow	45-61	15	?
+Light Spruce Wood Bow	Normal	20-28	17	?
+Jungle Wood Bow	Slow	30-39	19	1
+Granite-hewn Bow	Very Slow	68-84	22	?
+Light Jungle Wood Bow	Normal	28-34	25	?
+Flawless Oak Bow	Slow	41-57	28	?
+Flawless Stone Bow	Very Slow	90-106	30	?
+Flawless Light Oak Bow	Normal	41-49	33	?
+Flawless Birch Bow	Slow	62-80	36	?
+Flawless Andesite Bow	Very Slow	130-154	39	?
+Flawless Light Birch Bow	Normal	56-72	42
+Flawless Spruce Bow	Slow	91-111	45
+Flawless Light Spruce Bow	Normal	74-95	45
+Flawless Diorite Bow	Very Slow	184-214	47
+Flawless Jungle Bow	Slow	122-144	53
+Flawless Granite Bow	Very Slow	223-277	54
+Flawless Light Jungle Bow	Normal	90-111	55
+Pure Oak Wood Bow	Slow	135-159	56
+Pure Stone Bow	Very Slow	249-297	57
+Pure Light Oak Bow	Normal	106-128	59
+Pure Birch Bow	Slow	162-188	61
+Pure Andesite Bow	Very Slow	306-362	63
+Pure Light Birch Bow	Normal	138-152	65
+Pure Spruce Bow	Slow	193-221	67
+Pure Diorite Bow	Very Slow	358-422	69
+Pure Light Spruce Bow	Normal	145-175	70
+Pure Jungle Bow	Slow	220-250	72
+Pure Granite Bow	Very Slow	404-474	74
+Pure Light Jungle Bow	Normal	168-200	76
+Impeccable Oak Bow	Slow	255-286	78
+Impeccable Stone Bow	Very Slow	470-542	80
+Impeccable Light Oak Bow	Normal	196-230	82
+Impeccable Andesite Bow	Very Slow	535-615	86
+Impeccable Light Birch Bow	Normal	225-265	89
+Impeccable Diorite Bow	Very Slow	629-705	93
+Impeccable Light Spruce Bow	Normal	256-299	95
+Impeccable Granite Bow	Very Slow	700-770	98
+Impeccable Light Jungle Bow	Normal	275-315	98
+Spears
+Weapon Name	Attack Speed	Damage	Min. Level
+Oak Wood Spear	Slow	3-6	1
+Stone-hewn Spear	Very Slow	8-11	2
+Light Oak Wood Spear	Normal	4-8	4
+Birch Wood Spear	Slow	7-13	6
+Andesite-hewn Spear	Very Slow	19-25	8
+Light Birch Wood Spear	Normal	9-13	11
+Spruce Wood Spear	Slow	13-19	13
+Light Spruce Wood Spear	Normal	13-17	17
+Diorite-hewn Spear	Very Slow	26-37	15
+Jungle Wood Spear	Slow	20-25	19
+Granite-hewn Spear	Very Slow	42-59	22
+Light Jungle Wood Spear	Normal	18-24	25
+Flawless Oak Spear	Slow	27-39	28
+Flawless Stone Spear	Very Slow	54-76	30
+Flawless Light Oak Spear	Normal	27-33	33
+Flawless Birch Spear	Slow	36-60	36
+Flawless Andesite Spear	Very Slow	81-109	39
+Flawless Light Birch Spear	Normal	47-59	42
+Flawless Spruce Spear	Slow	63-71	45
+Flawless Diorite Spear	Very Slow	112-144	47
+Flawless Light Spruce Spear	Normal	51-63	50
+Flawless Jungle Spear	Slow	77-99	53
+Flawless Granite Spear	Very Slow	160-199	54
+Flawless Light Jungle Spear	Normal	60-75	55
+Pure Oak Wood Spear	Slow	91-105	56
+Pure Stone Spear	Very Slow	172-215	57
+Pure Light Oak Spear	Normal	70-86	59
+Pure Birch Spear	Slow	102-130	61
+Pure Andesite Spear	Very Slow	197-245	63
+Pure Light Birch Spear	Normal	86-102	65
+Pure Spruce Spear	Slow	129-147	67
+Pure Diorite Spear	Very Slow	243-277	69
+Pure Light Spruce Spear	Normal	99-115	70
+Pure Jungle Spear	Slow	138-176	72
+Pure Granite Spear	Very Slow	271-316	74
+Impeccable Oak Spear	Slow	168-192	78
+Impeccable Stone Spear	Very Slow	311-368	80
+Impeccable Light Oak Spear	Normal	145-167	82
+Impeccable Birch Spear	Slow	184-226	84
+Impeccable Andesite Spear	Very Slow	355-413	86
+Impeccable Light Birch Spear	Normal	152-176	89
+Impeccable Spruce Spear	Slow	209-269	91
+Impeccable Diorite Spear	Very Slow	414-476	93
+Impeccable Light Spruce Spear	Normal	182-198	95
+Impeccable Jungle Spear	Slow	235-300	97
+Impeccable Granite Spear	Very Slow	455-525	98
+Impeccable Light Jungle Spear	Normal	180-210	98
+Wands
+Weapon Name	Attack Speed	Damage	Min. Level
+Oak Wood Stick	Normal	2-4	1
+Stone-hewn Stick	Slow	3-6	2
+Light Oak Wood Stick	Fast	2-5	4
+Birch Wood Stick	Normal	4-7	6
+Andesite-hewn Stick	Slow	7-11	8
+Spruce Wood Stick	Normal	7-10	13
+Diorite-hewn Stick	Slow	12-15	15
+Light Spruce Wood Stick	Fast	7-11	17
+Jungle Wood Stick	Normal	10-14	19
+Granite-hewn Stick	Slow	17-25	22
+Flawless Oak Stick	Normal	15-20	28
+Flawless Stone Stick	Slow	24-30	30
+Flawless Light Oak Stick	Fast	16-20	33
+Flawless Birch Stick	Normal	21-30	36
+Flawless Light Birch Stick	Fast	22-28	42
+Flawless Spruce Stick	Normal	31-41	45
+Flawless Diorite Stick	Slow	48-60	47
+Flawless Light Spruce Stick	Fast	30-39	50
+Flawless Jungle Stick	Normal	41-53	53
+Flawless Granite Stick	Slow	60-77	54
+Flawless Light Jungle Stick	Fast	36-44	55
+Pure Oak Wood Stick	Normal	46-60	56
+Pure Stone Stick	Slow	71-83	57
+Pure Light Oak Stick	Fast	45-50	59
+Pure Birch Stick	Normal	53-71	61
+Pure Andesite Stick	Slow	76-91	63
+Pure Light Birch Stick	Fast	51-61	65
+Pure Spruce Stick	Normal	64-84	67
+Pure Diorite Stick	Slow	99-120	69
+Pure Light Spruce Stick	Fast	61-67	70
+Pure Jungle Stick	Normal	73-95	72
+Pure Granite Stick	Slow	110-136	74
+Pure Light Jungle Stick	Fast	69-80	76
+Impeccable Oak Stick	Normal	85-109	78
+Impeccable Stone Stick	Slow	129-166	80
+Impeccable Light Oak Stick	Fast	87-101	82
+Impeccable Birch Stick	Normal	97-123	84
+Impeccable Andesite Stick	Slow	146-176	86
+Impeccable Light Birch Stick	Fast	92-104	89
+Impeccable Spruce Stick	Normal	114-142	91
+Impeccable Diorite Stick	Slow	171-203	93
+Impeccable Light Spruce Stick	Fast	105-117	95
+Impeccable Jungle Stick	Normal	130-160	97
+Impeccable Granite Stick	Slow	190-220	98
+Impeccable Light Jungle Stick	Fast	110-125	98
+Daggers
+Weapon Name	Attack Speed	Damage	Min. Level
+Oak Wood Shears	Fast	3-5	1
+Stone-hewn Shears	Normal	5-7	2
+Light Oak Wood Shears	Very Fast	2-6	4
+Birch Wood Shears	Fast	5-10	6
+Andesite-hewn Shears	Normal	8-14	8
+Light Birch Wood Shears	Very Fast	7-10	11
+Spruce Wood Shears	Fast	10-16	13
+Diorite-hewn Shears	Normal	15-22	15
+Light Spruce Wood Shears	Very Fast	10-14	17
+Jungle Wood Shears	Fast	14-19	19
+Granite-hewn Shears	Normal	23-31	22
+Light Jungle Wood Shears	Very Fast	14-18	25
+Flawless Oak Shears	Fast	20-27	28
+Flawless Stone Shears	Normal	30-35	30
+Flawless Light Oak Shears	Very Fast	19-27	33
+Flawless Birch Shears	Fast	28-38	36
+Flawless Andesite Shears	Normal	43-51	39
+Flawless Light Birch Shears	Very Fast	28-36	42
+Flawless Spruce Shears	Fast	42-54	45
+Flawless Diorite Shears	Normal	60-70	47
+Flawless Light Spruce Shears	Very Fast	37-47	50
+Flawless Jungle Shears	Fast	56-70	53
+Flawless Granite Shears	Normal	76-88	54
+Flawless Light Jungle Shears	Very Fast	45-55	55
+Pure Oak Wood Shears	Fast	62-78	56
+Pure Stone Shears	Normal	84-98	57
+Pure Light Oak Shears	Very Fast	52-64	59
+Pure Birch Shears	Fast	74-92	61
+Pure Andesite Shears	Normal	102-118	63
+Pure Light Birch Shears	Very Fast	63-77	65
+Pure Spruce Shears	Fast	88-110	67
+Pure Diorite Shears	Normal	121-139	69
+Pure Light Spruce Shears	Very Fast	72-88	70
+Pure Jungle Shears	Fast	100-124	72
+Pure Granite Shears	Normal	136-156	74
+Pure Light Jungle Shears	Very Fast	84-100	76
+Impeccable Stone Shears	Normal	158-180	80
+Impeccable Light Oak Shears	Very Fast	96-116	82
+Impeccable Birch Shears	Fast	131-163	84
+Impeccable Andesite Shears	Normal	180-204	86
+Impeccable Light Birch Shears	Very Fast	112-134	89
+Impeccable Spruce Shears	Fast	154-188	91
+Impeccable Diorite Shears	Normal	210-236	93
+Impeccable Light Spruce Shears	Very Fast	126-152	95
+Impeccable Jungle Shears	Fast	175-210	97
+Impeccable Granite Shears	Normal	230-260	98
+Impeccable Light Jungle Shears	Very Fast	135-160	98
+Reliks
+Weapon Name	Attack Speed	Damage	Min. Level
+Flawless Diorite Relik	Slow	104-112	47
+
+
+Armour
+Helmets
+Name	Material	Health	Level
+Plain Leather Cap	Leather	3	1
+Chipped Leather Cap	Leather	3	1
+Tanned Leather Cap	Leather	11	5
+Padded Leather Cap	Leather	23	9
+Flawed Leather Cap	Leather	31	11
+Hard Leather Cap	Leather	36	13
+Studded Leather Cap	Leather	54	17
+Average Golden Helmet	Gold	71	21
+Aged Golden Helmet	Gold	71	21
+Worn Golden Helmet	Gold	92	25
+Used Golden Helmet	Gold	119	29
+Flawless Chain Helmet	Chain	135	31
+New Golden Helmet	Gold	158	33
+Shining Golden Helmet	Gold	206	37
+Refined Chainmail Helmet	Chain	245	41
+Unfinished Chain Helmet	Chain	265	41
+Flawless Chain Helmet	Chain	335	45
+Standard Chain Helmet	Chain	420	49
+Pure Iron Helmet	Iron	440	51
+Refined Chain Helmet	Chain	530	53
+High-Quality Chain Helmet	Chain	660	57
+Cracked Iron Helmet	Iron	800	61
+Thin Iron Helmet	Iron	920	65
+Plated Iron Helmet	Iron	1055	69
+Solid Iron Helmet	Iron	1200	73
+Reinforced Iron Helmet	Iron	1360	77
+Dim Diamond Helmet	Diamond	1540	81
+Smoky Diamond Helmet	Diamond	1730	85
+Cloudy Diamond Helmet	Diamond	1930	89
+Clear Diamond Helmet	Diamond	2160	93
+Brilliant Diamond Helmet	Diamond	2400	97
+Chestplates
+Name	Material	Health	Level
+Plain Leather Tunic	Leather	9	4
+Chipped Leather Tunic	Leather	16	7
+Tanned Leather Tunic	Leather	20	8
+Padded Leather Tunic	Leather	34	12
+Hard Leather Tunic	Leather	49	16
+Flawed Golden Chestplate	Gold	58	17
+Studded Leather Tunic	Leather	65	20
+Aged Golden Chestplate	Gold	86	24
+Average Golden Chestplate	Gold	112	27
+Worn Golden Chestplate	Gold	111	28
+Used Golden Chestplate	Gold	148	32
+New Golden Chestplate	Gold	192	36
+Flawless Chain Chestplate	Chain	192	37
+Shining Golden Chestplate	Gold	247	40
+Unfinished Chain Mail	Chain	318	44
+Refined Iron Chestplate	Iron	380	47
+Refined Iron Chainmail	Chain	380	47
+Flawed Chain Mail	Chain	400	48
+Standard Chain Mail	Chain	500	52
+Refined Chain Mail	Chain	625	56
+Pure Diamond Chestplate	Diamond	700	57
+High-Quality Chain Mail	Chain	770	60
+Cracked Iron Chestplate	Iron	890	64
+Thin Iron Chestplate	Iron	1025	68
+Plated Iron Chestplate	Iron	1165	72
+Solid Iron Chestplate	Iron	1320	76
+Reinforced Iron Chestplate	Iron	1490	80
+Dim Diamond Chestplate	Diamond	1680	84
+Smoky Diamond Chestplate	Diamond	1880	88
+Cloudy Diamond Chestplate	Diamond	2100	92
+Clear Diamond Chestplate	Diamond	2230	96
+Brilliant Diamond Chestplate	Diamond	2600	100
+Leggings
+Name	Material	Health	Level	Slots
+Plain Leather Leggings	Leather	7	3	0
+Chipped Leather Pants	Leather	11	5	0
+Tanned Leather Leggings	Leather	17	7	0
+Padded Leather Leggings	Leather	30	11	0
+Hard Leather Leggings	Leather	44	15	0
+Flawed Golden Leggings	Gold	44	15	1
+Studded Leather Leggings	Leather	60	19	0
+Aged Golden Leggings	Gold	80	23	0
+Average Golden Leggings	Gold	86	25	1
+Worn Golden leggings	Gold	109	27	1
+Used Golden Leggings	Gold	137	31	1
+Flawless Chain Leggings	Chain	176	35	1
+New Golden Leggings	Gold	178	35	1
+Shining Golden Leggings	Gold	233	39	1
+Unfinished Chain Leggings	Chain	300	43	1
+Refined Iron Leggings	Iron	340	45	1
+Flawed Chain Leggings	Chain	380	47	1
+Standard Chain Leggings	Chain	470	51	1
+Refined Chain Leggings	Chain	590	55	2
+Pure Iron Leggings	Iron	600	55	2
+High-Quality Chain Leggings	Chain	735	59	2
+Cracked Iron Leggings	Iron	860	63	2
+Thin Iron Leggings	Iron	990	67	2
+Plated Iron Leggings	Iron	1130	71	2
+Solid Iron Leggings	Iron	1280	75	2
+Reinforced Iron Leggings	Iron	1450	79	3
+Dim Diamond Leggings	Diamond	1630	83	3
+Smoky Diamond Leggings	Diamond	1830	87	3
+Cloudy Diamond Leggings	Diamond	2040	91	3
+Clear Diamond leggings	Diamond	2270	95	3
+Brilliant Diamond Leggings	Diamond	2530	99	3
+Boots
+Name	Material	Health	Level	Slots
+Plain Leather Boots	Leather	5	2	0
+Chipped Leather Boots	Leather	7	3	0
+Tanned Leather Boots	Leather	14	6	0
+Padded Leather Boots	Leather	26	10	0
+Flawed Leather Boots	Leather	35	13	1
+Hard Leather Boots	Leather	40	14	0
+Studded Leather Boots	Leather	55	18	0
+Aged Golden Boots	Gold	78	22	0
+Average Golden Boots	Gold	73	23	1
+Worn Golden Boots	Gold	100	26	1
+Used Golden Boots	Gold	127	30	1
+Flawless Chain Boots	Chain	155	33	1
+New Golden Boots	Gold	168	34	1
+Shining Golden boots	Gold	220	38	1
+Unfinished Chain Boots	Chain	282	42	1
+Refined Iron Boots	Iron	285	43	1
+Flawed Chain Boots	Chain	355	46	1
+Standard Chain Boots	Chain	445	50	2
+Pure Iron Boots	Iron	520	53	2
+Refined Chain Boots	Chain	560	54	2
+High-Quality Chain Boots	Chain	700	58	2
+Cracked Iron Boots	Iron	830	62	2
+Thin Iron Boots	Iron	955	66	2
+Plated Iron Boots	Iron	1090	70	2
+Solid Iron Boots	Iron	1240	74	2
+Reinforced Iron Boots	Iron	1410	78	3
+Dim Diamond Boots	Diamond	1580	82	3
+Smoky Diamond Boots	Diamond	1780	86	3
+Cloudy Diamond Boots	Diamond	1980	90	3
+Clear Diamond Boots	Diamond	2210	94	3
+Brilliant Diamond Boots	Diamond	2460	98	3

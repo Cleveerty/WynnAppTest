@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Meteor",
+    "description": "Has an auto-aim radius of 2 blocks where the meteor lands. Deals massive fire damage in a large area."
+  },
+  {
+    "name": "Shooting Star",
+    "description": "Doubles the speed of Meteor, making it only take 1s to cast instead of 2s."
+  },
+  {
+    "name": "Wand Proficiency I",
+    "description": "Improves your Main Attack's damage and range when using a wand by 5%."
+  },
+  {
+    "name": "Cheaper Heal",
+    "description": "Reduces the mana cost of Heal by 2 points."
+  },
+  {
+    "name": "Heal",
+    "description": "Heals you and nearby players. Base healing scales with your level."
+  },
+  {
+    "name": "Teleport",
+    "description": "Instantly teleport forward 8 blocks. Can pass through walls."
+  },
+  {
+    "name": "Ice Snake",
+    "description": "Summons a snake of ice that travels forward, dealing water damage and slowing enemies."
+  },
+  {
+    "name": "Cheaper Teleport",
+    "description": "Reduces the mana cost of Teleport by 2 points."
+  },
+  {
+    "name": "Cheaper Meteor",
+    "description": "Reduces the mana cost of Meteor by 2 points."
+  },
+  {
+    "name": "Earth Mastery",
+    "description": "Increases your earth damage by 15% and gives +2 to earth defense."
+  },
+  {
+    "name": "Thunder Mastery",
+    "description": "Increases your thunder damage by 15% and gives +2 to thunder defense."
+  },
+  {
+    "name": "Water Mastery",
+    "description": "Increases your water damage by 15% and gives +2 to water defense."
+  },
+  {
+    "name": "Fire Mastery",
+    "description": "Increases your fire damage by 15% and gives +2 to fire defense."
+  },
+  {
+    "name": "Air Mastery",
+    "description": "Increases your air damage by 15% and gives +2 to air defense."
+  }
+]

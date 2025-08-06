@@ -1,0 +1,686 @@
+Unique Items
+View source
+Unique Items are the second-most common item to find and bear the words "Unique Item" in their lore in yellow text. Unique items can be identified at the Identifier for decent ID's, sometimes better than Rares and Legendaries around the same level.
+
+They are rarer than Normal items, but more common than all other rarities.
+
+
+Contents
+1	List of Unique Items
+1.1	Weapons
+1.1.1	Bows
+1.1.2	Spears
+1.1.3	Wands
+1.1.4	Daggers
+1.1.5	Reliks
+1.2	Armour
+1.2.1	Helmets
+1.2.2	Chestplates
+1.2.3	Leggings
+1.2.4	Boots
+1.3	Accessories
+1.3.1	Rings
+1.3.2	Necklaces
+1.3.3	Bracelets
+2	Navigation
+List of Unique Items
+Weapons
+Bows
+Name	Lv. Min	Quest Req	Neutral Dam.	Earth Dam.	Thunder Dam.	Water Dam.	Fire Dam.	Air Dam.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Attack Speed	Slots	First ID
+Refined Bow	1	-	7-13	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Stormstrike	3	-	5-8	-	-	-	-	-	-	-	-	-	-	Fast	1	?
+Aldorei's Training Bow	5	-	7-15	-	-	-	-	-	-	-	-	-	-	Fast	0	?
+Tormenter	6	-	7-9	-	-	-	-	-	-	2	-	-	-	Very Fast	1	?
+Breeze	7	-	10-12	-	-	-	-	8-14	-	-	-	-	4	Slow	1	?
+Nemract's Bow	7	-	12-23	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+Flaming Bow	9	-	12-20	-	-	-	6-8	-	-	-	-	4	-	Slow	1	?
+Stale	9	-	12-16	-	-	8-14	-	-	-	-	-	-	-	Normal	1	?
+Refined Longbow	9	-	20-28	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+Gavel Imported Bow	12	-	9-16	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Leech Bow	12	-	19-26	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Green Perfection	15	-	23-25	-	-	-	11-14	-	-	-	-	5	-	Slow	1	?
+Ivy	17	-	20-32	10-16	-	-	-	-	-	-	-	-	-	Slow	1	?
+Spiderweb String	17	-	40-55	-	-	-	-	-	-	-	-	-	-	Very Slow	1	?
+WitherString	18	-	30-45	-	-	2-8	-	-	-	-	-	-	-	Slow	1	?
+Frog	19	-	12-18	6-12	-	4-10	-	-	12	-	8	-	-	Normal	1	?
+Silver Bow	20	-	22-40	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Retina Shooter	22	-	45-70	15-20	-	-	-	-	5	-	-	-	-	Very Slow	1	?
+Harpoon	23	-	74-84	-	-	-	-	-	-	-	-	-	-	Very Slow	1	?
+The Wildwing	24	-	10-23	-	-	-	-	15-30	-	-	-	-	5	Normal	1	?
+Cracheur	25	-	8-14	-	-	12-22	-	-	-	-	14	-	-	Fast	1	?
+Sharpshooter	26	-	36-43	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Cobra	27	-	8-13	-	6-18	-	-	-	-	15	-	-	-	Fast	1	?
+Aeolian	29	-	24-50	-	-	-	-	14-22	-	-	-	-	10	Normal	1	?
+Bow of Wisdom	29	-	50-66	-	-	6-12	-	-	-	-	5	-	-	Slow	2	?
+Venom	30	-	28-40	-	-	-	20-40	-	-	-	-	-	-	Slow	1	?
+Precision	32	-	160-180	-	-	-	-	-	-	-	-	-	-	Very slow	0	?
+Radiance	34	-	34-49	-	-	12-24	15-19	-	-	-	15	15	-	Slow	1	?
+Etikal	35	-	22-32	8-12	8-12	8-12	8-12	8-12	5	5	5	5	5	Slow	2	?
+Long Bow	38	-	40-50	40-50	-	-	-	-	25	-	-	-	-	Slow	1	?
+Salmon	40	-	22-44	-	-	33-55	-	-	-	-	5	-	-	Normal	1	23
+Flamiche	41	-	18-22	-	-	-	16-20	-	-	-	-	25	-	Very Fast	1	?
+Crossbow	42	-	155-165	-	-	-	-	-	-	-	-	-	-	Very Slow	2	?
+Crafted Gem	44	-	1-20	-	-	-	-	-	-	-	-	-	-	Fast	4	?
+Nivla's Arch	45	-	122-136	80-96	-	-	-	-	-	-	-	-	-	Very Slow	2	26
+Scorcher	47	-	34-40	-	-	-	50-60	-	-	-	-	30	-	Normal	1	?
+Grenouille	48	-	50-75	-	-	20-35	-	-	-	-	30	-	-	Normal	2	27
+Sparkles	48	-	38-50	-	18-65	-	-	-	-	22	-	-	-	Fast	1	27
+Quickshot	50	-	50-70	-	-	-	-	-	-	20	-	-	-	Very Fast	2	28
+Dancer's Rhythm	51	-	58-75	-	-	-	-	20-28	-	-	-	-	20	Normal	1	29
+Armageddon	53	-	58-75	-	20-120	-	-	-	10	20	-	-	-	Very Slow	1	30
+Ballista	55	-	125-250	75-150	-	-	-	-	30	-	-	-	-	Very Slow	2	31
+Windforce	57	-	30-46	-	-	-	-	28-52	-	-	-	-	-	Very Fast	2	?
+Whitecap	59	-	76-112	-	-	51-65	-	-	-	-	30	-	-	Normal	2	33
+Raging Sun	61	-	110-150	-	-	-	60-110	-	-	-	-	25	-	Slow	2	?
+Stranglevine	63	-	80-125	75-120	-	-	-	-	-	-	-	-	-	Slow	2	?
+Wolf Bow	65	-	120-230	-	-	-	-	-	-	-	-	-	-	Normal	2	?
+Clearwater	67	-	100-120	-	-	60-80	-	-	-	-	55	-	-	Normal	2	?
+Steam Vent	69	-	76-128	-	-	-	48-85	37-99	-	-	-	20	20	Slow	2	?
+Chaotic	71	-	5-25	-	5-175	-	-	-	-	40	-	-	-	Very Fast	0	?
+Lazybones	74	-	275-350	-	-	115-150	-	-	-	-	-	-	-	Very Slow	3	?
+Hope	76	-	240-280	-	-	-	-	-	-	-	-	-	-	Slow	2	?
+Full Charge	77	-	525-650	-	-	-	-	-	-	-	-	-	-	Very Slow	4	?
+Sight of the Druid	78	-	170-215	100-130	-	-	-	-	35	-	15	-	-	Slow	2	?
+Winterspell	79	-	135-222	-	-	-	-	120-180	-	-	-	-	-	Slow	2	?
+Storm Caller	82	-	80-110	-	35-75	-	-	45-55	-	25	-	-	25	Fast	2	?
+Solitude	84	The Lost	90-130	-	-	-	-	80-110	-	-	-	-	60	Fast	3	?
+Flintlock	86	-	195-325	-	-	-	105-175	-	-	-	-	-	-	Slow	2	?
+Slumber	88	-	150-240	-	-	130-210	-	-	-	-	45	-	-	Slow	3	?
+Black Arrow	89	-	10-35	10-35	-	-	10-35	-	20	-	-	20	-	Slow	2	?
+Jewelled Sinew	90	-	-	-	25-175	75-125	50-150	-	-	20	20	20	-	Normal	1	?
+Dunesweeper	92	-	145-200	-	-	-	-	65-90	25	-	-	-	45	Fast	2	?
+Magnus	92	-	600-800	-	-	-	400-500	-	-	50	-	50	-	Super Slow	2	?
+Crescent	93	-	145-250	-	-	75-130	-	-	-	-	60	-	-	Normal	2	?
+Sleeping Beast	95	-	120-240	110-160	50-220	-	-	-	30	30	-	-	-	Slow	3	?
+Demon's Will	97	-	120-180	-	110-180	-	110-180	-	-	40	-	30	-	Slow	2	?
+Awakening	100	-	-	50-100	50-100	50-100	50-100	50-100	-	-	-	-	-	Normal	0	?
+Spears
+Name	Lv. Min	Quest Req	Neutral Dam.	Earth Dam.	Thunder Dam.	Water Dam.	Fire Dam.	Air Dam.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Attack Speed	Slots	First ID
+Aloof	2	-	2-8	-	-	-	-	-	-	-	-	-	-	Fast	1	?
+The Leech Spear	4	-	7-14	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+Fourchette	5	-	10-17	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+Hostage	5	Prison Story	9-14	-	-	-	-	-	-	-	-	-	-	Normal	0	6
+Chandelle	6	-	5-8	-	-	-	5-8	-	-	-	-	-	-	Slow	0	?
+Ragni's Spear	8	-	10-22	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+War Spear	8	-	13-16	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+Sledge	9	-	25-37	-	-	-	-	-	5	-	-	-	-	Very Slow	0	?
+Isaz	10	-	1-3	-	-	6-9	-	-	-	-	-	-	-	Fast	1	8
+Stone Cutter	11	-	7-13	-	-	-	-	-	-	-	-	-	-	Fast	0	?
+Bedrock Eater	12	-	27-39	-	-	-	-	-	-	-	-	-	-	Very Slow	1	?
+The Skin Tearer	13	-	10-14	-	-	-	-	-	2	2	-	-	-	Normal	1	?
+Chief	14	-	7-10	-	-	-	4-6	-	-	-	-	8	-	Normal	1	?
+Hilt	16	-	8-16	-	-	-	-	-	-	-	-	-	-	Normal	3	?
+Spear of Prosperity	18	-	24-33	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+Grandfather	20	-	54-61	-	-	-	-	-	-	-	-	1	-	Very Slow	1	?
+Broken Trident	22	-	28-44	-	-	-	-	-	5	-	10	-	-	Slow	1	?
+Big Ol’ Hammer	23	-	10-15	18-25	-	-	-	-	20	-	-	-	-	Slow	1	?
+Hunter	23	-	5-8	-	2-14	-	-	-	-	12	-	-	-	Very Fast	1	?
+Blade of Wisdom	24	-	12-16	-	-	12-20	-	-	-	-	10	-	-	Slow	1	?
+Kuiper	25	-	5-5	9-17	9-17	9-17	9-17	9-17	6	6	6	6	6	Very Slow	1	
+Barbed Spear	26	-	65-75	-	-	-	-	-	10	-	-	-	-	Very Slow	1	?
+Cross	28	-	41-53	-	-	-	-	-	-	-	-	-	-	Slow	0	?
+Hook	29	-	13-18	-	-	-	-	13-20	-	-	-	-	10	Fast	1	?
+The Head Ripper	30	-	10-15	10-15	-	-	-	15-25	5	-	-	-	5	Slow	1	?
+Ocean Blade	32	-	1-20	-	-	15-20	-	-	-	-	25	-	-	Normal	1	?
+Steel Buster	34	-	36-45	15-19	-	-	-	-	15	-	-	5	-	Slow	1	?
+Mixolydian	36	-	14-19	-	-	-	-	11-15	-	-	-	-	25	Very Fast	1	?
+Dragon Fang	38	-	4-18	-	-	-	22-36	-	-	-	-	15	-	Fast	2	?
+Meteorite	40	-	-	15-25	-	-	10-30	-	10	-	-	10	-	Fast	2	23
+Sharp Terror	42	-	25-31	-	-	31-39	-	-	-	-	20	-	-	Slow	2	24
+Current	43	-	20-27	-	10-30	-	-	-	-	-	-	-	-	Fast	2	?
+The Vampire Blade	44	-	18-28	-	10-40	-	-	-	-	-	-	-	-	Normal	1	25
+Nesaak's Will	46	-	46-68	-	-	21-29	-	-	10	-	10	-	-	Slow	1	?
+Gale Rider	47	-	11-18	-	-	-	-	13-18	-	-	-	-	15	Very Fast	2	27
+Chest Breaker	48	-	40-92	-	-	-	-	-	30	-	-	-	-	Normal	2	27
+Razor	49	-	-	-	30-80	-	-	-	-	-	-	-	-	Fast	3	28
+Sandscar	51	-	26-42	16-28	-	-	-	10-18	-	-	-	-	-	Normal	1	29
+Kenaz	52	-	62-71	-	-	-	28-36	-	-	-	-	20	-	Slow	2	29
+Eil	54	-	80-85	-	-	-	-	-	-	-	-	-	-	Normal	2	?
+Vanilla Spade	55	-	-	-	-	30-45	-	30-45	-	-	20	-	20	Normal	1	31
+Spear of Vix	57	-	10-25	-	-	-	-	20-50	-	-	-	-	-	Very Fast	2	32
+Carrot	58	-	1-190	1-120	-	-	-	-	15	-	-	-	-	Very Slow	1	32
+Magma Rod	59	-	-	-	-	-	74-112	-	-	-	-	40	-	Normal	2	33
+Griswold's Edge	60	-	100-150	-	20-30	-	-	-	-	5	-	-	-	Slow	1	?
+Glowstone Killer	61	-	34-47	-	56-73	-	-	-	-	-	-	-	-	Normal	2	34
+Old Maple Spear	64	-	78-102	57-80	-	-	-	-	35	-	-	-	-	Slow	2	?
+Heatwind	66	-	15-24	-	-	-	21-28	14-18	-	-	-	30	20	Very Fast	2	36
+Black Spear	68	-	170-184	-	-	-	-	-	-	-	-	10	-	Slow	2	?
+Troms’ Pride	70	-	90-110	30-45	-	22-34	-	-	-	-	-	-	-	Normal	2	?
+Fluffster	72	-	187-196	-	-	-	-	-	-	-	-	-	15	Slow	2	?
+Aldo	75	-	94-109	-	-	32-44	-	71-75	-	-	-	-	-	Slow	2	?
+Cloudbreaker	77	-	34-70	-	37-54	-	-	49-66	-	-	-	-	25	Normal	3	?
+Dragon Slayer	79	-	70-85	-	-	-	65-75	20-30	-	-	-	40	-	Normal	2	?
+Breath of the Vampire	81	-	65-80	-	-	-	-	40-80	-	-	-	25	-	Fast	2	?
+Bonethrasher	83	-	50-175	-	-	-	-	-	60	-	-	-	-	Very Fast	3	?
+Glitchtean	84	-	43-59	-	4-92	-	-	-	-	50	-	-	-	Very Fast	1	?
+Bizzles	85	-	211-230	245-269	-	-	-	-	-	-	-	-	-	Very Slow	2	?
+Nightstar	88	-	140-180	-	-	100-120	-	-	-	-	45	-	-	Slow	2	?
+Hammer of the Forge	90	-	180-240	240-300	-	-	180-240	-	45	-	-	45	-	Super Slow	1	?
+Heartache	91	-	300-340	-	-	200-230	-	-	-	-	60	-	-	Slow	2	?
+Feedback	93	-	90-120	-	60-80	-	-	-	-	45	-	-	-	Fast	3	?
+Relfect	94	-	100-130	20-25	20-25	20-25	20-25	20-25	15	15	15	15	15	Normal	2	?
+Shield Buster	95	-	300-410	-	-	-	-	-	-	-	-	-	-	Slow	3	?
+Frenzy	96	-	35-95	-	-	-	-	20-70	-	-	-	-	50	Very Fast	2	?
+Magnitude	98	-	310-360	220-300	-	-	-	-	50	-	-	-	-	Very Slow	2	?
+Diaminar	100	-	65-83	-	-	-	474-665	-	-	-	-	35	-	Very Slow	2	?
+Wands
+Name	Lv. Min	Quest Req	Neutral Dam.	Earth Dam.	Thunder Dam.	Water Dam.	Fire Dam.	Air Dam.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Attack Speed	Slots	First ID
+Quartzite Wand	1	-	2-4	-	-	-	-	-	-	-	-	-	-	Fast	0	?
+The Scarecrow's Arm	3	-	1-5	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Sparklock	5	-	5-9	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Detlas' Stick	7	-	5-9	-	-	1-4	-	-	-	-	-	-	-	Fast	1	?
+Clock Stick	9	-	2-14	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Petrified Stick	11	-	20-25	-	-	-	-	-	5	-	-	-	-	Very Slow	0	?
+Skeleton's Bone	14	-	4-18	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+Autumn Tree	14	-	7-13	3-7	-	-	-	-	8	-	-	-	-	Slow	1	?
+Glowing Wand	15	-	4-5	-	-	-	2-5	-	-	-	-	-	-	Very Fast	1	?
+Enchanter	16	-	7-10	-	-	3-5	-	-	-	-	-	-	-	Slow	1	?
+Valix	18	-	8-10	-	-	-	-	-	-	-	-	-	-	Very Fast	1	?
+The Brain Smasher	20	-	20-35	7-17	-	-	-	-	5	-	-	-	-	Very Slow	1	?
+Albakaya	22	-	6-12	-	-	-	8-12	-	-	-	-	-	-	Normal	1	?
+Stave of Tribute	24	-	17-23	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Head Knocker	25	-	22-30	22-34	-	-	-	-	18	-	-	-	-	Very Slow	0	?
+Stick of Brilliance	26	-	11-18	-	-	-	-	-	-	-	8	-	-	Normal	2	?
+Dusty Staff	26	-	12-20	12-16	-	-	-	-	-	-	-	-	-	Slow	1	?
+Dark Needle	28	-	6-10	-	6-14	-	-	-	-	10	-	-	-	Fast	1	?
+Melted Ruby	30	-	5-10	-	-	-	10-14	-	-	-	-	-	5	Normal	1	?
+Salamander	33	-	12-18	-	1-17	-	-	-	-	-	-	10	-	Very Fast	1	?
+Lullaby	34	-	15-21	-	-	11-15	-	-	-	-	10	-	-	Normal	2	?
+Gavel's Memory	36	-	1-30	-	-	14-18	-	14-18	-	-	-	-	15	Normal	2	?
+Vampire Stick	37	-	22-28	-	-	-	-	-	-	-	-	-	-	Normal	2	?
+Viper	38	-	5-10	-	5-20	-	-	-	-	-	-	22	-	Very Fast	1	?
+Loam	39	-	21-24	1-15	-	-	-	-	10	-	5	-	-	Norma	2	?
+Bleeding Wand	41	-	35-41	-	-	-	-	-	-	-	-	-	-	Normal	2	?
+Candlestick	42	-	11-22	-	-	-	11-33	-	-	-	-	-	-	Normal	2	24
+Wirt's Leg	42	-	26-34	-	-	-	-	-	-	-	-	-	-	Fast	2	?
+Cigar	43	-	48-60	-	-	-	-	-	-	-	-	-	-	Slow	2	?
+Devoreuse	45	-	50-58	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+Sorcerer's Stick	46	-	10-18	-	17-23	-	-	-	20	10	-	-	-	Normal	3	?
+Ciocca	48	-	15-25	-	-	10-25	-	10-25	-	-	-	-	15	Fast	2	?
+Spine	50	-	10-20	-	1-29	-	-	-	-	30	-	-	-	Very Fast	1	28
+Zombified Branch	51	-	88-104	-	-	-	-	-	-	-	-	-	-	Very Slow	1	29
+Sunsetter	53	-	26-37	-	-	24-29	-	-	-	-	15	-	5	Normal	1	?
+Burning Torch	56	-	10-30	-	-	-	110-180	-	-	-	-	25	-	Very Slow	0	31
+Maple	58	-	47-63	22-34	-	-	-	-	-	-	-	-	-	Normal	2	?
+Melon Cutter	58	-	0-0	0-135	-	-	-	-	30	-	-	-	-	Normal	0	32
+Static Wand	60	-	1-30	-	1-60	-	-	-	-	30	-	-	-	Very Fast	1	33
+Ohonte Kerhite	60	-	-	-	-	30-70	-	-	-	-	100	15	-	Normal	2	?
+The Elder Wand	62	-	18-28	40-48	-	24-26	-	-	10	-	10	-	-	Slow	2	?
+Bianco	64	-	77-93	-	-	-	-	-	-	-	-	-	-	Normal	3	?
+Rotten Wood	65	-	1-5	-	-	-	-	-	-	-	-	-	-	Slow	2	?
+Arakadicus' Leg	67	-	40-60	30-45	10-60	-	-	-	15	15	-	-	-	Slow	2	?
+Dirge	69	-	45-80	-	-	55-90	-	55-90	20	10	-	-	-	Slow	2	?
+Lichclaw	71	-	55-75	-	25-55	-	-	-	-	20	-	-	-	Normal	3	?
+Moonsetter	73	-	30-75	-	-	-	45-60	-	-	10	-	20	-	Normal	1	?
+Subsumere	76	-	60-90	-	20-60	40-50	-	-	-	15	20	-	-	Slow	2	?
+Hickory Stick	77	-	40-95	-	-	-	20-45	-	-	-	-	35	-	Fast	1	?
+Gnarl	78	-	100-150	150-200	-	-	-	-	20	-	-	-	-	Very Slow	2	?
+Windchime	80	-	60-70	-	-	30-50	-	30-50	-	-	-	-	-	Fast	3	?
+Aldorei's Vision	82	-	40-60	50-70	-	45-55	-	-	15	-	15	-	-	Slow	2	?
+Essence Bastion	84	-	140-180	125-155	-	-	-	-	-	-	-	30	-	Very Slow	2	?
+Canyon Spirit	85	The Lost	50-70	60-100	-	-	-	-	-	-	-	-	-	Normal	2	?
+Deepwood Root	86	-	80-120	75-125	-	-	-	-	-	-	-	-	-	Slow	3	?
+Heavenly Wisp	88	-	20-40	-	-	30-60	-	30-60	-	-	20	-	20	Fast	2	?
+Lightningrod	90	-	25-50	-	35-70	-	-	-	-	30	-	-	-	Very Fast	2	?
+Topaz Staff	91	-	30-60	-	1-100	-	-	-	-	25	-	25	-	Very Fast	2	?
+Rainstorm	93	-	90-120	-	-	50-80	-	-	-	15	25	-	-	Normal	1	?
+Magma Chalice	95	-	110-155	-	-	-	75-110	-	20	-	-	20	-	Slow	3	?
+Yggdrasil	97	-	70-90	90-120	-	-	-	-	25	-	15	-	-	Normal	2	?
+Cyclone	100	-	-	-	-	-	-	100-130	-	10	-	-	30	Very Fast	3	?
+Daggers
+Name	Lv. Min	Quest Req	Neutral Dam.	Earth Dam.	Thunder Dam.	Water Dam.	Fire Dam.	Air Dam.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Attack Speed	Slots	First ID
+Slicer	1	-	7-9	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Spyrr	3	-	6-8	-	-	-	-	-	-	-	-	-	-	Fast	1	?
+Switch Blade	5	-	7-12	-	-	-	-	-	-	-	-	-	-	Fast	1	6
+Bolt	8	-	3-10	-	1-9	-	-	-	-	4	-	-	-	Fast	1	?
+Fatigue	8	-	24-32	-	-	-	-	-	-	-	-	-	-	Very Slow	1	?
+Thief's Dagger	8	-	5-11	-	-	-	-	-	-	-	-	-	2	Very Fast	1	?
+Scout Dagger	10	-	10-22	-	-	-	-	-	-	-	-	-	-	Fast	1	?
+Eleven	11	-	11-11	-	-	-	-	-	-	-	-	-	-	Very Fast	1	?
+Claw	13	-	13-15	-	-	-	-	-	-	-	-	-	-	Fast	1	?
+Digested Dagger	16	-	16-23	-	-	-	-	-	-	-	-	-	-	Fast	1	?
+Yahya's Nail Clipper	17	-	18-24	0-8	-	-	-	-	-	-	-	-	-	Normal	1	?
+The Wool Trimmer	20	-	7-14	-	-	5-10	-	-	-	-	-	-	-	Very Fast	1	?
+Regrets	23	-	10-14	-	-	10-14	-	-	-	-	8	-	-	Normal	1	?
+Saint's Scar	24	-	19-24	8-15	-	-	-	-	10	-	-	-	-	Normal	1	?
+Fishing Hook	26	-	12-16	-	2-6	8-14	-	-	-	5	5	-	-	Fast	1	?
+Ocelot Claw	27	-	10-12	-	1-20	-	-	-	-	-	-	-	-	Very Fast	1	?
+Sickle	28	-	5-30	-	-	-	-	5-20	-	-	-	-	15	Fast	1	?
+Clawctus	31	-	20-26	-	1-16	-	-	-	-	-	-	-	-	Fast	1	?
+Devil's Scissor	31	-	16-24	-	16-24	-	16-24	-	-	10	-	10	-	Slow	1	?
+Drought Savior	33	-	18-24	-	-	14-22	-	-	-	-	15	-	-	Normal	2	?
+Lacerator	33	-	15-45	-	-	-	-	-	-	-	-	-	-	Very Fast	0	?
+Steel Sabre	35	-	42-58	18-22	-	-	-	-	-	-	-	-	-	Slow	1	?
+The Mind	37	-	20-24	-	-	16-26	-	-	-	-	20	-	-	Normal	2	22
+HellRaiser	38	-	30-35	-	-	-	26-36	-	-	-	-	10	-	Normal	0	?
+Whisper	38	-	20-30	-	-	-	-	12-20	-	-	-	-	20	Fast	2	?
+Obsidian	41	-	40-50	38-52	-	-	-	-	30	-	-	-	-	Slow	1	?
+Snowslicer	41	-	23-32	-	-	18-29	-	-	-	-	15	-	-	Fast	1	?
+Celsius	42	-	11-17	-	-	20-28	-	18-30	-	-	20	-	15		2	?
+Kanata	43	-	12-32	-	-	-	-	22-32	-	-	-	-	20	Fast	2	?
+Dissector	44	-	44-46	-	-	-	-	-	-	-	-	-	-	Very Fast	2	?
+Handmade Bucie Knife	45	-	48-58	-	-	-	34-56	-	-	-	-	-	-	Slow	2	?
+Butcher's Clever	46	-	40-55	-	-	40-55	-	-	-	-	15	-	-	Slow	2	?
+Twin Daggers	49	-	-	-	15-25	-	-	15-25	-	20	-	-	20	Super Fast	2	?
+Vampire Touch	51	-	50-90	-	5-10	-	-	-	-	12	-	-	-	Fast	2	29
+Seraph	52	-	27-45	-	-	-	-	32-36	-	-	5	-	20	Normal	2	29
+Flaming Fangs	54	-	56-68	-	-	-	32-42	-	-	-	-	-	-	Normal	2	30
+Karabiner	55	-	31-44	-	-	-	21-30	-	-	-	-	25	5	Very Fast	2	31
+Couteau	56	-	62-66	-	-	-	-	-	-	-	-	-	-	Super Fast	0	31
+Kitten Claw	57	-	12-24	-	18-54	-	-	-	-	-	-	-	-	Very Fast	2	32
+Souffle	58	-	-	-	-	-	-	85-100	-	-	-	-	28	Normal	2	?
+Wild Gauntlet	60	-	59-74	48-63	-	-	-	-	25	-	-	-	-	Normal	1	?
+Tactical Kukri	61	-	56-72	-	-	-	34-40	-	-	-	-	35	-	Fast	2	?
+Sapphire Shard	63	-	23-28	-	-	52-67	-	-	-	-	20	-	-	Fast	3	35
+Bladestorm	65	-	15-18	-	20-26	-	-	34-45	-	-	-	-	-	Very Fast	2	?
+Arakadicus’ Claw	66	-	80-100	120-190	20-130	-	-	-	20	20	-	-	-	Very Slow	2	?
+Giant Claw	68	-	115-135	-	-	-	-	-	-	-	-	-	-	Fast	2	?
+Parang	68	-	110-140	-	-	-	-	90-100	30	-	-	-	30	Slow	2	?
+Crystal Senbon	70	-	99-101	-	-	-	-	-	10	10	10	10	10	Very Fast	5	?
+Searing Knife	72	-	85-110	-	-	-	45-70	-	-	-	-	30	-	Normal	2	?
+Wayfinder	74	-	86-100	-	-	38-49	-	33-40	-	-	15	-	20	Normal	2	?
+Block Buster	76	-	130-180	90-110	-	-	-	-	35	-	-	-	-	Slow	3	?
+Plasma Shear	78	-	-	-	30-42	-	37-52	-	-	20	-	25	-	Super Fast	1	?
+Quill	80	-	80-90	-	-	-	-	60-70	-	-	10	-	30	Fast	3	?
+Droplets	82	-	102-125	-	-	72-98	-	-	-	-	50	-	-	Fast	2	?
+Nether's Deep	84	-	70-100	-	20-70	-	40-60	-	-	15	-	35	-	Normal	1	?
+Sans	85	-	200-250	-	-	-	-	-	-	-	-	-	-	Normal	3	?
+Poison Touch	87	-	-	30-60	-	-	-	-	-	-	-	-	-	Very Slow	2	?
+Nimbus	89	-	-	-	-	40-65	-	70-100	-	-	25	-	30	Normal	2	?
+Copper Knife	91	-	120-155	-	60-75	-	-	-	-	40	-	-	-	Fast	3	?
+Magmarizer	93	-	135-180	-	-	-	65-85	-	-	-	-	55	-	Normal	2	?
+Waterspout	95	-	55-120	-	45-155	80-95	-	-	-	25	35	-	-	Fast	2	?
+Dancing Blade	98	-	60-75	-	-	-	-	50-65	-	-	-	-	50	Super Fast	2	?
+Pencuri	100	-	175-275	-	-	-	-	-	-	60	-	-	-	Fast	3	?
+Reliks
+Name	Lv. Min	Quest Req	Neutral Dam.	Earth Dam.	Thunder Dam.	Water Dam.	Fire Dam.	Air Dam.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Attack Speed	Slots	First ID
+Bumblebee	2	-	12-18	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+The Out	5	-	12-16	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Death Growl	7	-	24-27	-	-	-	-	-	-	-	-	-	-	Slow	1	?
+Windcatcher Totem	8	-	10-11	-	-	-	-	4-5	-	-	-	-	-	Fast	1	?
+Turnpike	8	-	30-35	13-15	-	-	-	-	-	-	-	-	-	Very Slow	1	?
+Stringendo	10	-	16-20	-	-	-	-	-	-	-	-	-	-	Fast	1	?
+Spiritual Siphoner	10	-	15-18	-	-	3-6	-	-	-	-	-	-	-	Normal	1	?
+Little Machine	13	-	13-16	-	4-8	-	-	-	-	-	-	-	-	Fast	0	?
+Diamond Sky	15	-	24-28	-	-	-	-	-	-	-	-	-	-	Normal	1	?
+Keen Measure	17	-	17-18	-	-	11-12	-	-	-	-	5	-	-	Normal	1	?
+Butterfly Wings	19	-	33-49	-	-	-	-	-	-	-	-	-	-	Slow	2	?
+Remembrance	21	-	20-23	-	-	-	-	13-16	-	-	-	-	8	Normal	1	?
+Silhouette	22	-	24-27	-	-	-	-	-	-	-	-	-	8	Fast	1	?
+Led Balloon	23	-	97-114	51-57	-	-	-	-	10	-	-	-	-	Super Slow	0	?
+Flux and Flow	25	-	28-34	-	12-14	-	-	-	-	10	-	-	-	Normal	1	?
+Sweden	28	-	21-28	-	-	-	-	21-28	-	-	-	-	14	Normal	1	?
+Avocado	29	-	-	25-29	-	25-29	-	-	10	-	10	-	-	Normal	1	?
+Vivace	29	-	13-18	-	9-13	-	-	9-13	-	10	-	-	10	Very Fast	1	?
+Sky Glaze	30	-	25-25	-	-	20-30	-	15-35	-	-	10	-	10	Slow	2	?
+Ablution	30	-	-	-	-	40-60	-	-	-	-	12	-	-	Normal	2	?
+Melange	31	-	11-11	8-14	6-16	9-13	10-12	7-15	7	7	7	7	7	Normal	2	?
+Windowframe	34	-	11-13	27-33	27-33	-	-	-	12	12	-	-	-	Normal	2	?
+Incense Burner	34	-	36-46	-	-	-	31-51	-	-	-	-	15	-	Slow	2	?
+Echolocation	35	-	39-45	-	-	-	-	-	-	-	-	-	-	Very Fast	2	?
+Reversal	36	-	17-23	23-30	-	-	-	23-30	12	-	-	-	12	Normal	1	?
+Window Pane	37	-	11-13	-	27-33	27-33	-	-	-	13	13	-	-	Normal	2	?
+Zipper	38	-	5-7	-	50-70	-	-	-	-	20	-	-	-	Normal	2	?
+Hue	39	-	17-20	17-20	17-20	17-20	17-20	17-20	9	9	9	9	9	Slow	2	?
+Foehn Wind	41	-	60-68	-	-	-	56-72	52-76	-	-	-	14	14	Very Slow	2	?
+Hotline	42	-	36-42	-	36-42	-	36-42	-	-	15	-	15	-	Slow	2	?
+Tearing Seam	43	-	20-26	23-29	-	-	17-23	-	16	-	-	16	-	Fast	2	?
+Vibrato	44	-	21-22	-	55-56	-	-	55-56	-	16	-	-	16	Slow	2	?
+Rectificator	45	-	80-100	-	-	-	-	-	-	-	-	-	-	Normal	3	?
+Col Legno	48	-	25-30	30-35	30-35	-	-	-	24	24	-	-	-	Fast	2	?
+Holocene	49	-	40-60	90-110	-	-	-	-	25	-	-	-	-	Slow	2	?
+Running Water	50	-	10-30	-	-	50-70	-	-	-	-	30	-	-	Fast	2	?
+Ignatius	50	-	20-30	-	-	-	70-80	-	-	-	-	25	-	Normal	2	?
+Armour
+Helmets
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Slots	First ID
+Hairy Cap	1	-	4	-	-	-	-	-	-	-	-	-	-	1	?
+Soft Helmet	4	-	10	?	?	?	?	?	-	-	-	-	-	?	?
+Thinking Helmet	4	-	8	?	?	?	?	?	-	-	-	-	-	?	?
+Helmet of Intelligence	6	-	13	?	?	?	?	?	-	-	-	-	-	?	?
+Skin Cap	7	-	16	?	?	?	?	?	-	-	-	-	-	?	?
+Helmet of Wisdom	12	-	30	?	?	?	?	?	-	-	2	-	-	?	?
+Upside Down Bowl	12	-	30	?	?	?	?	?	-	-	-	-	-	?	?
+Leather Face	13	-	40	?	?	?	?	?	-	3	-	3	-	?	?
+Creeper Mask	14	Creeper Infiltration	56	-	-	-	-	-	-	-	-	-	-	0	10
+The Old King's Crown	14	-	56	?	?	?	?	?	-	-	-	5	-	?	?
+Butter Helmet	15	-	56	?	?	?	?	?	-	-	-	-	-	?	?
+Zombie Helm	18	-	75	?	?	?	?	?	-	-	-	-	-	?	?
+Mercenary Hood	19	-	120	?	?	?	?	?	-	5	-	-	-	?	?
+Mustard Helmet	22	-	90	?	?	?	?	?	3	-	3	-	-	?	?
+Sunblock	24	-	121	?	?	?	?	?	-	-	-	5	-	?	?
+DuskHelm	26	-	125	?	?	?	?	?	-	-	-	-	-	?	?
+Rubber Helm	29	-	165	?	?	?	?	?	-	-	-	-	-	?	?
+Hood of the Resistance	32	-	175	?	?	?	?	?	15	-	-	-	-	?	?
+Hilltop	33	-	210	?	?	?	?	?	-	-	-	-	-	?	?
+Pierced Helmet	37	-	260	?	?	?	?	?	-	-	-	-	-	?	?
+Faded	39	-	190	?	?	?	?	?	-	-	-	-	-	?	?
+Assassin's Hood	41	-	315	-10	-	-	-	-	-	-	-	-	-	1	?
+Climbing Helmet	42	Ice Nations	350	30	-	-	-	30	-	-	-	-	-	2	24
+Helm of the Dead	44	-	390	15	20	-	-	-30	5	5	-	-	-	2	?
+Whistling Helmet	47	-	430	?	?	?	?	?	-	-	-	-	30	2	27
+White Storm	48	-	510	?	?	?	-20	25	-	-	-	-	-	1	27
+Factory Helmet	50	An Iron Heart I	500	-	-	-	-	-	-	-	-	-	-	?	-
+Snow Dust	52	-	550	-20	25	-	-20	25	-	-	-	-	-	2	29
+Capstone	55	-	750	?	?	?	?	?	-	-	-	20	-	?	31
+Blueberry	58	-	870	?	?	?	?	?	-	-	-	-	-	?	?
+Jungle Sludge	60	-	950	?	?	?	?	?	-	-	-	-	-	?	33
+Helmet of Blue Stone	62	-	1050	?	?	?	?	?	5	5	5	5	5	?	?
+Marrow	65	-	1100	?	?	?	?	?	-	-	-	-	-	?	?
+StealSkull	68	-	960	?	?	?	?	?	-	-	-	-	-	?	37
+Cumulus	70	-	1225	?	?	?	?	?	-	-	-	-	40	?	38
+Iodide	73	-	1180	?	?	?	?	?	-	20	10	-	-	?	?
+Bloodshed	75	Two Towers	1740	?	?	?	?	?	-	-	-	-	-	?	?
+Destruction	75	Two Towers	1430	?	?	?	?	?	-	-	-	-	-	?	?
+Suicide	75	Two Towers	1600	?	?	?	?	?	-	-	-	-	-	?	?
+Jewel	76	-	1645	?	?	?	?	?	-	-	-	-	-	?	?
+Swamp Clay	78	-	1600	?	?	?	?	?	35	-	30	-	-	?	?
+Exosphere	81	-	1925	-10	100	-	-	-	-	40	-	-	10	2	?
+Skywatcher	84	-	2100	-	-	-	-100	100	-	-	25	-	45	2	?
+Pilot Light	86	-	2200	-	-	-40	90	-	-	-	-	35	-	1	?
+Moonbeam	89	-	1800	?	?	?	?	?	-	-	50	-	-	?	?
+Quartzite Helm	91	-	2550	-	-	-	-	-	-	-	-	-	-	4	?
+Breakdown	93	-	2175	?	?	?	?	?	-	-	65	-	-	?	?
+Sunray	96	-	2850	?	?	?	?	?	-	20	-	20	-	?	?
+Rodoroc's Pride	98	-	2500	?	?	?	?	?	50	-	-	50	-	?	?
+Aquamarine	100	-	3000	?	?	?	?	?	30	-	45	-	-	?	?
+Chestplates
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Slots	First ID
+Scarab	2	-	6	?	?	?	?	?	-	-	-	-	-	?	?
+Shining Cloak	4	-	12	?	?	?	?	?	-	-	-	-	-	?	?
+Solidified Chestplate	4	-	14	?	?	?	?	?	-	-	-	-	-	?	?
+Abandoned Tunic	6	-	22	?	?	?	?	?	-	-	-	-	-	?	?
+Log Suit	6	-	21	?	?	?	?	?	-	-	-	-	-	?	?
+Runner's Vest	9	-	24	?	?	?	?	?	-	-	-	-	5	?	?
+Iron Mail	12	-	40	?	?	?	?	?	5	-	-	-	-	?	?
+Mail of the Berserker	12	-	34	?	?	?	?	?	-	-	-	-	-	?	?
+Collier Tunic	14	-	55	?	?	?	?	?	-	-	-	10	-	?	?
+NightMail	16	-	56	?	?	?	?	?	-	3	-	-	3	?	?
+Ragged	19	-	60	?	?	?	?	?	-	-	-	-	-	?	?
+Dandelion	22	-	100	?	?	?	?	?	-	-	-	-	-	?	?
+Fisher's Mail	22	-	82	?	?	?	?	?	-	-	-	-	-	?	?
+Gilded Mail	24	-	100	?	?	?	?	?	-	-	-	-	-	?	?
+Hero's Beginning	27	-	140	3	3	3	3	3	15	-	-	-	-	0	?
+Detlas' Skin	29	-	172	?	?	?	?	?	-	-	5	5	-	?	?
+Perfumed Chestplate	32	-	195	-	-20	-	-	-	-	-	2	-	-	1	?
+The Thief	34	-	180	-	-	-	-	-	-	-	-	-	-	1	?
+Copper Plate	35	-	225	-	-8	-	-8	-	-	15	-	5	-	1	?
+Pebble Mesh	37	-	190	15	-	-	-	-10	15	-	-	-	-	2	?
+Chains of Steel	38	-	280	-	-	-	-	-	-	-	-	-	-	2	?
+Feithid	40	-	270	-	-	-	-5	-	-	-	-	-	20	2	?
+Nilrem's Curse	40	-	310	?	?	?	?	?	-	15	-	-	-	?	?
+Ringing Mail	41	-	295	-	-20	20	-	-	-	-	20	-	-	2	?
+The Knight's Chestplate	43	-	440	?	?	?	?	?	-	-	-	-	-	?	?
+Homemade Fur Coat	44	-	375	?	?	?	?	?	-	-	-	-	15	?	?
+Bob's Battle Chestplate	45	Bob's Lost Soul	450	-	-	-	-	-	-	-	-	-	-	3	?
+Steel Mail	46	-	415	-	-	-	-	-	-	-	-	-	-	2	26
+Iron Scrap	48	-	600	30	-	-	30	-40	10	-	-	5	-	2	?
+Pigman's Ribbing	50	-	550	?	?	?	?	?	20	-	-	-	-	?	28
+Heart of Fire	52	-	650	-	-	-35	35	-	-	-	-	30	-	1	29
+Nesaak's Shadow	54	-	730	-	-30	50	-	-	-	10	-	-	10	1	?
+Dragon Skin	57	-	800	-	-	-20	30	-	-	-	-	10	-	2	32
+StoneWall	60	-	1000	150	-10	-10	-10	-50	30	-	-	-	-	1	?
+Onenya Hronkas	60	-	1150	100	-	-50	100	-50	30	-	-	85	-	2	33
+Opalite	62	-	1000	?	?	?	?	?	-	-	6	-	-	?	?
+Sky Reflector	65	-	1100	?	?	?	?	?	-	-	-	-	-	?	?
+Calcite	67	-	1500	?	?	?	50	?	-	-	-	20	-	3	?
+Coursing Mail	68	-	1250	?	?	?	?	?	-	25	-	-	-	?	?
+Carapace	70	-	1400	?	?	?	?	?	20	-	-	-	-	?	?
+Cloud Cover	72	-	1070	?	?	?	?	?	-	-	15	-	40	?	?
+Venomsoul	75	-	1600	?	?	?	?	?	20	-	-	20	-	?	?
+Angel Robe	78	-	1450	?	?	?	?	?	-	-	-	-	25	?	?
+Screech	80	-	1800	?	?	?	?	?	-	-	-	-	-	?	?
+Spinal Tap	82	-	1975	-	-	-	-	-	-	-	-	45	-	?	?
+Meteoric Aegis	85	-	1700	?	?	?	?	?	10	10	10	10	10	?	?
+Umbral Mail	87	-	1950	-	80	80	-120	-	-	25	25	-	-	2	?
+Terra's Mold	90	-	2500	100	-	-	-	-100	60	-	-	-	-	3	?
+Azurite	92	-	2500	?	?	?	?	?	40	-	25	-	-	?	?
+Nether's Reach	95	-	2750	?	?	?	?	?	-	20	-	40	-	?	?
+Calidade Mail	97	-	3000	?	?	?	?	?	-	-	-	-	-	?	?
+Sparkling Plate	99	-	2600	?	?	?	?	?	-	35	-	-	35	?	?
+Leggings
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Slots	First ID
+Shin Guards	3	-	8	?	?	?	?	?	-	-	-	-	-	?	?
+Starched Pants	5	-	16	?	?	?	?	?	-	-	-	3	-	?	?
+Battle Leggings	7	-	20	?	?	?	?	?	-	-	-	-	-	?	?
+Funnel	7	-	20	?	?	?	?	?	-	-	-	-	-	?	?
+Iron Incrusted Pants	9	-	42	?	?	?	?	?	5	-	-	-	-	?	?
+Arcane Grieves	10	-	35	?	?	?	?	?	-	-	-	-	-	?	?
+Mud Leggings	13	-	46	?	?	?	?	?	5	-	-	-	-	?	?
+Pigman's Loincloth	16	-	63	?	?	?	?	?	-	-	-	-	-	?	?
+Golden Pants of Fortune	19	-	70	?	?	?	?	?	-	-	-	-	-	?	?
+Leech Leggings	20	-	85	?	?	?	?	?	-	-	-	-	-	?	?
+Regal Chaps	23	-	90	-	-	-	-	-	-	-	-	-	-	1	?
+Back Protector	24	-	85	?	?	?	?	?	5	-	-	-	-	?	?
+Bronze-Plated Greaves	26	-	140	?	?	?	?	?	5	-	-	5	-	?	?
+Verstand	28	-	130	?	?	?	?	?	-	-	16	-	-	?	?
+Spider Silk Carduroys	29	-	185	?	?	?	?	?	-	-	-	-	-	?	?
+Zombified Pants	30	-	182	?	-3	?	-3	-3	-	-	-	-	-	1	?
+Urheus	32	-	200	10	-	-	8	-15	10	-	-	5	-	1	?
+Priest's Underwears	34	-	215	-15	25	-	-15	10	-	-	-	-	-	2	?
+Sandstone Leggings	37	-	270	?	?	?	?	?	-	-	-	-	-	?	?
+Mithril Leggings	39	-	350	-	-5	-5	-5	-5	20	-	-	-	-	1	23
+DuskShield	42	-	350	?	?	?	?	?	-	10	10	-	-	?	?
+Chain Link	45	-	400	-	-	-	-	-	5	5	5	5	5	3	?
+Dragon Hide Leggings	47	-	510	-	-	-	-50	50	-	-	-	25	-	0	?
+Cognizance	49	-	425	?	?	?	?	?	-	-	40	-	-	?	28
+Overly Ironed Pants	51	-	610	-	-	-	-	-	-	-	-	-	-	3	29
+Quartz-laced Leggings	53	-	660	-	-	-	-	-	-	-	-	-	-	2	30
+Troms' Climbing Trousers	53	-	700	?	?	?	-30	+30	-	-	-	-	30	2	30
+Bob's Lost Leggings	58	-	880	?	?	?	?	?	-	-	-	-	-	?	?
+Mighty Pants	61	-	900	?	?	?	?	?	10	10	10	10	10	?	?
+Collier's Guard	64	-	1100	?	?	?	?	?	-	-	-	25	-	?	?
+Leg of the Scared	66	-	1100	?	?	?	?	?	-	-	-	-	25	?	?
+Canopy	69	-	1300	?	?	?	?	?	-	-	-	-	-	?	?
+Vortex	71	-	1000	?	?	?	?	?	-	35	-	-	55	?	?
+Leggings of Restoration	74	-	1400	?	?	?	?	?	-	-	20	20	-	?	?
+Meltsteel Greaves	77	-	2000	-	-	-80	-	-80	30	-	-	30	-	0	?
+Ringlets	80	-	1800	?	?	?	?	?	-	-	-	-	-	?	?
+Ley Lines	82	-	1975	-175	90	90	-	-	-	-	50	-	-	3	?
+Touroto Trousers	85	-	2150	20	20	20	20	20	-	-	-	-	-	0	?
+White-hot Leggings	88	-	2350	-	70	-200	100	-	-	15	-	30	-	2	?
+Tailwind	91	-	2550	-	-	-	-150	150	-	-	-	-	60	3	?
+Hero's End	94	-	2775	?	?	?	?	?	-	-	-	-	-	?	?
+Turquoise	95	-	2800	?	?	?	?	?	35	-	35	-	-	?	?
+Resolve	98	-	3075	-	-	-	100	100	-	-	-	40	40	2	?
+Boots
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Slots	First ID
+Plains Runner	1	-	8	-	-	-	-	-	-	-	-	-	-	0	?
+Elven Moccasins	3	-	8	-	-	-	-	-	-	-	-	-	-	0	?
+Bright Boots	5	-	15	-3	3	-	-	-	-	-	-	-	-	0	?
+Merchant Sandals	7	-	18	-	-	-	-	-	-	-	-	-	-	1	?
+Treasure Boots	7	Underwater	24	-	-	-	-	-	-	-	-	-	-	1	?
+Plated Boots	8	-	35	-	-	-	-	-	2	-	-	-	-	1	?
+Toes Tickler	8	-	20	-	-	-	-	-	-	-	-	-	3	1	?
+Fruma Imported Boots	9	-	28	-	-	-	-	3	-	-	-	-	-	0	?
+Ancient Scout Shoes	10	-	30	-	-	-	-	-	-	-	-	-	3	0	?
+Slippery Boots	11	-	30	-	-	-	-4	4	-	-	-	-	4	1	9
+Spiked Cleats	13	-	48	-	-	-	-	-	-	-	-	-	-	1	?
+Aerolia Boots	14	Suspended Flowers	52	7	-	-	-5	-	-	-	-	-	-	1	-
+Arcane Boots	15	-	40	2	2	2	2	2	-	-	5	-	-	2	11
+Wormwood	17	-	70	6	-6	6	-	-6	5	-	5	-	-	0	?
+Shajone	18	-	65	-	-	-	-	-	-	-	-	-	-	1	?
+Hiker's Boots	20	-	85	7	-	-	-	-5	7	-	-	-	-	1	?
+Mystic Sandals	22	-	85	-	-10	10	-	-	-	-	10	-	-	1	?
+Boots of the Sorcerer	26	-	96	-	10	5	-	-	-	-	10	-	-	1	?
+Lucky Boots	28	-	150	-	-	-	-	-	-	-	-	-	-	1	?
+Coalwalkers	31	-	190	5	-	-15	15	-	5	-	-	10	-	1	?
+Knight Boots	33	-	230	-	-	-10	-	-10	5	-	-	5	-	0	?
+Crocodile	34	-	220	-	-	4	-	-	-	-	5	-	-	1	?
+Skeleton Boots	36	-	200	-	-	-	-15	20	-	-	-	-	10	2	?
+Copper-Alloy Boots	38	-	275	-10	8	-10	8	-	-	10	-	10	-	2	?
+Ragni's Old Shoes	39	-	310	-	20	-	-	-10	-	-	-	-	-	0	?
+Prosto Boots	42	-	350	-	-	-	-	-	-	-	-	-	-	2	?
+Sandstorm Walker	44	-	435	-	20	-	-	-30	5	-	-	-	-	2	25
+Bob's Sacrifice	45	-	290	-	-25	-	-	-	10	-	-	-	-	1	?
+Dance Boots	46	-	400	-10	-	-	-10	15	-	-	-	-	20	1	?
+Death's Toe	49	-	550	-10	15	-	-	-	-	10	-	-	-	2	?
+Tainted Step	51	-	550	-	-	-25	-25	-25	30	-	-	-	-	1	29
+Mistpuff	53	-	600	-	-60	20	-	30	-	-	15	-	20	2	?
+Magmawalkers	56	-	775	25	-	-50	40	-30	10	-	-	20	-	1	31
+Marsh Runner	58	-	920	-	-60	75	-	-	-	-	20	-	-	2	32
+Racer's Shoes	60	-	725	-	-	-	-	-	-	-	-	-	40	1	?
+Enderman's Feet	62	-	920	-	80	-30	-	-60	-	30	-	-	-	2	34
+Whitewater	64	-	990	-	-80	70	-	-	-	-	35	-	-	2	?
+Hell Walk	67	-	1100	-	-	-160	140	-	-	-	-	-	-	2	?
+Ekeloch	69	-	1310	-	150	-	-	-150	-	-	-	-	-	2	?
+Abyssal Walkers	71	-	1350	-	80	-100	80	-80	-	25	-	25	-	2	?
+Way Back Home	75	-	1600	100	-100	-	-100	100	20	-	-	-	20	3	?
+Aldorei's Tear	77	-	1550	50	-50	50	-	-10	10	-	10	-	-	3	?
+Black Sheep	79	-	1000	-	-	-	-	-	50	-	-	-	-	2	?
+Centennial	80	-	1800	-	-	100	100	-	-	-	20	20	-	0	?
+Boots of Blue Stone	82	-	1950	30	30	30	30	30	8	8	8	8	8	1	?
+Dart Frog's Skin	85	-	1950	40	-130	70	-	-	25	-	35	-	-	2	?
+Flashing Boots	87	-	2250	-200	80	-	-	60	-	30	-	-	15	3	?
+Wavedash	89	-	1880	-	-	90	-	90	-	-	25	-	20	3	?
+Scaldsteppers	90	-	2075	-	-100	110	75	-90	-	-	35	25	-	1	?
+Corruption Seal	92	-	2550	90	90	-100	-	-100	35	35	-	-	-	2	?
+Undefined	94	-	2750	-	-	-	-	-	-	-	-	-	-	3	?
+Sapphire	97	-	2800	40	-	120	-	-	20	-	60	-	-	2	?
+Accessories
+Rings
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	First ID
+Aluminium	3	-	-	-	-	-	-	-	-	-	-	-	-	?
+Vine	4	-	-	-	-	-	-	-	-	-	-	-	-	?
+Wedding Ring	5	-	-	-	-	-	-	-	-	-	-	-	-	?
+Shock	6	-	-	-	-	-	-	-	-	-	-	-	-	?
+Dusty Ring	8	-	-	-	-	-	-	-	-	-	-	-	-	?
+Mind Cracker	8	-	-	-	-	-	-	-	-	-	2	-	-	?
+Ring of Strength	9	-	-	-	-	-	-	-	-	-	-	-	-	?
+Warmth	10	-	-	-	-	-	-	-	-	-	-	-	-	?
+Clarity	12	-	-	-	-	-	-	-	-	-	-	-	-	?
+Reflex	14	-	-	-	-	-	-	-	-	-	-	-	-	?
+Eater	15	-	-	-	-	-	-	-	-	-	-	-	-	?
+Diet	17	-	-	-	-	-	-	-	-	-	-	-	5	?
+Lizard	18	-	18	-	-	-	-	-	-	-	-	-	-	?
+Spider Ring	18	-	-	-	-	-	-	3	-	-	-	-	-	?
+Ring of Focus	20	-	-	-	-	-	-	-	-	-	5	-	-	?
+Echo	22	-	-	-	-	-	-	4	-	-	-	-	8	?
+Lake	23	-	-	-	-	-	-	-	-	-	-	-	-	?
+Boulder	24	-	-	6	-	-	-5	-	10	-	-	-	-	?
+Juniper	26	-	-	-	-	-	-	-	8	-	-	-	-	?
+Barrage	28	-	-	-	-	-	-	-	-	10	-	-	-	?
+Red	30	-	20	-	-	-	4	-	-	-	-	-	-	?
+Rusted Ring	31	-	24	-	-3	6	-	-	-	-	-	-	-	?
+Libella	32	-	-	-	-	-	-	-	-	-	-	-	-	?
+Glitz	34	-	-	-	-	-	-	-	-	-	-	-	-	?
+Stonehall	35	-	-	-	-	-	-	-	15	-	-	-	-	?
+Sandust	37	-	-	-	-	-	-	-	-	15	-	-	-	?
+Firecloud	38	-	-	-	-	-	-	4	-	-	-	-	-	?
+Gouttes	38	-	-	-	-4	8	-	-	-	-	20	-	-	?
+Ehwaz	39	-	-	-	-	-	-	-	-	-	-	-	5	23
+Chill	31	-	-15	-	-	5	-5	5	-	-	15	-	-	24
+Okit	42	-	100	-	-	-4	10	-	-	-	-	-	-	24
+Wastelands	44	-	-	-	-	-	-	-	20	-	-	-	-	?
+Ripper	46	-	-	-6	-	-	-	-	-	25	-	-	-	?
+Melody	48	-	-	-	-	-	-	6	-	-	-	-	24	27
+Ozoth's Breath	49	-	160	-	-	-35	35	-	-	-	-	25	-	?
+Tears	51	-	-	-	-	-	-	-	-	-	40	-	-	29
+Return	53	-	-	-	-	-	-	-	-	-	-	-	-	?
+Fingertrap	55	-	-	-	-	-	-	-	-	-	-	-	-	31
+Rockworm	57	-	-	-	-	-	-	-	-	-	-	-	-	?
+Sharp	58	-	-	-	-	-	-	-	-	-	-	-	-	?
+Meep	59	-	-80	-	-	-	-	-	-	-	-	-	-	?
+Sessanta	60	-	60	-	-	-	-	-	-	-	-	10	-	?
+Lead	62	-	-40	15	-	-	-	-	-	-	-	-	-	?
+Chlorine	64	-	-	-	-10	-	-	-	-	-	15	-	-	?
+Druid's Ring	65	-	30	10	-	10	-	-	5	-	5	-	-	?
+Garnet Ring	67	-	50	-	-	-	20	-	-	-	-	20	-	?
+Raindrop	69	-	-150	-	-	10	-	-	-	-	25	-	-	?
+Mercy	71	-	-	8	8	8	8	8	-	-	-	-	-	?
+Black Ring	72	-	-	-	-	-	-	-	-	15	-	-	-	?
+Burn	73	-	-	-	-	-	-	-	-	-	-	-	-	?
+Malachite	75	-	-	20	20	-30	-	-	10	10	-	-	-	?
+Giant's Ring	76	The Bigger Picture	100		-	-	-	-	25	-	-	-	-	?
+Gnome's Ring	76	The Bigger Picture	100	-	-	-	-	-	-	-	-	-	25	?
+Ghost	77	-	-	-	-	-	-	25	-	-	5	-	15	?
+Soldier	78	-	75	-	-	-	-	-	-	-	-	-	-	?
+Rainbow	80	-	-	30	30	30	30	30	5	5	5	5	5	?
+Nightshade	82	-	-	-	-	-	-20	-	-	-	-	-	-	?
+Worship	84	-	-	-	-	-	-	-	-	-	-	-	-	?
+Fireball	86	-	-	-	-	-	-	-	-	-	-	30	-	?
+Silver	87	-	-	-	-	-	-	-	-	25	-	-	-	?
+Dust Devil	88	-	-	-35	-	-	-	-	-	-	-	-	30	?
+Finesse	89	-	-	-	-	-	-	-	-	15	15	-	-	?
+Hellion	91	-	100	-	-	-40	40	-	-	-	-	45	-	?
+Yin	92	-	-	-	-30	30	-	-	-	-	-	-	-	?
+Yang	92	-	-	-	30	-30	-	-	-	-	-	-	-	?
+Aurora	94	-	-	-	-	-	-	-	8	8	8	8	8	?
+Reminder	96	-	-	-	-	-	-	-	-	-	-	-	-	?
+Fehu	97	-	-	-	-	-	-	-	-	-	-	-	-	?
+Acid	99	-	-50	-	-	-50	-	-	-	-	-	-	-	?
+Necklaces
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	First ID
+Blank	2	-	-	-	-	-	-	-	-	-	-	-	-	?
+Seedling	5	-	-	-	-	-	-	-	2	-	-	-	-	-
+Beauty	6	-	-	-	-	-	-	-	-	-	-	-	-	?
+Travel Charm	10	-	-	-	-	-	-	-	-	-	-	-	-	?
+Lithium	14	-	-	-	-	-	-	-	-	-	-	-	-	?
+Bovemist Amulet	18	-	-	-	5	5	-	-	-	-	8	-	-	?
+Simple Coin	18	-	15	-	-	-	-	-	-	-	-	-	-	?
+Charm of the Flea	20	-	20	-	-	-	-	-	-	-	-	-	8	?
+Jackal Crest	24	-	20	-	-	-	-	-	-	-	-	-	-	?
+Crystal Necklace	28	-	-	5	5	5	5	5	3	3	3	3	3	?
+Lucky Coin	31	-	30	-	-	-	-	-	-	-	-	-	-	?
+Charm of the Tick	35	-	55	-	-	-	-	-	-	-	-	-	-	?
+Geothermal	38	-	-	10	-	-10	-	-	10	-	-	5	-	?
+Great Charm	40	-	-	-	-	-	-	-	-	-	-	-	-	?
+Wolf Crest	46	-	90	-	-	-	-	-	-	-	-	-	15	26
+Charm of the Leech	50	-	55	-	-	-	-	-	-	-	15	-	-	28
+Lapis Necklace	59	-	-	-	-	-	-	-	-	-	35	-	-	?
+Crash	63	-	-100	40	30	-50	-	-	20	10	-	-	-	?
+Charm of the Vampire	65	-	300	-	-	-	-	-	-	-	-	-	-	?
+Coyote Crest	67	-	240	-	-	-	-	-	-	20	-	-	-	?
+Fiery Torc	69	-	135	-	-40	40	-	-	-	-	-	25	-	?
+Talisman Charm	70	-	-	-	-	-	-	-	-	-	-	-	-	?
+Autotomized	73	-	-145	-	-	-	-	-	-	-	-	-	35	?
+Sealing Coin	76	-	325	-	-	-	-	-	-	-	-	-	-	?
+Asbestos	80	-	-185	-	-	-	-	-	-	-	-	-	-	?
+Windy Torc	83	-	200	-50	-	-	-	50	-	-	-	-	30	?
+Sowilo	87	-	400	-55	45	-55	45	-	-	20	-	20	-	?
+Runic Coin	90	-	450	-	-	-	-	-	-	-	-	-	-	?
+Cosmium	92	-	150	-	-	-	-	-	10	10	10	10	10	?
+Calming Torc	93	-	260	-	-60	60	-	-	-	-	35	-	-	?
+Errant	95	-	145	-	-	-	-60	60	-	-	-	-	45	?
+Founder	97	-	300	50	-	-	-	-50	25	-	-	35	-	?
+Antim	99	-	-	-	-	-	-	-	-	-	-	-	-	?
+Bracelets
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	First ID
+Keeper	4	-	-	-	-	-	-	-	-	-	-	-	-	?
+Tree Bracelet	5	-	-	-	-	-	-	-	-	-	-	-	-	?
+Rusted Bracelet	7	-	-	-	-	-	-	-	-	-	-	-	-	?
+Vertebra	8	-	-	-	-	-	-	-	-	-	-	-	-	?
+Iron Bracer	10	-	10	-	-	-	-	-	-	-	-	-	-	?
+Bourreau	13	-	-	-	-	-	-	-	-	-	-	-	-	?
+Bejeweled Bracelet	17	-	-	5	5	5	5	5	-	-	-	-	-	?
+Gust	20	-	-	-	-	-	-5	5	-	-	-	-	5	?
+Gilded Cuff	24	-	-	-	-	-	-	-	-	-	-	-	-	?
+Dynamic	28	-	-	-7	7	-	-	-	-	10	-	-	-	?
+Wolf Paw	30	-	-	5	-	-	-	5	8	-	-	-	8	?
+Handcuff	33	-	-	-	-	-	-	-	5	-	-	5	-	?
+Trinket	37	-	-	-	-	-	-	-	-	-	-	-	-	22
+Vitriol	39	-	-20	10	-	-5	-	-	15	-	-	-	-	?
+Nimble Fingers	41	-	-	-	-	-	-	-	-	25	-	-	-	?
+Steel Bracer	45	-	50	-	-	-10	12	-	-	-	-	15	-	?
+Twist Band	49	-	-	-	-	-	-	-	-	-	10	-	10	?
+Great Brace	51	-	110	-	-20	20	-	-	-	-	-	25	-	29
+Bamboo Cuff	53	-	-	-	-	-	-	-	10	10	-	-	-	?
+Ice Band	56	-	-	-	-	25	-20	-	-	-	15	-	-	?
+Insulation	60	-	90	20	20	20	20	20	-	-	-	-	-	?
+Lasting	63	-	-	-	-	-	-	-	-	-	-	-	-	?
+Foam Bracer	66	-	-	-	-45	30	-	10	-	-	15	-	-	?
+Fog	68	-	-	-40	-25	10	-	30	-	-	10	-	25	?
+Neon	71	-	-	-	-	-	-	-	5	5	5	5	5	?
+Power Bracelet	74	-	-	-	-	-	-	-	-	-	-	-	-	?
+Latchkey	77	-	-	-	-	-	-	-	-	-	-	20	-	?
+Broken Gauntlet	79	-	150	-	-	-25	-	-25	15	-	-	15	-	?
+Needle Cuff	81	-	-	-	-	-	-	-	-	20	-	-	-	?
+Squid Anklet	83	-	-	-	-60	40	-	-	-	-	45	-	-	?
+Kayde	85	-	-	-	-	-	-	-	-	-	-	-	-	?
+Platinum	88	-	-	-	-	-	-	-	-	-	-	-	-	?
+Pass Band	90	-	-	-	-	-	-	-	25	-	-	-	-	?
+Tidal	92	-	-	-30	-30	50	-	-	-	-	40	-	-	?
+Contrail	94	-	-	-	-	10	-50	50	-	-	-	-	45	?
+Arc Bracer	95	-	-	-40	50	-20	-	-	-	40	-	-	-	?
+Justice	96	-	280	-	-30	-30	50	-	-	-	-	40	-	?
+Nebulous	99	-	150	30	30	30	30	30	10	10	10	10	10	?

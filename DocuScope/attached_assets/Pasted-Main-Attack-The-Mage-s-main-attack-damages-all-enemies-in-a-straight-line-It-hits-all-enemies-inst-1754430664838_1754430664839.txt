@@ -1,0 +1,203 @@
+Main Attack
+The Mage's main attack damages all enemies in a straight line. It hits all enemies instantly, with no travel time, and pierces through blocks. Its main attack is not that wide however, so you will still have to aim at your target.
+
+Ability Tree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+The Ability Tree for the Mage features three archetypes: the Riftwalker, the Light Bender, and the Arcanist.
+
+The Riftwalker archetype revolves around stacking the Winded debuff on mobs. The more Winded a mob has, the more damage it takes from your spells. It can consume of all its Winded at once in a devastating Timelock that can deal massive amounts of damage. The Riftwalker also comes with movement-enhancing abilities that allow it to accelerate over time and teleport twice.
+
+Difficulty: Easy
+Damage: High
+Defense: Low
+Range: Medium
+Speed: High
+The Light Bender archetype heals and supports allies with empowering buffs, but it also comes with an offensive punch. Using Ophanim, the Light Bender can summon orbs of light that can attack enemies at the cost of their own health. By healing the orbs, the Light Bender can trigger its supportive abilities while also renewing its offensive power for as long as it wants. It can grant allies huge damage boosts and even make them invincible for a short period of time.
+
+Difficulty: Medium
+Damage: Medium
+Defense: Medium
+Range: High
+Speed: Medium
+The Arcanist archetype sacrifices its Heal ability in exchange for having a Mana Bank. Hitting enemies with Meteor and Ice Snake will add Mana to this bank, and Arcane Transfer can be used to instantly gain all the Mana stored. On top of its spells generating their own Mana, Chaos Explosion allows the Arcanist to unleash a rapid barrage of spells for free after casting Arcane Transfer with enough Mana Bank, unleashing a devastating amount of power onto enemies wherever you want.
+
+Difficulty: Hard
+Damage: High
+Defense: Low
+Range: High
+Speed: Medium

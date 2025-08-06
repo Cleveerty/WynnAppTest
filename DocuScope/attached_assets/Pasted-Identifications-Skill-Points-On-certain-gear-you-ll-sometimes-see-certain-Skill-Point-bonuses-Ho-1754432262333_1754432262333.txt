@@ -1,0 +1,105 @@
+Identifications
+Skill Points
+On certain gear, you'll sometimes see certain Skill Point bonuses. How they change your build is listed below.
+
+Strength: Changes your amount of Strength.
+Dexterity: Changes your amount of Dexterity.
+Intelligence: Changes your amount of Intelligence.
+Defense: Changes your amount of Defense.
+Agility: Changes your amount of Agility.
+Other Identifications.
+Keep in mind the Identifications here do not include the identifications from Crafted Items.
+
+Health: It sometimes shows on pieces of gear on the Identifications side (below where you would see the requirements for using gear), it is basically just additional Health and is there since the rolls can vary when you identify it.
+Health Regen %: It multiplies Raw Health Regen/Natural Health Regen by the Health Regen % you have. Having below -100% Health Regen does not flip negative raw health regen, and having 100% or above Health Regen % nullifies all -Health Regen.
+Health Regen Raw: It changes your health regeneration by a raw amount and is affected by Health Regen %.
+Walk Speed: Multiplies your speed by the percentage of Walk Speed you have.
+Mana Regen: Gives a certain amount of mana every 4 seconds based on the Mana Regen you have.
+Mana Steal: It is an ID that has a chance to trigger on melee hits. The chance of getting mana per hit depends on your attack speed.
+XP Bonus: Changes the XP you get from mobs/dungeons. It gives a percentage of the original XP you'd get from mobs added onto the XP you already get from mobs.
+Loot Bonus: Increases the amount of loot you can get from chests and mobs.
+Stealing: Gives a chance to get emeralds from mobs, and is affected by attack speeds.
+Poison: It triggers upon hitting a mob, and spreads for 3 seconds and stops giving poison unless you hit again.
+Attack Speed Bonus: It changes the attack speed of your weapon.
+Reflection: Gives a chance for giving back damage when a player is hit by a spell. The chance of reflection triggering is equivalent to the amount of reflection you have.
+Thorns: The same thing as Reflection but it applies for Melee hits.
+Exploding: Gives mobs a chance to explode on death. Other mobs hit by the explosion take what would be the damage of one melee hit.
+-Spell Cost Raw: It reduces your spell costs by a raw amount. For example, if you have a 4 mana cost spell, and used an item with -1 cost in that spell, the spell would then cost 3 mana.
+-Spell Cost %: It reduces your spell costs but with a percentage. You can use this to calculate how much less your spells cost with -spell cost %.
+Sprint: It changes the duration of your sprint bar.
+Sprint Regen: It changes how fast you can regenerate your Sprint Bar.
+Jump Height: Increases the amount you can jump. It is like the Jump Boost effect in Minecraft Singleplayer.
+Elemental Defense: The same thing as Health Regen % except it applies to Elemental Defenses.
+Skill Points and Elements
+Main article: Skill Points
+FireZombie
+This mob has a weakness to water and deals fire damage, meaning water damage will be more effective on it. Your fire defense can affect its damage.
+
+Skill Points are earned when you level up. Your player will acquire 2 points per level.
+
+NOTE: Most armour, weapons, and accessories require skill points assigned to one or more elements in order to be used.
+
+Skill Points can be spent on these perks:
+
+Strength increases the amount of damage the player deals and increases your ✤ Earth damage.
+Dexterity increases the player's chance to do +100% base damage (not actually double) on a hit and increases your ✦ Thunder damage.
+Intelligence reduces the cost of spells and increases your ✽ Water damage.
+Defense reduces the damage the player takes and increases your ✹ Fire damage.
+Agility increases the player's chance to dodge an attack and increases your ❋ Air damage.
+Mobs can also have elemental stats:
+
+Damage - mobs with this stat will deal damage of the respective element.
+Defense - mobs with this stat will receive less damage from attacks of the respective element.
+Weakness - mobs with this stat will receive more damage from attacks with the respective element.
+Strength and Dexterity give damage based on the base damage of your weapon. To calculate the base damage on weapon, you have to multiply the damage on it multiplied by how many times you can use a melee hit. You can use this to find out how many times you can use a melee hit with the attack speed of your weapon. Strength in the compass will say it gives % more damage, but it scales from the base, so the additional damage is a percent (listed in compass) of the base damage of your weapon. To calculate additional damage in one melee hit, you should do the base damage divided by the amount of melee hits posssible and with the result multiplied with the percentage of the additional damage shown in compass. For example, with a Super Slow 300 Base damage weapon and 68 Strength, the additional damage since Strength has 50% more damage (additive, like what'd you see on armor) would be (300 / 0.51) * 50%, which would be 300 more damage per hit with those stats. If you were to use the weapon and use a 250% spell multiplier (check the Wikis' of each Class if you don't know what it is), the base damage of that spell would be 750, and with 68 Strength you would have an addition 750 * 50% damage in that spell, or 325 more damage in that 250% spell multiplier spell.
+
+Dexterity adds 100% Spell Damage, or 100% Melee damage if you are going Melee. The extra Spell and Melee damage are like what'd you would see on armor. and Dexterity is also scaled from the base. If Dexterity were to trigger in 1 melee hit, the damage it would bring is the base damage of your weapon divided by the amount of melee hits a second. For example, having a Super Slow weapon with 300 base and having Dexterity trigger on a melee hit would give 300 / 0.51 more damage to the melee hit, giving approximately 600 more damage on that melee hit. In Spell, the base damage of your weapon is multiplied by the Spell Multiplier, and than scaled by Dexterity. If you used a Spell with a 250% Spell Damage Multiplier with 300 base, you would have a 750 base in that Spell. Dexterity triggering in that spell will give an extra 750 damage.
+
+Intelligence reduces your spell costs. If you had a 6 mana arrow storm and have 29 intelligence, you have 5 arrow mana storms, and 1 reduced mana cost on bomb. If you want to see how much spell costs are reducted by a certain amount of int, you can see this Mana table. For example, having 68 Intelligence halvens all spell costs costing an even number with no Intelligence or Spell Cost items.
+
+Defense/Agility increase your effective HP, and depending how much you spend into them, you can be a lot tankier.
+
+If you want to see how much tankier you are, you can use Wynnbuilder and it'll show your EHP (EHP stands for Effective HP, which is your health factoring in Defense (and sometimes Agility) skill points or you can follow the formula below.
+
+Health / 1 - (Percentage of damage absorbed by Defense) / Percentage of extra Damage taken from mobs relative to a 100% Base Defense (Or multiplied by the percentage of damage absorbed from mobs). If you want to factor in Agility, you can do Health / 1 - (Percentage of damage absorbed by defense) / 1 - (Percentage of damage absorbed by Agility) / Percentage of extra Damage taken from mobs relative to a 100% Base Defense. For an example, if you are a Shaman, with 4500 HP and 68 Defense, as 68 Defense has a 50% damage reduction, and Shaman takes 1.5 times the damage from mobs, so the formula would be 4500 / 0.5 / 1.5, would would be 6,000 EHP.
+
+Base defenses for each class. It is going by relative to Assassin since Assassin has a 100% Base Defense. This doesn't include Assassin since this is relative to Assassin.
+
+Shaman - 50% more damage from mobs compared to Assassin
+Archer - 40% more damage from mobs compared to Assassin
+Mage - 20% more damage from mobs compared to Assassin
+Warrior - 20% less damage from mobs compared to Assassin
+The base defenses are like additional damage for how far it is from 100% base defense. It is like since 60% Base Defense is 40% short from 100% base defense, so a class with 60% Base Defense (Archer) takes 40% more damage.
+
+
+When you are levelling a character, it is recommended you first fill out your gear skill point requirements, and put remaining skill point into intelligence and defense after level 29 (Before 29, remaining skill points into Defense). You should put 50% of your remaining skill points into intelligence and defense. If you see you have a useful intelligence threshold 10 skill points away after seeing how much intelligence you have after adding up your current intelligence points with 50% of your remaining sp, then you should get to that threshold and put skill points into defense. You can look at this table for the intelligence thresholds. It is also recommended to stay away from items with a Strength or/and Dexterity requirement when levelling up. You can use Strength or Dexterity requiring items if they're really good and worth using for a Strength/Dexterity/Strength and Dexterity requirement.
+
+It is also not recommended to put tier 4 or higher powders on a weapon before around level 60 since you can change gear fairly quickly. Putting powders like Tier 3 or lower can work however if you want to use some spare powders. You shouldn't powder armor too for the same reason. The change in elemental defense too is barely noticeable by most people for armors.
+
+Quests
+Main article: Quests
+Quests are tasks that you can do in order to get XP and Emeralds. The contents of a quest may vary from simply collecting materials to traveling through time or finding ruins of ancient civilizations. Quests range in difficulty and duration, with the greater challenges giving a greater reward. Some, but not many quests may require teamwork (This is not limited to ???, other quests with hard combat challenges like The Qira Hive (Quest) and Tower of Ascension (Quest) can make a player request for teamwork) to complete the quest, and some require you to think outside the box. Some quests also give access to different areas, dungeons, fast travel points, or merchants. Additionally to the monetary and experience reward, you may also get powerful gear. Some examples of powerful gear are the Grookwarts accessories from The Order of the Grook, the Ornate Shadow items from A Hunter's Calling. It can also save you time from looting chests, running Boss Altars, or running Dungeons, or killing mobs, since you won't have to try to fill for the specific gear slot. Quests past level 80 generally give over 1 LE, and quests below level 80 can also give good money and XP relative to their level.
+
+NOTE: It is recommended to complete most (if not all) quests you come across on your first playthrough to fully understand the lore, and get good money, and if you know how to do quests fast, levelling can be sometimes faster then grinding, especially between levels 80-100. It is also more enjoyable then grinding.
+
+Items
+Wynncraft has an official resource pack, which is required to be able to view the different weapon models. The game has over 4500 different items, allowing for a broad spectrum of playstyles.
+
+Item types
+Wynncraft has many different types of items:
+
+Weapons, Armor, Accessories. There are six rarities of these (from least rare to rarest): normal, unique, rare, legendary, fabled and mythic. Additionally, there are also Set Items, which increase their stats depending on how many pieces of the set you're wearing.
+Crafting materials and ingredients used in crafting.
+Usable items - horses, potions, scrolls and dungeon keys.
+Other items, such as powders, quest items, runes, etc.
+Obtaining Items
+In the world of Wynncraft, blocks are unable to be broken. An exception is flowerpots, which have a chance to drop emeralds (and a low chance to drop items). The majority of the blocks you see will be decorative. Items can be obtained in the following ways:
+
+Killing mobs
+Trading with Merchants
+Loot Chests
+Completing Quests
+Item spawning areas (Like the Seavale Reef)
+Trading with other players
+Crafting at a crafting station
+Keep in mind rarity (Unique, Rare, Legendary) doesn't matter, focus on the identifications of gear.

@@ -1,0 +1,125 @@
+Mage Melee
+Mage basic attack.
+
+Improve your Main Attack's damage and range when using a wand.
+Main Attack Damage: +5%
+Main Attack Range: +2 Blocks
+
+When your Mana Bank reaches 30, your Main Attack will explode upon impact with enemies. (Damage is dealt as Main Attack Damage)
+
+Total Damage: 200%
+ (Neutral: 200%)
+Area of Effect: 4 Blocks (Circle-Shaped)
+
+Pyrokinesis will add +1 Mana every 0.25s to your Mana Bank when hitting an aggressive enemy.
+
+Duration: 2.5s
+
+Elemental Mastery
+Increase your base damage from all Earth attacks.
+
+Earth Damage: +2-4
+Earth Damage: +20%
+
+Increase your base damage from all Fire attacks.
+
+Fire Damage: +3-5
+Fire Damage: +15%
+
+Meteor
+Click Combo: RIGHT-LEFT-LEFT
+Conjures a slow but powerful meteor from the sky, dealing massive damage over a large area.
+Mana Cost: 50
+Total Damage: 400% (of your DPS)
+ (Neutral: 330%)
+ (Earth: 70%)
+Range: 18 Blocks
+Area of Effect: 5 Blocks (Circle-Shaped)
+
+Reduce the mana cost of Meteor.
+Mana Cost: -10
+
+Meteor and Ophanim will leave a sigil of fire on the ground that damages enemies every 0.4s.
+
+Total Damage: 40% (of your DPS)
+ (Neutral: 25%)
+ (Fire: 15%)
+Area of Effect: 7 Blocks (Circle-Shaped)
+Duration: 8s
+Cooldown: 8s
+
+Increase the damage of Meteor.
+
+Total Damage: +120% (of your DPS)
+ (Neutral: +90%)
+ (Earth: +30%)
+
+Teleport
+Click Combo: RIGHT-RIGHT-RIGHT
+Instantly teleport in the direction you're facing.
+Mana Cost: 25
+Range: 16 Blocks
+
+Reduce the mana cost of Teleport.
+Mana Cost: -5
+
+Wisdom
+For every 2% or 2 Raw Spell Damage you have from items, gain +1/5s Mana Regen (Max 5/5s)
+
+Heal
+Click Combo: RIGHT-LEFT-RIGHT
+Heals you and nearby allies in a large area around you. (When healing others, you can't heal more than 30% of their max health)
+Mana Cost: 35
+Total Heal: 15% (of your max health)
+Range: 5 Blocks
+Duration: 0.6s
+
+You gain a walk speed buff after casting Heal or Arcane Transfer.
+
+Effects: +80% Walk Speed
+Duration: 4s
+Cooldown: 8s
+
+Ice Snake
+Click Combo: RIGHT-RIGHT-LEFT
+Conjures a fast-moving ice snake that damages and slows enemies.
+Mana Cost: 30
+Total Damage: 175% (of your DPS)
+ (Neutral: 120%)
+ (Water: 55%)
+Range: 18 Blocks
+Area of Effect: 2 Blocks (Circle-Shaped)
+Effect: 40% Slowness to Enemies
+Duration: 3s
+
+Ice Snake will follow the direction you're facing, allowing you to control it.
+
+Total Damage: +40% (of your DPS)
+ (Neutral: +25%)
+ (Water: +15%)
+
+Ice Snake will freeze enemies for 2s.
+
+Effect: 100% Slowness to Enemies
+Duration: 2s
+
+Arcane Transfer
+Meteor, Ice Snake, and Wind Slash will add 13 Mana to a Mana Bank for every aggressive enemy you hit. With Thunderstorm, Mana gain from Meteor is reduced to 4.
+Heal will now transfer the contents of your Mana Bank into usable Mana instead of healing.
+
+When your Mana Bank reaches 120, casting Arcane Transfer will rapidly unleash the last 3 spells you've cast in order.
+
+Increase your maximum Mana Bank by +30.
+
+Arcane Transfer will allow you to overflow your mana over its maximum limits. (Max 300)
+
+Chaos Explosion will cast +2 spells.
+
+Meteor, Ice Snake, and Wind Slash will add +8 Mana to your Mana Bank for each aggressive enemy you hit. With Thunderstorm, Meteor only adds +2 Mana.
+Arcane Restoration will restore mana 0.1s faster.
+
+Seance
+For every 5/3s Lifesteal you have from items, gain +1% Spell Damage (Max 50%)
+
+Manastorm
+If you have more than 100 Mana, casting a spell will give you +5 Mana over 2s.

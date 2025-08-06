@@ -1,0 +1,304 @@
+Mythic Items
+UnidentifiedMythicBox.png
+Mythic Items are the rarest and most powerful Weapons and Armour in the game. Most Mythics are designed for endgame players of level 90+, and have generally stronger stats than any other non-Mythic items available at their level; however, there are some Mythics with level requirements as low as 65, as well as those with specific gimmicks that may make them less useful than other items depending on one's build and preferred playstyle. They typically have very high Skill Point requirements, and often have Major IDs.
+
+NOTE: For more detailed information about items that do not yet have dedicated pages on this wiki, refer to the official Wynncraft Item Guide.
+
+Contents
+1	Obtaining
+2	List of Mythic Items
+2.1	Mythic Weapons
+2.2	Mythic Armour
+2.3	Other Mythic Items
+3	Shiny Mythics
+4	Trivia
+5	Navigation
+Obtaining
+Mythics are significantly rarer than almost all other items of Fabled tier or lower, and are distinguished by a dark purple name tag. Each Class currently has nine different Mythic weapons, including one focused around each of the five Elements as well as one "rainbow" weapon. There are also ten pairs of Mythic Boots, each focused around a pair of elements, and one Mythic Chestplate, the utility item 
+ Discoverer.
+
+Mythic items have a 1/142857 or 0.0007% chance to drop from mobs or Loot Chests around their level. Mythics can also be obtained in four other ways:
+
+Trading - They can be purchased from other players through the Trade Market or personal trading, often for multiple stacks of 
+ Liquid Emeralds.
+The Forgery - There is a 1.5% chance to receive a Mythic from a completed Forgery run, which increases the more runs are completed without receiving one.
+Lootrunning - There is a 0.04% (1/2500) chance per pull of receiving a Mythic from the Lootrunning Reward Chest. Which Mythics are available from the Reward Chest depends on the lootrun completed, and changes each week. Notably, Lootrunning is also the only way to obtain 
+ Shiny Mythics, at a much rarer, 0.001% (1/100000) chance per pull.
+Annihilation - There is a chance of receiving Corrupted Caches containing one of five exclusive Mythics by conquering the Prelude to Annihilation World Event.
+List of Mythic Items
+Mythic Weapons
+Icon	Name	Type	Combat
+Lv. Min	Str
+Min	Dex
+Min	Int
+Min	Def
+Min	Agi
+Min	Neutral
+Damage	Earth
+Damage	Thunder
+Damage	Water
+Damage	Fire
+Damage	Air
+Damage	Average
+DPS	Attack
+Speed	Slots	Notes
+
+Apocalypse	Spear	81	-	-	-	95	-	315-512 
+-	-	-	440-820 
+-	536	Super Slow	3	+Hellfire
+
+Hero	Spear	91	-	-	-	-	110	50-70 
+-	-	-	-	120-150 
+605	Very Fast	4	+Saviour's Sacrifice
+
+Guardian	Spear	93	-	-	-	110	-	50-90 
+-	-	-	165-205 
+-	525	Normal	3	+Guardian
+
+Alkatraz	Spear	94	110	-	-	-	-	-	1350-1500 
+-	-	-	-	727	Super Slow	0	-
+
+Idol	Spear	95	-	-	120	-	-	-	-	-	230-330 
+-	-	577	Normal	3	-
+
+Thrundacrack	Spear	96	-	105	-	-	-	50-90 
+-	50-220 
+-	-	-	636	Very Fast	4	-
+
+Collapse	Spear	97	35	35	35	35	35	40-65 
+0-310 
+0-310 
+0-310 
+0-310 
+0-310 
+687	Very Slow	3	+Fission
+
+Bloodbath	Spear	103	80	80	-	-	-	0-20 
+175-220 
+100-295 
+-	-	-	608	Slow	3	-
+
+Convergence	Spear	104	-	-	65	75	-	70-90 
+-	-	100-120 
+105-115 
+-	618	Normal	3	-
+
+Az	Bow	74	-	80	-	-	-	110-170 
+-	1-250 
+-	-	-	664	Fast	5	-
+
+Freedom	Bow	93	40	40	40	40	40	-	85-109 
+45-149 
+65-129 
+75-119 
+55-139 
+999	Normal	4	-
+
+Grandmother	Bow	95	110	-	-	-	-	150-250 
+440-595 
+-	-	-	-	1076	Slow	4	-
+
+Ignis	Bow	95	-	-	-	105	-	150-210 
+-	-	-	160-235 
+-	778	Normal	3	+Heart of the Pack
+
+Divzer	Bow	97	-	115	-	-	-	38-39 
+-	240-240 
+-	-	-	1198	Super Fast	3	-
+
+Spring	Bow	98	-	-	120	-	-	150-185 
+-	-	200-310 
+-	-	870	Normal	3	-
+
+Stratiformis	Bow	99	-	-	-	-	115	95-175 
+-	-	-	-	170-300 
+925	Fast	3	-
+
+Epoch	Bow	102	-	70	-	-	70	500-620 
+-	480-640 
+-	-	520-600 
+857	Super Slow	3	-
+
+Labyrinth	Bow	104	70	-	-	85	-	-	485-515 
+-	-	470-530 
+-	830	Very Slow	2	+Twisting Threads
+
+Pure	Wand	65	-	-	50	-	30	0-5 
+-	-	20-45 
+-	15-55 
+175	Fast	0	+Gravity Well
+
+Lament	Wand	96	-	-	110	-	-	70-90 
+-	-	180-190 
+-	-	398	Slow	3	-
+
+Gaia	Wand	97	105	-	-	-	-	150-220 
+380-490 
+-	-	-	-	515	Very Slow	3	-
+
+Monster	Wand	98	-	-	-	110	-	110-140 
+-	-	-	160-220 
+-	473	Slow	3	-
+
+Fatal	Wand	99	-	110	-	-	-	-	-	1-360 
+-	-	-	560	Very Fast	3	-
+
+Singularity	Wand	99	42	42	42	42	42	-	175-225 
+75-325 
+150-250 
+125-275 
+100-300 
+510	Super Slow	15	-
+
+Warp	Wand	99	-	-	-	-	130	40-70 
+-	-	-	-	160-190 
+713	Very Fast	3	-
+
+Quetzalcoatl	Wand	103	70	-	-	-	70	25-45 
+50-70 
+-	-	-	45-75 
+481	Very Fast	4	-
+
+Trance	Wand	104	-	80	-	70	-	20-52 
+-	10-50 
+-	25-35 
+-	413	Super Fast	3	+Fixate
+
+Archangel	Dagger	69	-	-	-	-	70	20-60 
+-	-	-	-	165-200 
+556	Fast	3	-
+
+Nullification	Dagger	95	30	30	30	30	30	-	60-66 
+22-104 
+46-80 
+36-90 
+28-98 
+788	Fast	3	-
+
+Cataclysm	Dagger	96	-	120	-	-	-	30-120 
+-	45-295 
+-	-	-	1054	Super Fast	3	-
+
+Grimtrap	Dagger	96	100	-	-	-	-	175-235 
+305-425 
+-	-	-	-	855	Slow	3	-
+
+Weathered	Dagger	96	-	-	-	-	110	40-80 
+-	-	-	-	140-230 
+760	Very Fast	3	+Roving Assassin
+
+Inferno	Dagger	97	-	-	-	105	-	-	-	-	-	855-1045 
+-	789	Very Slow	3	-
+
+Nirvana	Dagger	97	-	-	110	-	-	-	-	-	320-385 
+-	-	726	Normal	3	+Transcendence
+
+Oblivion	Dagger	101	-	75	65	-	-	1-200 
+-	600-999 
+600-999 
+-	-	867	Super Slow	4	-
+
+Hanafubuki	Dagger	102	-	-	65	-	85	160-220 
+-	-	-	-	-	817	Super Fast	0	+Efflorescence
+
+Aftershock	Relik	77	80	-	-	-	-	80-85 
+1245-1430 
+-	-	-	-	724	Super Slow	4	-
+
+Olympic	Relik	93	-	-	-	-	105	-	-	-	-	-	325-355 
+850	Fast	3	-
+
+Hadal	Relik	94	-	-	130	-	-	-	-	-	1625-2025 
+-	-	931	Super Slow	3	-
+
+Sunstar	Relik	95	-	115	-	-	-	245-355 
+-	785-1015 
+-	-	-	996	Very Slow	3	-
+
+Fantasia	Relik	96	45	45	45	45	45	-	155-295 
+215-235 
+185-265 
+170-280 
+200-250 
+934	Very Slow	3	-
+
+Toxoplasmosis	Relik	96	110	-	-	-	-	-	3-3 
+-	-	-	-	9	Very Fast	2	-
+
+Absolution	Relik	97	-	-	-	115	-	-	-	-	-	185-195 
+-	817	Super Fast	0	-
+
+Immolation	Relik	101	-	-	-	75	75	-	-	-	-	205-475 
+325-355 
+1020	Slow	3	-
+
+Resonance	Relik	104	75	-	75	-	-	30-40 
+190-200 
+-	170-220 
+-	-	876	Normal	3	+Lifestream
+Mythic Armour
+Icon	Name	Type	Combat
+Lv. Min	Str
+Min	Dex
+Min	Int
+Min	Def
+Min	Agi
+Min	Health	Earth
+Defense	Thunder
+Defense	Water
+Defense	Fire
+Defense	Air
+Defense	Slots	Notes
+
+Discoverer	Chestplate	89	-	-	-	-	-	-	-	-	-	-	-	0	-
+
+Crusade Sabatons	Boots	90	60	-	-	70	-	+5050 ♥	+125 
+-	-	+200 
+-	3	-
+
+Resurgence	Boots	91	-	-	65	90	-	+4550 ♥	-	-	+175 
++125 
+-	4	-
+
+Galleon	Boots	92	65	-	60	-	-	+4500 ♥	+200 
+-	+250 
+-	-175 
+3	-
+
+Boreal	Boots	93	-	-	-	75	65	+5000 ♥	-	-	-	+250 
++375 
+3	-
+
+Slayer	Boots	94	-	75	-	-	60	+3775 ♥	-	-	-100 
+-	-	2	-
+
+Moontower	Boots	95	-	-	70	-	80	+4150 ♥	+75 
++225 
++125 
++75 
++125 
+3	-
+
+Dawnbreak	Boots	96	-	65	-	65	-	+4225 ♥	-	+200 
+-125 
++200 
+-125 
+2	-
+
+Stardew	Boots	97	-	65	75	-	-	+4075 ♥	-100 
++150 
++150 
+-100 
+-100 
+2	-
+
+Warchief	Boots	98	80	80	-	-	-	+5225 ♥	-150 
+-150 
+-100 
+-100 
+-100 
+3	-
+
+Revenant	Boots	99	70	-	-	-	70	+7000 ♥	+140 
+-	-	-	+140 
+3	-

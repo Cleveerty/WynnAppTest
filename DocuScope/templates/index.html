@@ -1,0 +1,310 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="hero-section bg-gradient text-white py-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-8">
+                <h1 class="display-4 fw-bold mb-3">
+                    <i class="fas fa-castle text-warning me-3"></i>
+                    WynnBuilder
+                </h1>
+                <p class="lead mb-4">
+                    Advanced Wynncraft build generator with AI assistance and authentic game mechanics
+                </p>
+                {% if items_count %}
+                <div class="d-flex align-items-center">
+                    <span class="badge bg-success fs-6 me-3">
+                        <i class="fas fa-database me-1"></i>
+                        {{ items_count }} items loaded
+                    </span>
+                    <span class="text-light">
+                        <i class="fas fa-check-circle me-1"></i>
+                        Ready to generate builds
+                    </span>
+                </div>
+                {% endif %}
+            </div>
+            <div class="col-lg-4 text-center">
+                <div class="hero-icon">
+                    <i class="fas fa-magic fa-6x text-warning opacity-75"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% if error %}
+<!-- Error Alert -->
+<div class="container mt-4">
+    <div class="alert alert-danger" role="alert">
+        <i class="fas fa-exclamation-triangle me-2"></i>
+        <strong>Error:</strong> {{ error }}
+    </div>
+</div>
+{% endif %}
+
+<!-- Build Generator Section -->
+<section id="builder" class="py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="text-center mb-5">
+                    <i class="fas fa-hammer text-primary me-2"></i>
+                    Build Generator
+                </h2>
+            </div>
+        </div>
+        
+        <div class="row">
+            <!-- Build Configuration -->
+            <div class="col-lg-4">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-primary text-white">
+                        <h5 class="mb-0">
+                            <i class="fas fa-cog me-2"></i>Configuration
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <form id="buildForm">
+                            <!-- Class Selection -->
+                            <div class="mb-3">
+                                <label class="form-label fw-bold">
+                                    <i class="fas fa-users me-1"></i>Class
+                                </label>
+                                <select class="form-select" id="classSelect" required>
+                                    <option value="mage">Mage - Spell Damage Specialist</option>
+                                    <option value="archer">Archer - Ranged Damage Dealer</option>
+                                    <option value="warrior">Warrior - Melee Tank/Damage</option>
+                                    <option value="assassin">Assassin - High DPS Melee</option>
+                                    <option value="shaman">Shaman - Support/Healing</option>
+                                </select>
+                            </div>
+
+                            <!-- Playstyle Selection -->
+                            <div class="mb-3">
+                                <label class="form-label fw-bold">
+                                    <i class="fas fa-crosshairs me-1"></i>Playstyle
+                                </label>
+                                <select class="form-select" id="playstyleSelect" required>
+                                    <option value="spellspam">Spellspam - High spell damage & mana</option>
+                                    <option value="melee">Melee - High melee damage</option>
+                                    <option value="hybrid">Hybrid - Balanced spell/melee</option>
+                                    <option value="tank">Tank - High defense & HP</option>
+                                </select>
+                            </div>
+
+                            <!-- Elements -->
+                            <div class="mb-3">
+                                <label class="form-label fw-bold">
+                                    <i class="fas fa-fire me-1"></i>Elements
+                                </label>
+                                <input type="text" class="form-control" id="elementsInput" 
+                                       value="thunder,water" placeholder="thunder,water,earth,fire,air">
+                                <div class="form-text">Comma-separated list of preferred elements</div>
+                            </div>
+
+                            <!-- Filters -->
+                            <div class="mb-3">
+                                <label class="form-label fw-bold">
+                                    <i class="fas fa-filter me-1"></i>Filters
+                                </label>
+                                
+                                <div class="form-check mb-2">
+                                    <input class="form-check-input" type="checkbox" id="noMythics">
+                                    <label class="form-check-label" for="noMythics">
+                                        Exclude Mythic Items
+                                    </label>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-6">
+                                        <label class="form-label small">Min DPS</label>
+                                        <input type="number" class="form-control form-control-sm" 
+                                               id="minDps" value="0" min="0">
+                                    </div>
+                                    <div class="col-6">
+                                        <label class="form-label small">Min Mana</label>
+                                        <input type="number" class="form-control form-control-sm" 
+                                               id="minMana" value="0" min="0" step="0.1">
+                                    </div>
+                                </div>
+
+                                <div class="mt-2">
+                                    <label class="form-label small">Max Cost (EB)</label>
+                                    <input type="number" class="form-control form-control-sm" 
+                                           id="maxCost" value="0" min="0" placeholder="0 = no limit">
+                                </div>
+                            </div>
+
+                            <!-- Generate Button -->
+                            <button type="submit" class="btn btn-primary w-100" id="generateBtn">
+                                <i class="fas fa-magic me-2"></i>Generate Builds
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Build Results -->
+            <div class="col-lg-8">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
+                        <h5 class="mb-0">
+                            <i class="fas fa-trophy me-2"></i>Build Results
+                        </h5>
+                        <span id="resultsCount" class="badge bg-light text-dark">0 builds</span>
+                    </div>
+                    <div class="card-body">
+                        <div id="buildResults">
+                            <div class="text-center text-muted py-5">
+                                <i class="fas fa-search fa-3x mb-3"></i>
+                                <p>Configure your preferences and click "Generate Builds" to see results</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- AI Assistant Section -->
+<section id="ai-assistant" class="py-5 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="text-center mb-5">
+                    <i class="fas fa-robot text-info me-2"></i>
+                    AI Assistant
+                </h2>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-info text-white">
+                        <h5 class="mb-0">
+                            <i class="fas fa-comments me-2"></i>Ask About Builds
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <!-- Chat Messages -->
+                        <div id="chatMessages" class="chat-container mb-3">
+                            <div class="ai-message">
+                                <div class="message-content">
+                                    <strong>AI Assistant:</strong> Hello! I can help you with Wynncraft builds. 
+                                    Ask me about the best builds for your class, damage calculations, or optimization tips!
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Chat Input -->
+                        <form id="chatForm">
+                            <div class="input-group">
+                                <input type="text" class="form-control" id="chatInput" 
+                                       placeholder="Ask me about builds, mechanics, or optimization..."
+                                       autocomplete="off">
+                                <button type="submit" class="btn btn-info" id="chatSendBtn">
+                                    <i class="fas fa-paper-plane"></i>
+                                </button>
+                            </div>
+                        </form>
+
+                        <!-- Example Questions -->
+                        <div class="mt-3">
+                            <small class="text-muted">Example questions:</small>
+                            <div class="mt-1">
+                                <button class="btn btn-outline-secondary btn-sm me-2 example-question" 
+                                        data-question="What's the best mage spellspam build?">
+                                    Best mage build?
+                                </button>
+                                <button class="btn btn-outline-secondary btn-sm me-2 example-question" 
+                                        data-question="How does spell damage calculation work?">
+                                    Damage calculation?
+                                </button>
+                                <button class="btn btn-outline-secondary btn-sm example-question" 
+                                        data-question="Compare thunder vs fire builds">
+                                    Thunder vs Fire?
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- About Section -->
+<section id="about" class="py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="text-center mb-5">
+                    <i class="fas fa-info-circle text-warning me-2"></i>
+                    About WynnBuilder
+                </h2>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center">
+                        <i class="fas fa-calculator fa-3x text-primary mb-3"></i>
+                        <h5>Accurate Calculations</h5>
+                        <p class="text-muted">
+                            Uses authentic Wynncraft damage formulas, spell costs, and game mechanics
+                            for precise build optimization.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center">
+                        <i class="fas fa-robot fa-3x text-info mb-3"></i>
+                        <h5>AI-Powered</h5>
+                        <p class="text-muted">
+                            Intelligent assistant provides build recommendations, explains mechanics,
+                            and offers optimization suggestions.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center">
+                        <i class="fas fa-share-alt fa-3x text-success mb-3"></i>
+                        <h5>Easy Sharing</h5>
+                        <p class="text-muted">
+                            Export builds as Wynnbuilder-compatible strings or detailed text
+                            for easy sharing with friends.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Loading Modal -->
+<div class="modal fade" id="loadingModal" data-bs-backdrop="static" data-bs-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body text-center py-4">
+                <div class="spinner-border text-primary mb-3" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+                <h5>Generating Builds...</h5>
+                <p class="text-muted mb-0">This may take a few moments</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

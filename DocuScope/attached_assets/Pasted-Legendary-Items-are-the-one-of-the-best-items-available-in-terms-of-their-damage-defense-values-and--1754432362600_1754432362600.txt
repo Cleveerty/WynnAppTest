@@ -1,0 +1,461 @@
+Legendary Items are the one of the best items available in terms of their damage/defense values and level minimum, and display the cyan words "Legendary Item" in their lore.
+
+Legendary items are more common than Fabled and Mythic items, but are rarer than all others.
+
+Legendary items do not give buffs when worn in any certain kind of set, there is some legendary equipment which are usually associated with each other. Such equipment includes the Zodiac Armour and the Uth Weapons.
+
+
+Contents
+1	List of Legendary Weapons
+1.1	Bows
+1.2	Spears
+1.3	Wands
+1.4	Daggers
+1.5	Reliks
+2	List of Legendary Armour
+2.1	Helmets
+2.2	Chestplates
+2.3	Leggings
+2.4	Boots
+3	List of Legendary Accessories
+3.1	Rings
+3.2	Necklaces
+3.3	Bracelets
+4	Trivia
+5	Navigation
+List of Legendary Weapons
+Bows
+Name	Lv. Min	Quest Req	Neutral Dam.	Earth Dam.	Thunder Dam.	Water Dam.	Fire Dam.	Air Dam.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Attack Speed	Slots
+Iron String	5	–	47-63	–	–	–	–	–	10	–	–	–	–	Very Slow	0
+Crackshot	11	–	149-149	–	–	–	–	–	–	–	–	–	–	Super Slow	0
+Witherhead's Bow	12	–	3-12	–	1-15	–	–	–	–	–	–	–	–	Very Fast	1
+Relic	14	–	4-8	8-10	1-14	2-8	4-10	6-8	4	4	4	4	4	Normal	1
+Skin Piercer	18	–	1-55	–	1-55	–	–	–	–	5	–	–	–	Normal	1
+Glacial Crest	27	–	40-80	–	–	30-70	–	–	–	–	20	–	–	Slow	1
+Nemract's Rage	30	–	25-35	–	–	50-65	–	–	–	–	10	–	–	Normal	2
+Damnation	31	–	70-100	–	–	–	–	–	–	–	–	20	–	Normal	2
+Snakeroot Bow	34	–	17-34	–	50-85	–	50-85	–	–	20	–	20	–	Very Slow	2
+Mesarock Arch	36	–	130-130	25-75	–	–	–	–	10	–	–	–	–	Slow	3
+Chaser	39	–	18-22	–	–	–	–	35-45	–	–	–	–	30	Very Fast	1
+Thunderbolt	42	–	14-20	–	1-60	–	–	–	–	20	–	–	–	Super Fast	1
+Eruption	49	–	250-350	100-160	–	–	–	–	30	–	–	10	–	Very Slow	2
+Contamination	51	–	–	5-30	–	–	–	–	–	–	–	–	–	Slow	0
+Infinity	55	–	20-30	20-30	20-30	20-30	20-30	20-30	10	10	10	10	10	Fast	2
+Olux's Prized Bow	55	The Shadow of the Beast	60-100	80-120	–	60-80	–	–	–	–	–	–	–	Slow	2
+Soundwave	59	–	–	–	450-1000	–	–	–	–	70	–	–	–	Super Slow	0
+Clairvoyance	62	–	60-90	–	–	45-75	–	–	–	–	55	–	–	Fast	2
+Redbeard's Hand Canon	66	–	840-1070	–	–	–	–	–	10	–	–	–	–	Super Slow	3
+Spectral Slingshot	67	–	–	25-75	25-75	25-75	25-75	25-75	22	22	22	22	22	Fast	0
+Maelstrom	70	–	–	–	60-110	50-90	–	40-100	–	20	20	–	20	Fast	2
+Destructor	73	–	200-240	–	–	–	–	–	–	50	–	–	–	Fast	2
+Corrupted Witherhead's Bow	74	–	35-75	–	10-220	–	–	–	–	75	–	–	10	Super Fast	2
+Bob's Mythic Bow	75	Reincarnation	350-470	–	–	–	–	–	–	–	–	–	–	Slow	3
+Heracul	77	–	625-900	150-225	–	–	–	–	90	–	–	–	–	Very Slow	3
+Spiritshock	81	–	30-60	–	190-280	–	–	–	–	80	–	–	–	Normal	1
+Thanos Siege Bow	81	The Belly of the Beast	180-320	–	–	–	85-165	85-165	–	–	–	30	30	Slow	2
+Thanos Siege Bow	82	–	180-320	–	–	–	85-165	85-165	–	–	–	30	30	Slow	2
+Torrential Tide	85	–	1-50	–	–	50-200	–	–	–	–	60	–	–	Super Fast	1
+Zero	87	–	0-125	0-125	0-125	0-125	0-125	0-125	22	22	22	22	22	Fast	0
+Plague	88	–	500-875	–	–	–	500-875	–	–	–	–	100	–	Super Slow	2
+Return to Ether	90	–	90-150	–	–	–	–	110-130	–	–	–	–	55	Fast	2
+Hellstrand	92	–	300-400	–	–	–	200-280	–	–	–	–	–	–	Slow	3
+Alka Cometflinger	93	–	–	550-770	–	–	–	–	–	–	–	–	–	Slow	2
+Gale's Force	95	–	120-150	–	–	–	–	120-150	–	30	–	–	70	Very Fast	3
+Cluster	99	–	50-200	–	–	–	–	–	–	–	–	–	–	Super Fast	4
+Stinger	99	–	1600-2000	–	–	–	–	–	–	–	–	–	–	Super Slow	2
+Infused Hive Bow	100	The Qira Hive	400-600	–	–	–	–	–	–	–	–	–	–	Normal	5
+Spears
+Name	Lv. Min	Quest Req	Neutral Dam.	Earth Dam.	Thunder Dam.	Water Dam.	Fire Dam.	Air Dam.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Attack Speed	Slots
+Maltic's Old Spear	7	–	15-20	–	–	–	–	–	–	–	–	–	–	Normal	1
+Clash Hook	13	–	10-15	–	–	–	–	5-10	–	–	–	–	–	Fast	1
+The Berserk	19	–	38-48	8-22	–	–	–	–	10	–	–	–	–	Slow	1
+Legendary Smasher	26	–	50-110	–	–	–	25-35	–	–	–	–	–	–	Very Slow	1
+Sanies	31	–	30-42	–	–	30-42	–	–	–	–	15	–	–	Slow	1
+Chaleur	33	–	25-35	–	–	–	50-65	–	–	–	–	25	–	Slow	0
+Anchor Chain	35	-	40-60	20-100	-	40-80	-	-	15	-	15	-	-	Very Slow	2
+Karma	39	–	–	–	–	30-45	–	–	–	–	25	–	–	Normal	2
+Fierce Thunder	39	–	30-46	–	22-54	–	–	6	–	20	–	–	–	Fast	2
+Dujgon Warrior Hammer	43	Ice Nations	–	62-84	–	–	–	–	15	5	–	–	–	Very Fast	1
+Fissure	48	–	80-130	70-140	–	–	–	–	40	–	–	–	–	Very Slow	2
+Olux's Prized Spear	55	The Shadow of the Beast	40-70	65-90	–	25-40	–	–	–	–	–	–	–	Slow	2
+Fiertè	56	–	40-65	–	–	–	50-100	–	–	–	–	20	–	Normal	2
+Skyfall	59	–	25-55	–	–	–	–	55-95	–	–	–	–	–	Fast	3
+Remikas' Righteousness	63	–	110-130	–	–	–	–	–	–	–	–	–	–	Normal	3
+Scythe	70	–	80-115	–	40-140	–	–	–	20	25	–	–	–	Normal	3
+Demonio	71	–	90-120	–	–	–	130-220	–	–	–	–	60	–	Slow	2
+Nightmare	74	–	–	–	–	–	250-350	–	–	–	–	70	–	Slow	2
+Bob's Mythic Spear	75	Reincarnation	290-360	–	–	–	–	–	–	–	–	–	–	Slow	3
+Blade of Purity	78	–	175-225	–	–	–	–	–	–	–	–	–	–	Fast	0
+Gert Hammer	79	The Hunger of Gerts Part II	500-650	–	–	–	–	–	40	–	–	–	–	Very Slow	2
+Thanos Warhammer	82	–	120-205	65-105	–	–	55-115	–	30	–	–	30	–	Slow	2
+Rikter	84	–	300-400	200-400	–	–	–	–	85	–	–	–	–	Very Slow	2
+Infidel	88	–	0-800	–	–	0-1000	–	–	–	50	50	–	–	Super Slow	2
+Tisaun's Proof	88	–	130-165	–	–	–	–	–	–	–	–	–	–	Fast	1
+Wick	91	–	70-150	–	30-100	–	–	–	–	75	–	–	–	Very Fast	1
+Bedruthan	92	–	140-210	70-140	–	–	–	–	50	–	50	–	–	Normal	3
+Ignition	95	–	65-100	–	–	–	275-400	–	–	–	–	85	–	Slow	2
+Harwrol	97	–	130-180	120-150	–	–	–	80-110	40	–	–	–	40	Normal	2
+Braker	99	–	300-600	–	–	–	–	–	–	–	–	–	–	Slow	3
+Tidebinder	99	–	–	–	–	285-425	–	–	–	–	80	–	–	Slow	3
+Infused Hive Spear	100	The Qira Hive	250-400	–	–	–	–	–	–	–	–	–	–	Normal	5
+Wands
+Name	Lv. Min	Quest Req	Neutral Dam.	Earth Dam.	Thunder Dam.	Water Dam.	Fire Dam.	Air Dam.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Attack Speed	Slots
+Ancient Wand	11	–	14-19	–	–	–	–	–	–	–	–	–	–	Normal	1
+Reticence	18	–	20-30	–	–	–	–	–	–	–	–	–	–	Normal	1
+Detlas' Legacy	25	–	15-25	–	5-30	10-15	–	–	–	10	5	–	–	Slow	2
+Red Candle	30	–	–	–	–	–	30-50	–	–	–	–	15	–	Normal	2
+Hymn of the Dead	31	–	–	–	–	–	–	15-20	–	–	–	–	–	Normal	1
+Blossom	33	–	–	40-65	–	–	–	–	30	–	10	–	–	Normal	2
+Waves Raiser	35	–	–	–	–	44-76	–	–	–	–	35	–	–	Slow	1
+Sprout	40	–	40-50	110-130	–	–	–	–	30	–	–	–	–	Very Slow	2
+Glare	41	–	2-9	–	27-34	–	–	–	–	15	–	–	–	Very Fast	2
+Sage	47	–	54-76	–	–	–	–	–	–	–	–	–	–	Fast	1
+Bough of Fir	53	–	40-65	20-35	–	–	–	–	20	–	10	–	–	Normal	2
+Olux's Prized Wand	55	The Shadow of the Beast	15-40	30-50	–	15-30	–	–	–	–	–	–	–	Normal	2
+Diablo	58	–	50-75	–	–	–	60-95	–	5	–	–	10	–	Slow	1
+Ohms' Wish	64	–	30-50	–	20-40	–	–	10-30	–	25	–	–	25	Fast	2
+Ethereal	70	–	15-30	–	–	50-75	–	–	–	–	60	–	–	Very Fast	2
+Afterimage	71	–	22-28	–	–	–	–	37-45	–	–	–	–	90	Super Fast	2
+Depth	74	–	50-55	–	–	–	30-50	60-65	–	–	–	20	40	Normal	3
+Bob's Mythic Wand	75	Reincarnation	155-215	–	–	–	–	–	–	–	–	–	–	Normal	3
+Prymari	76	–	60-100	–	20-33	20-33	20-33	–	–	25	25	25	–	Normal	3
+Empire Builder	79	–	55-80	–	–	–	–	–	–	–	–	–	–	Fast	8
+Gert Wand	79	The Hunger of Gerts Part II	150-410	–	–	–	–	–	40	–	–	–	40	Slow	2
+Gert Super Special Magic Ultistick	80	The Hunger of Gerts Part II	1-3	–	–	–	–	–	–	–	–	–	–	Slow	0
+Bismuthinite	82	–	140-245	60-105	–	–	–	–	30	–	–	–	–	Slow	2
+Thanos Ironstaff	82	–	80-100	35-55	–	35-55	–	–	30	–	30	–	–	Normal	2
+Lunar Spine	87	–	616-616	–	–	0-250	–	0-250	–	–	50	–	50	Super
+Slow
+
+3
+Judas	89	–	0-100	–	50-50	–	–	–	–	100	–	–	–	Super Fast	3
+Nepta Floodbringer	93	–	–	–	–	80-100	–	–	–	–	110	–	–	Super Fast	2
+Phoenix Wing	94	–	35-75	–	–	–	45-75	30-50	–	–	–	30	20	Fast	2
+Morrowind	96	–	30-90	–	–	–	–	60-180	–	–	–	–	45	Fast	2
+Cascade	98	–	12-24	12-24	12-24	12-24	12-24	12-24	15	15	15	15	15	Very Fast	3
+Bonder	99	–	200-450	–	–	–	–	–	–	–	–	–	–	Slow	4
+Infused Hive Wand	100	The Qira Hive	150-250	–	–	–	–	–	–	–	–	–	–	Fast	–
+Daggers
+Name	Lv. Min	Quest Req	Neutral Dam.	Earth Dam.	Thunder Dam.	Water Dam.	Fire Dam.	Air Dam.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Attack Speed	Slots	Special Effect (Major ID)
+Dislocator	9	–	22-31	–	–	–	–	–	–	–	–	–	–	Slow	0	–
+Iron Knuckle	15	–	14-17	5-10	–	–	–	–	10	–	–	–	–	Very Fast	1	–
+Almuj's Dagger	20	–	10-15	–	5-15	–	–	–	–	15	–	–	8	Super Fast	1	–
+The Divide	26	–	–	1-21	1-21	1-21	1-21	1-21	5	5	5	5	5	Normal	1	–
+Stabsand	32	–	10-190	–	–	–	–	15-20	–	–	–	–	–	Slow	1	–
+Abolition	32	–	–	–	–	–	50-110	–	–	–	–	15	–	Normal	1	–
+Influence	38	–	81-99	–	–	–	–	–	–	–	–	–	–	Normal	3	–
+Hashr Claw	39	–	10-20	–	10-55	–	–	–	–	30	–	–	–	Super Fast	2	–
+Nodguj Warrior Sword	43	Ice Nations	20-35	–	–	40-60	–	–	–	–	10	–	–	Normal	2	–
+Scorpion	44	–	90-120	–	–	–	–	–	–	–	–	–	–	Normal	2	–
+Reaper of Soul	51	–	90-170	–	–	–	–	–	–	–	–	–	–	Normal	2	–
+Impulse	53	-	0-229	126-371	126-371	-	-	-	25	25	-	-	-	Super Slow	2	-
+Olux's Prized Dagger	55	The Shadow of the Beast	25-45	55-60	–	25-40	–	–	–	–	–	–	–	Fast	2	–
+Locrian	57	–	–	–	15-50	27-30	–	20-32	–	15	20	–	15	Very Fast	2	–
+The Exile	65	–	100-125	–	–	–	40-60	–	–	–	–	50	–	Normal	2	–
+Chakram	70	–	35-50	–	10-65	–	–	25-35	–	60	–	–	–	Very Fast	3	–
+Wall Breaker	72	–	200-300	100-1000	–	–	–	–	80	–	–	–	–	Super Slow	2	–
+Bob's Mythic Daggers	75	Reincarnation	170-210	–	–	–	–	–	–	–	–	–	–	Fast	3	–
+Dodegar's Ultimate Weapon	75	The Ultimate Weapon	1-3	–	–	–	–	–	–	–	–	–	–	Fast	0	–
+Arma Gauntlet	75	–	110-150	50-85	–	–	40-95	–	25	–	–	25	–	Normal	2	–
+Rewind	80	–	37-59	–	–	37-53	–	275-75	–	–	50	–	50	Super Fast	2	Sorcery: Spells may cast a second time at no additional cost.
+Thanos Warsword	82	–	55-125	35-55	–	–	–	30-60	30	–	–	–	30	Fast	2	–
+Brass Brand	86	–	155-210	65-90	–	–	–	–	30	30	–	–	–	Fast	3	–
+Manna	89	–	280-480	–	–	70-120	–	–	75	–	25	–	–	Slow	3	–
+Alazarin	89	–	180-300	–	–	–	–	–	15	15	15	15	15	Fast	5	–
+Sawtooth	91	–	50-100	10-20	10-20	10-20	10-20	10-20	20	20	20	20	20	Super Fast	2	–
+Flameshot Hilt	93	–	–	–	–	–	–	1000-1500	–	–	–	100	–	Super Slow	–	–
+Ivory	96	–	130-170	–	–	–	–	70-90	–	–	–	–	60	Very Fast	3	–
+Black	99	–	50-75	–	30-95	–	40-80	–	–	35	–	35	–	Super Fast	3	–
+Slider	99	–	175-350	–	–	–	–	–	–	–	–	–	–	Very Fast	2	–
+Sitis	99	–	230-270	–	–	60-100	–	–	–	–	75	–	–	Fast	3	–
+Infused Hive Dagger	100	The Qira Hive	200-300	–	–	–	–	–	–	–	–	–	–	Very Fast	–	–
+The Exploited	100	–	30-45	–	–	–	75-85	60-100	–	–	–	65	40	Super Fast	3	Greed: Picking up Emeralds heals you and nearby players by 20%.
+Reliks
+Name	Lv. Min	Quest Req	Neutral Dam.	Earth Dam.	Thunder Dam.	Water Dam.	Fire Dam.	Air Dam.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Attack Speed	Slots
+Harsh Noise	6	–	10-16	–	–	–	–	–	–	–	–	–	–	Super Fast	0
+Dusk Painter	10	–	16-20	–	9-18	–	–	–	–	–	–	–	–	Fast	1
+Puppet Master	13	–	103-137	–	–	46-55	–	–	–	–	–	–	–	Super Slow	1
+Helter Skelter	19	–	–	–	19-29	–	–	19-29	–	10	–	–	5	Fast	1
+Cave In	21	–	50-60	40-55	–	–	–	–	18	–	–	–	–	Slow	1
+Cruel Sun	24	–	75-85	–	–	–	75-85	–	–	–	–	15	–	Very Slow	2
+Thriller	28	–	6-28	–	28-50	–	–	–	–	20	–	–	–	Very Fast	2
+Fault Lines	32	–	–	125-130	–	–	125-130	–	15	–	–	15	–	Very Slow	1
+Largo	36	–	50-150	150-250	–	–	–	–	25	–	–	–	–	Very Slow	1
+Sonicboom	36	–	–	–	–	–	–	417-531	–	–	–	–	25	Super Slow	0
+Cleansing Flame	40	–	8-16	–	–	45-55	45-55	–	–	–	20	20	–	Normal	2
+Heavensent	42	–	0-4	–	–	54-66	–	54-66	–	–	17	–	17	Fast	2
+Temporal Lantern	47	–	–	–	–	–	101	95-107	–	–	–	22	22	Slow	2
+Discotek	49	–	–	23-33	23-33	23-33	23-33	23-33	11	11	11	11	11	Fast	2
+Shine Suffocator	52	–	44-53	–	33-40	33-40	–	–	–	25	35	–	–	Very Fast	2
+Wintergreen	54	–	90-100	45-50	–	–	–	45-50	20	–	–	–	25	Normal	2
+Olux's Prized Relik	55	The Shadow of the Beast	60-64	70-72	–	40-48	–	–	–	–	–	–	–	Normal	2
+Mercury Bomb	57	–	–	–	–	–	42-48	–	–	35	–	35	–	Slow	3
+Lightshow	60	–	–	20-22	16-27	18-25	19-23	17-26	15	15	15	15	15	Super Fast	3
+Night Rush	63	–	182-190	–	–	–	–	–	–	–	–	–	50	Fast	3
+Rusted Root	65	–	190-210	190-200	–	–	–	–	40	45	–	–	–	Slow	3
+October Fires	70	–	–	–	–	–	730-740	–	–	–	–	65	–	Very Slow	0
+Paranoia	72	–	83	–	–	–	82	82	–	–	–	35	35	Fast	3
+Cold Integrity	74	–	48-51	–	–	–	–	24-27	–	–	55	–	40	Very Fast	1
+Ancient Runic Relik	75	Reincarnation	300-330	–	–	–	–	–	–	–	–	–	–	Normal	3
+Lumina	80	–	400-457	–	763-800	–	–	423-434	–	45	–	–	35	Super Slow	3
+Thanos Stonesinger	82	–	140-150	70-75	–	–	65-80	–	40	–	–	40	–	Fast	2
+Island Chain	83	–	126-144	160-190	–	160-190	–	–	40	–	40	–	–	Normal	3
+Procrastination	85	–	1714-2857	–	–	–	–	–	–	–	–	–	–	Super Slow	0
+Arbalest	87	–	275-325	300-325	–	–	–	–	55	–	–	–	–	Slow	3
+Salpinx	88	–	163-177	–	–	–	–	163-177	–	–	–	–	77	Fast	3
+Overdrive	88	–	–	–	136-144	136-144	–	–	–	44	44	–	–	Super Slow	1
+Loaded Question	90	–	97-110	–	194-220	–	–	–	–	70	–	–	–	Very Fast	3
+Crimson	91	–	105-125	–	–	120-140	120-140	–	–	–	45	45	–	Normal	4
+Inferna Flamewreath	93	–	–	–	–	–	420-488	–	–	–	–	80	–	Normal	2
+Conference Call	94	–	37-41	–	97-100	–	97-100	–	–	47	–	47	–	Super Fast	2
+Royal Hydrangea	96	–	21-25	–	–	180-220	–	175-225	–	–	65	–	65	Fast	0
+Cryoseism	97	–	–	–	–	345-405	–	–	–	–	70	–	–	Fast	3
+Lower	99	–	485-600	–	–	–	–	–	–	–	–	–	–	Slow	3
+The Watched	100	–	–	85-90	85-90	63-69	85-90	85-90	30	30	30	30	30	Fast	3
+Infused Hive Relik	100	The Qira Hive	380-410	–	–	–	–	–	–	–	–	–	–	Fast	5
+The End	100	–	–	420-444	–	–	–	394-400	55	–	–	–	55	Slow	1
+List of Legendary Armour
+Helmets
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Slots
+Heliophilia	6	–	30	–	–	–	6	–	–	–	–	–	–	1
+Bovine Killer	12	–	65	5	–	–	–	-5	–	–	–	–	–	2
+Neolithic	20	–	145	–	–	–	–	–	10	–	–	15	–	1
+Little Inferno	27	–	240	–	–	-15	20	–	–	–	–	15	–	2
+The Berserker's Helm	34	–	310	–	–	–	–	–	25	–	–	–	–	1
+Pelier	42	–	565	–	20	–	–	-40	–	–	–	–	–	2
+Shinespark	47	–	470	-60	40	-60	40	–	–	30	–	20	–	2
+Venison	54	–	975	70	–	55	–	–	20	–	15	–	–	1
+Call of the Void	56	–	700	–	–	–	–	–	–	–	–	–	–	2
+Mask of Rage	57	The Passage	1050	40	–	–	–	–	30	–	–	–	–	2
+Mask of Hate	57	The Passage	1100	–	60	–	–	–	–	30	–	–	–	2
+Mask of Enlightenment	57	The Passage	750	–	–	100	–	–	–	–	30	–	–	2
+Mask of Courage	57	The Passage	1400	–	–	–	20	–	–	–	–	30	–	2
+Mask of Fear	57	The Passage	1000	–	–	–	–	80	–	–	–	–	30	2
+Perun's Crown	59	–	1000	–	50	–	-75	50	–	50	–	–	50	2
+Spectre	65	–	1600	-50	–	–	-50	–	–	–	–	–	35	2
+Meikyo Shisui	66	–	1500	–	–	60	–	–	–	–	60	–	–	1
+Blood Moon	67	–	1050	150	–	-150	–	–	–	–	–	–	–	–
+Blue Mask	68	–	1	–	–	–	–	–	–	–	–	–	–	2
+The Forgery	74	–	2150	–	30	–	100	30	–	–	–	30	–	2
+Gale's Sight	80	–	1850	-140	70	–	-140	210	–	–	–	–	–	1
+Centipede	80	–	1520	150	80	–	-300	–	35	60	–	–	25	2
+Fenmask	81	–	2050	140	-150	90	–	-70	25	–	25	–	–	2
+Thanos Legionnaire Helm	82	The Belly of the Beast	2275	–	–	–	–	–	40	–	–	–	–	2
+Ossuary	84	–	2400	–	90	–	–	90	–	–	–	–	–	2
+Grillface	87		3100	–	-200	175	125	–	–	–	50	20	2
+Third Eye	88	–	1850	–	–	–	–	–	–	–	75	–	–	3
+Phoenix Prince's Crown	90	–	3900	–	–	-125	125	125	–	–	–	35	35	2
+Aries	92	–	2700	–	–	–	–	–	20	–	–	–	20	1
+Shawl of Gaea	95	–	3500	125	–	-125	125	-125	50	–	–	50	–	1
+Cancer	98	–	3200	–	200	–	–	-200	–	105	–	–	–	3
+Anima-Infused Helmet	100	–	3500	–	150	150	150	–	–	33	33	33	–	–
+Pisces	100	–	2800	–	–	100	–	–	70	–	70	–	–	2
+Chestplates
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Slots
+Blessed Wrappings	5	–	30	–	–	–	–	–	–	–	–	3	–	1
+Chimaera	13	–	81	–	–	–	–	–	–	–	–	–	–	3
+Arakadicus' Body	21	–	145	15	–	–	–	-10	–	–	–	–	–	1
+Web Plate	22	–	50	5	–	–	-10	–	–	–	–	–	–	1
+Katoa's Warmth	23	–	185	–	–	–	15	–	–	–	–	–	–	2
+Nemract's Ruin	27	–	245	20	-10	20	-10	–	10	–	5	–	–	1
+Erratio	35	–	413	–	–	–	–	–	–	6	–	–	12	1
+Mummy's Rag	38	Wrath of the Mummy	400	20	–	–	–	20	–	–	–	–	–	0
+Springtrap	39	–	450	50	–	–	–	–	–	–	–	–	–	2
+Dujgon Warrior Chestplate	41	Ice Nations	625	–	10	–	–	20	–	–	–	–	–	2
+Nodguj Warrior Chestplate	41	Ice Nations	625	10	–	–	20	–	–	–	–	–	–	2
+Giant's Bracer	42	–	600	–	–	–	–	–	20	–	–	–	–	2
+Shade	48	–	450	–	–	–	–	40	–	–	–	–	30	2
+Hearthfire	48	–	900	–	–	–	-50	–	–	–	–	30	–	1
+Sawdust	49	–	700	30	–	–	-40	45	–	–	–	–	–	3
+Ragni's Mail	50	–	775	65	–	–	–	-30	20	–	–	5	–	2
+Blasphemy	50	–	500	–	–	30	–	–	–	–	40	–	–	2
+Matryoshka Shell	55	–	450	50	50	50	50	50	10	10	10	10	10	15
+Cage of Bones	57	–	900	–	50	-120	70	–	–	10	–	50	–	0
+Onenya Hronkas	60	–	1750	100	–	-60	100	-60	30	–	–	85	–	2
+Odyssey	61	–	1100	20	20	20	20	20	15	15	15	15	15	2
+Millennium	63	–	1500	–	–	–	–	–	–	–	–	–	–	3
+Twilight	66	–	1350	–	50	–	–	50	–	50	–	–	50	2
+Admiral	67	–	1600	60	60	60	60	60	–	–	–	–	–	2
+Adamantite	70	–	1700	-40	-80	-80	-80	-80	–	–	–	–	–	3
+Andesite Aegis	77	–	2500	100	100	-50	100	-50	15	–	–	15	–	2
+Thanos Legionnaire Plate	83	The Belly of the Beast	2800	120	-80	-80	120	120	50	–	–	50	50	3
+Booster Plate	84	–	2800	–	–	130	–	100	–	–	25	–	50	2
+Argos	86	–	3000	–	–	–	–	–	–	–	–	50	–	4
+Tisaun's Valor	87	–	3200	–	–	–	–	–	35	–	–	35	–	1
+Libra	91	–	2700	90	90	90	90	90	35	35	35	35	35	5
+Leo	93	–	3800	–	–	-300	200	–	–	–	–	–	–	3
+Aquarius	95	–	2000	–	-100	–	–	–	–	–	110	–	–	3
+Taurus	96	–	3800	200	–	-100	-150	–	80	–	–	–	–	0
+Hetusol	98	–	3500	-100	-160	80	180	–	–	–	–	55	–	2
+Boreal-Plated Aegis	100	–	3000	–	250	250	–	250	–	33	33	–	33	2
+Gravity	100	–	4000	90	90	90	90	90	50	50	50	50	50	3
+Leggings
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Slots
+Darkiron Scrap	3	–	20	–	–	–	–	–	–	–	–	5	–	0
+Opulenity	11	–	63	–	–	–	–	–	–	–	–	–	–	1
+Lemon Legs	18	–	124	-6	18	–	–	–	–	–	–	–	–	2
+Conductor	25	–	180	–	-10	-10	–	–	–	10	5	–	–	1
+Alternator	32		250	-5	+5	-10				20				1
+Dead Sands	32	–	280	–	–	–	–	–	–	–	–	–	–	1
+Chained Pixels	38	–	512	16	16	16	16	16	8	8	8	8	8	0
+Holy Greaves	40	–	500	-30	25	25	–	–	–	–	–	–	–	2
+Winter's Essence	44	–	600	–	–	50	-65	50	–	–	20	–	20	2
+Bridge of the Divide	51	–	650	–	-10	10	–	–	–	20	20	–	–	2
+Ohms' Rage	52	–	880	–	30	–	–	–	–	25	–	–	–	2
+Kratke	58	–	1350	30	30	30	30	30	10	10	10	10	10	3
+Kelight's Shield	64	–	1550	60	75	-75	75	-75	–	–	–	40	–	2
+Crystal	69	–	1950	-70	-70	110	–	110	–	–	30	–	45	2
+Post-Ultima	76	–	2000	-50	-50	-50	-50	-50	40	25	–	–	–	3
+Air Sanctuary	80	–	–	–	–	–	-90	200	–	–	–	–	70	2
+Earth Sanctuary	80	–	–	170	–	–	–	-90	70	–	–	–	–	2
+Thunder Sanctuary	80	–	–	-70	190	–	–	–	–	70	–	–	–	2
+Water Sanctuary	80	–	–	–	-70	250	–	–	–	–	70	–	–	2
+Fire Sanctuary	80	–	–	–	–	-90	200	–	–	–	–	70	–	2
+Dark Shroud	82	–	1775	-180	120	–	–	–	–	15	–	–	50	2
+Thanos Legionnaire Leggings	82	The Belly of the Beast	2475	–	–	–	–	–	–	–	–	–	40	2
+Greaves of the Veneer	89	–	3500	100	–	–	100	–	30	–	–	70	–	1
+Heat Sink	92	–	3400	–	–	–	160	–	–	–	–	50	65	2
+Sagittarius	94	–	2700	-200	–	–	–	160	–	–	–	–	100	3
+Gemini	95	–	3100	-200	200	–	–	200	–	70	–	–	70	4
+Vaward	99	–	3350	–	–	–	–	–	–	–	–	–	–	3
+Hephaestus-Forged Leggings	100	–	4500	–	175	–	175	175	–	33	–	33	33	0
+Boots
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Slots	Special Effect (Major ID)
+Audacity	9	–	35	–	–	–	–	–	–	–	–	–	–	2	–
+Omnitread Boots	15	–	90	10	10	10	10	10	–	–	–	–	10	2	–
+Hunger	17	–	110	–	–	–	–	–	–	–	–	–	–	2	–
+Cyclo	21	–	150	–	–	–	–	–	–	8	–	–	4	1	–
+Almuj's Walker	25	–	200	–	–	–	–	–	–	–	–	–	–	3	–
+Disco	27	–	100	–	–	–	–	–	–	–	–	–	–	3	–
+Mud	28	–	280	20	–	–	–	–	15	–	–	–	–	1	–
+Meanderthal	29	–	270	20	–	–	–	–	12	–	–	–	–	1	–
+Giant Step	37	–	400	–	–	–	–	–	–	–	–	–	–	1	–
+Seven-League Boots	44	–	450	-50	–	–	–	30	–	–	–	–	50	0	Lightweight: Removes fall damage
+Cerid's Ingenuity	45	–	630	–	–	50	50	–	–	–	–	–	–	2	–
+Heartbreak	49	–	550	–	30	–	–	–	–	50	–	–	–	2	–
+Iron Foot	49	–	650	–	–	–	–	–	35	–	–	–	–	2	–
+Anchoryl	52	–	900	–	–	–	–	–	–	–	–	25	–	2	–
+Bad Wolf	60	–	1350	–	70	–	–	-100	–	35	–	–	–	3	–
+Abysso Galoshes	60	Beneath the Depths	1400	–	80	50	–	–	–	15	15	–	–	2	–
+Pirate Luck	60	–	320	–	–	60	–	–	–	–	–	–	–	2	–
+Sodeta Boots	66	Lost Soles	1650	–	–	–	–	–	–	–	–	–	–	3	–
+Stalagmites	67	–	1750	–	100	-50	100	-70	20	20	–	–	–	2	–
+Wavelength	67	–	1400	40	40	40	40	40	14	14	14	14	14	3	–
+Passus Lux	73	–	1700	-110	120	120	–	–	–	25	25	–	–	2	Lightweight: Removes fall damage
+Ventus Tail	80	–	2000	-200	120	–	–	120	–	35	–	–	35	–	–
+Thanos Legionnaire Greaves	82	The Belly of the Beast	2700	–	–	–	–	–	–	–	–	40	–	2	–
+Achilles	86	–	2550	500	–	-50	–	–	35	–	–	20	–	1	–
+Steamjet Walkers	86	–	1700	–	-110	-65	–	–	–	20	20	–	60	1	Lightweight: Removes fall damage
+Scorpio	90	–	2800	80	–	-150	160	–	20	–	–	40	–	2	–
+Memento	92	–	3000	–	-100	150	–	–	–	–	50	–	–	3	–
+Nether's Scar	95	–	3600	–	125	-150	125	-150	–	50	–	50	–	2	–
+Virgo	97	–	–	–	–	–	–	–	–	–	–	–	–	3	–
+Capricorn	99	–	2900	-60	-60	80	–	80	–	–	50	–	50	3	–
+Gaea-Hewn Boots	100	–	4000	225	–	225	225	–	33	–	33	33	–	0	–
+List of Legendary Accessories
+Rings
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Special Effect (Major ID)
+Rarity	1	–	–	–	–	–	–	–	–	–	–	–	–	–
+Concentration	8	–	-5	–	–	–	–	–	–	–	–	–	–	–
+Field	30	–	-50	1	2	5	3	4	–	–	–	–	–	–
+Precious	41	–	-80	6	–	6	6	6	–	–	–	–	–	–
+Lodestone	56	–	–	-15	–	10	–	–	–	–	–	–	–	–
+Rycar's Elation	59	–	-120	–	–	–	–	–	–	–	–	–	–	–
+Unspeakable	65	–	-239	–	–	–	–	–	36	47	–	–	–	–
+Old Keeper's Ring	82	–	109	–	–	–	–	–	–	–	–	–	–	Greed: Picking up Emeralds heals you and nearby players by 20%.
+Bronze Basic Ring	90	–	200	–	–	–	–	–	–	–	–	–	–	–
+Byte	91	–	400	–	–	–	–	–	–	–	–	–	–	–
+Kaze	91	–	-150	–	–	–	-75	50	–	–	–	–	75	–
+Diamond Fiber Ring	95	–	–	45	–	–	–	–	100	–	–	–	–	–
+Diamond Fusion Ring	95	–	–	30	30	30	30	30	20	20	20	20	20	–
+Diamond Hydro Ring	95	–	–	–	–	80	–	–	–	–	100	–	–	–
+Diamond Static Ring	95	–	-280	–	60	–	–	–	–	100	–	–	–	–
+Diamond Steam Ring	95	–	-180	–	–	–	–	70	–	–	–	–	100	–
+Diamond Solar Ring	95	–	1000	–	–	–	60	–	–	–	–	100	–	–
+Gold Fiber Ring	95	–	–	30	–	–	–	–	75	–	–	–	–	–
+Gold Fusion Ring	95	–	–	10	10	10	10	10	15	15	15	15	15	–
+Gold Hydro Ring	95	–	–	–	–	55	–	–	–	–	75	–	–	–
+Gold Solar Ring	95	–	–	–	–	–	50	–	–	–	–	75	–	–
+Gold Static Ring	95	–	-210	–	40	–	–	–	–	75	–	–	–	–
+Gold Steam Ring	95	–	-120	–	–	–	–	45	–	–	–	–	75	–
+Silver Fiber Ring	95	–	–	20	–	–	–	–	50	–	–	–	–	–
+Silver Fusion Ring	95	–	–	–	–	–	–	–	10	10	10	10	10	–
+Silver Hydro Ring	95	–	–	–	–	40	–	–	–	–	50	–	–	–
+Silver Solar Ring	95	–	550	–	–	–	40	–	–	–	–	50	–	–
+Silver Static Ring	95	–	-140	–	20	–	–	–	–	50	–	–	–	–
+Silver Steam Ring	95	–	-60	–	–	–	–	30	–	–	–	–	50	–
+Intensity	100	–	150	–	–	–	–	–	–	–	–	–	–	–
+Prism	100	The Realm of Light	-500	50	50	50	50	50	25	25	25	25	25	–
+Necklaces
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min
+Wynnterfest 2016 Souvenir	1	–	–	–	–	–	–	–	–	–	–	–	–
+Master	11	–	-10	–	–	–	–	–	2	2	2	2	2
+Witherhead's Talisman	12	–	–	–	–	–	–	–	–	–	–	–	–
+Criistal	49	–	–	–	–	–	–	–	–	–	–	–	–
+Hexed Amulet	51	–	–	–	–	–	–	–	–	–	–	–	–
+Abyssal Amulet	72	Eye of the Storm	-75	–	30	–	30	–	–	–	–	–	–
+Ensa's Faith	73	–	–	–	-40	40	–	–	–	–	25	–	–
+Royal Shocking Amulet	75	WynnExcavation Site D	–	–	–	–	–	–	–	–	–	–	–
+Royal Blazing Amulet	75	WynnExcavation Site D	–	–	–	–	–	–	–	–	–	–	–
+Royal Cyclone Amulet	75	WynnExcavation Site D	–	–	–	–	–	–	–	–	–	–	–
+Royal Dusty Amulet	75	WynnExcavation Site D	–	–	–	–	–	–	–	–	–	–	–
+Royal Stormy Amulet	75	WynnExcavation Site D	–	–	–	–	–	–	–	–	–	–	–
+Altum Spatium	80	???	251	15	15	15	15	15	–	–	–	–	–
+Shatterglass	91	–	–	-10	-10	-10	-10	-10	50	–	–	–	–
+Gigabyte	93	–	800	–	–	–	–	–	–	–	–	–	–
+Diamond Fiber Necklace	95	–	–	80	–	–	–	–	100	–	–	–	–
+Diamond Fusion Necklace	95	–	–	40	40	40	40	40	20	20	20	20	20
+Diamond Hydro Necklace	95	–	–	–	–	120	–	–	–	–	100	–	–
+Diamond Solar Necklace	95	–	900	–	–	–	120	–	–	–	–	100	–
+Diamond Static Necklace	95	–	-550	–	50	–	–	–	–	100	–	–	–
+Diamond Steam Necklace	95	–	-240	–	–	–	–	100	–	–	–	–	100
+Gold Fiber Necklace	95	–	–	60	–	–	–	–	75	–	–	–	–
+Gold Fusion Necklace	95	–	–	15	15	15	15	15	15	15	15	15	15
+Gold Hydro Necklace	95	–	–	–	–	80	–	–	–	–	80	–	–
+Gold Solar Necklace	95	–	825	–	–	–	90	–	–	–	–	75	–
+Gold Static Necklace	95	–	-425	–	40	–	–	–	–	75	–	–	–
+Gold Steam Necklace	95	–	-180	–	–	–	–	75	–	–	–	–	75
+Silver Fiber Necklace	95	–	–	50	–	–	–	–	50	–	–	–	–
+Silver Fusion Necklace	95	–	–	–	–	–	–	–	10	10	10	10	10
+Silver Hydro Necklace	95	–	–	–	–	50	–	–	–	–	50	–	–
+Silver Solar Necklace	95	–	750	–	–	–	70	–	–	–	–	50	–
+Silver Static Necklace	95	–	-350	–	30	–	–	–	–	50	–	–	–
+Silver Steam Necklace	95	–	-120	–	–	–	–	60	–	–	–	–	50
+Necklace of a Thousand Storms	98	–	-500	–	–	–	–	25	–	–	–	–	70
+Contrast	100	–	200	–	–	–	–	–	–	–	–	–	–
+Planet Healer	100	–	-300	–	–	–	–	–	–	–	–	–	–
+Legendary Medallion	100	–	–	–	–	–	–	–	–	–	–	–	–
+Bracelets
+Name	Lv. Min	Quest Req	Health	Earth Def.	Thunder Def.	Water Def.	Fire Def.	Air Def.	Str. Min	Dex. Min	Int. Min	Def. Min	Agi. Min	Special Effect (Major ID)
+Buster Bracer	20	–	–	-15	-15	-15	-15	-15	20	–	–	–	–	–
+Ra	36	–	–	–	–	-20	–	–	–	–	–	–	–	–
+Reminiscence	41	–	–	-30	–	10	20	–	–	–	–	–	–	–
+Call to Concord	64	–	625	10	–	–	25	25	–	–	–	40	–	–
+Remikas' Authority	66	–	150	30	30	30	30	30	–	–	–	–	–	–
+Vanguard	77	–	–	–	–	–	–	–	–	–	–	–	–	–
+Bronze Basic Bracelet	90	–	500	–	–	–	–	–	–	–	–	–	–	–
+Follow The Wind	90	–	-350	–	–	–	–	50	–	–	–	–	70	–
+Megabyte	92	–	800	–	–	–	–	–	–	–	–	–	–	–
+Diamond Fiber Bracelet	95	–	75	65	–	–	–	–	100	–	–	–	–	–
+Diamond Fusion Bracelet	95	–	–	60	60	60	60	60	20	20	20	20	20	–
+Diamond Hydro Bracelet	95	–	–	–	–	80	–	–	–	–	100	–	–	–
+Diamond Solar Bracelet	95	–	1500	–	–	–	80	–	–	–	–	100	–	–
+Diamond Static Bracelet	95	–	-450	–	100	–	–	–	–	100	–	–	–	–
+Diamond Steam Bracelet	95	–	-250	–	–	–	–	135	–	–	–	–	100	–
+Gold Fiber Bracelet	95	–	–	50	–	–	–	–	75	–	–	–	–	–
+Gold Fusion Bracelet	95	–	–	35	35	35	35	35	15	15	15	15	15	–
+Gold Hydro Bracelet	95	–	–	–	–	65	–	–	–	–	75	–	–	–
+Gold Solar Bracelet	95	–	1100	–	–	–	65	–	–	–	–	75	–	–
+Gold Static Bracelet	95	–	-350	–	75	–	–	–	–	75	–	–	–	–
+Gold Steam Bracelet	95	–	-250	–	–	–	–	105	–	–	–	–	75	–
+Silver Fiber Bracelet	95	–	–	40	–	–	–	–	50	–	–	–	–	–
+Silver Fusion Bracelet	95	–	–	20	20	20	20	20	10	10	10	10	10	–
+Silver Hydro Bracelet	95	–	–	–	–	55	–	–	–	–	50	–	–	–
+Silver Solar Bracelet	95	–	900	–	–	–	50	–	–	–	–	50	–	–
+Silver Static Bracelet	95	–	-280	–	50	–	–	–	–	50	–	–	–	–
+Silver Steam Bracelet	95	–	-175	–	–	–	–	90	–	–	–	–	50	–
+Knucklebones	99	–	–	–	–	–	–	–	–	–	–	–	–	–
+Pandemonium	99	???	-300	-200	-200	-200	-200	-200	45	45	45	45	45	Madness: Cast any random attack, spell, or powder special
+from any class every 10 seconds at no mana cost.
+
+Prowess	100	–	850	–	–	–	–	–	–	–	–	–	–	–

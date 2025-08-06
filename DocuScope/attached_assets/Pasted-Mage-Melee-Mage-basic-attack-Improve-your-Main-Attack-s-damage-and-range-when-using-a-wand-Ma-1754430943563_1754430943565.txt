@@ -1,0 +1,146 @@
+Mage Melee
+Mage basic attack.
+
+Improve your Main Attack's damage and range when using a wand.
+Main Attack Damage: +5%
+Main Attack Range: +2 Blocks
+
+Improve your Main Attack's damage and range when using a wand.
+Main Attack Damage: +5%
+Main Attack Range: +2 Blocks
+
+Elemental Mastery
+Increase your base damage from all Air attacks.
+
+Air Damage: +3-4
+Air Damage: +15%
+
+Increase your base damage from all Thunder attacks.
+
+Thunder Damage: +1-8
+Thunder Damage: +10%
+
+Meteor
+Click Combo: RIGHT-LEFT-LEFT
+Conjures a slow but powerful meteor from the sky, dealing massive damage over a large area.
+Mana Cost: 50
+Total Damage: 400% (of your DPS)
+ (Neutral: 330%)
+ (Earth: 70%)
+Range: 18 Blocks
+Area of Effect: 5 Blocks (Circle-Shaped)
+
+Reduce the mana cost of Meteor.
+Mana Cost: -10
+
+Teleport
+Click Combo: RIGHT-RIGHT-RIGHT
+Instantly teleport in the direction you're facing.
+Mana Cost: 25
+Range: 16 Blocks
+
+Reduce the mana cost of Teleport.
+Mana Cost: -5
+
+When using Teleport, slash through the air and deal damage to enemies you pierce.
+
+Total Damage: 100% (of your DPS)
+ (Neutral: 75%)
+ (Air: 25%)
+Area of Effect: 1.5 Blocks (Circle-Shaped)
+
+Teleport will blind enemies, confusing them for a brief period of time.
+
+Effect: Blindness to Enemies
+Duration: 1s
+
+Teleport will trigger 2 times in quick succession.
+
+Range: -4 Blocks
+
+Heal
+Click Combo: RIGHT-LEFT-RIGHT
+Heals you and nearby allies in a large area around you. (When healing others, you can't heal more than 30% of their max health)
+Mana Cost: 35
+Total Heal: 15% (of your max health)
+Range: 5 Blocks
+Duration: 0.6s
+
+Reduce the mana cost of Heal.
+Mana Cost: -5
+
+Ice Snake
+Click Combo: RIGHT-RIGHT-LEFT
+Conjures a fast-moving ice snake that damages and slows enemies.
+Mana Cost: 30
+Total Damage: 175% (of your DPS)
+ (Neutral: 120%)
+ (Water: 55%)
+Range: 18 Blocks
+Area of Effect: 2 Blocks (Circle-Shaped)
+Effect: 40% Slowness to Enemies
+Duration: 3s
+
+Reduce the mana cost of Ice Snake.
+Mana Cost: -5
+
+Reduce the Mana cost of Ice Snake by 5.
+
+Ice Snake will add +3 Winded to enemies and deal more damage.
+
+Total Damage: +30% (of your DPS)
+ (Neutral: +15%)
+ (Air: +15%)
+
+Windsweeper
+Your Main Attack will add +1 Winded to enemies you hit. (Max 10, 0.2s Cooldown)
+Ice Snake will deal additional damage to enemies for every Winded they have.
+Winded will decay once every 5s.
+
+Total Damage: 15% (of your DPS, per Winded)
+ (Neutral: 10%)
+ (Water: 5%)
+
+Meteor and Ophanim will deal additional damage to enemies for every Winded they have.
+
+Total Damage: 30% (of your DPS, per Winded)
+ (Neutral: 25%)
+ (Earth: 5%)
+
+Total Damage: 10% (of your DPS, with Thunderstorm, per Winded)
+ (Neutral: 8%)
+ (Earth: 2%)
+
+Total Damage: 3% (of your DPS, with Ophanim, per Winded)
+ (Neutral: 2%)
+ (Earth: 1%)
+
+Teleport will deal additional damage to enemies for every Winded they have.
+
+Total Damage: 16% (of your DPS, per Winded)
+ (Neutral: 10%)
+ (Thunder: 3%)
+ (Air: 3%)
+
+If you kill an enemy with Winded on them, the leftover Winded will spread to other nearby foes. (Max 10)
+
+Range: 8 Blocks
+
+Enemies will deal -0.5% damage for every Winded they have.
+
+Increase your maximum Winded by +10.
+
+Increase your maximum Winded by +10.
+
+Time Dilation
+Creates an area of effect when sprinting that increases the walk speed of all allies the longer they run in it. (Step out or stop running to cancel)
+
+Effect: +10% Speed Bonus to Allies (per 1s, +300% Max)
+Area of Effect: 2 Blocks (Circle-Shaped)
+
+Timelock
+Holding shift and casting Heal will absorb all Winded on nearby enemies and make you Timelocked.
+While Timelocked, your mana will not be depleted and you become immovable from external forces. All enemies will receive damage as if they had the amount of Winded you absorbed. (Max 60)
+
+Range: 12 Blocks
+Duration: +1s (per 5 Winded absorbed, Max 6s)

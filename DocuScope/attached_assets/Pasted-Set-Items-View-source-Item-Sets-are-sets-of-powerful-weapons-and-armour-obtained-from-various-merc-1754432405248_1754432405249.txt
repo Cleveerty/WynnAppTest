@@ -1,0 +1,995 @@
+Set Items
+View source
+Item Sets are sets of powerful weapons and armour obtained from various merchants, quests and mobs throughout the map. They provide a 'set bonus' when multiple pieces from the set are worn. After the Gavel Expansion, most Set armours are no longer sold, and can be obtained in areas near the Merchant (For example, the Leaf Set is dropped from mobs in the Nivla Woods)
+
+These are not all the sets to exist, and more are still being added. Do not take this page for the complete list.
+
+
+Contents
+1	Leaf Set
+2	Bear Set
+3	Pigman Set
+4	Spore Set
+5	Beachside Set
+6	Tribal Set
+7	Bony Set
+8	Adventurer's Set
+9	Horse Set
+10	Relic Set
+11	Nether Set
+12	Bandit's Set
+13	Silverfish Set
+14	Outlaw Set
+15	Snow Set
+16	Goblin Set
+17	Ghostly Set
+18	Wynnterfest 2016 Set
+19	Elf Set
+20	Slime Set
+21	Jester Set
+22	Ultramarine Set
+23	Saint's Set
+24	Champion Set
+25	Kaerynn's Set
+26	Clock Set
+27	Snail Set
+28	Cosmic Set
+29	Morph Set
+Leaf Set
+Leaf Armour is the lowest level and earliest obtainable of all set armours. They are dyed green and are dropped by mobs located in Nivla Woods. It is best worn at level 2, since the chipped leather tunic and leggings are better.
+
+The Leaf Armour set is composed of the following pieces:
+
+Icon	Item	Identification Price	Lv. Min	Requirements	Health	Elemental Defense	Slots	Skill Points	Identifications
+
+Leaf Cap		2	–	+9	+2 ✤ Earth	1	-	
++2-8% Health Regen (%)
++1 Health Regen
+
+Leaf Tunic		6	–	+22	–	1	
++3 Strength Points
++1-3 Health Regen
++2-7% Thorns
+
+Leaf Pants		5	–	+17	+3 ✤ Earth	1	-	
++2-10% Health Regen (%)
++2-9% Thorns
+
+Leaf Boots		4	–	+14	+2 ✤ Earth	1	-	
++3-13% Health Regen (%)
++1 Health Regen
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Health	–	+10	+20	+60
+Health Regen (%)	–	+5%	+12%	+25%
+Health Regen	–	+1	+3	+7
+Thorns	–	+7%	+18%	+35%
+Bear Set
+Bear Armour can be bought from The Bear Zoo Souvenir Merchant. The Bear Mask costs 48 emeralds and the Bear Body costs 64 emeralds.
+
+Icon	Item	Identification Price	Lv. Min	Requirements	Health	Elemental Defense	Slots	Skill Points	Identifications
+
+Bear Mask	N/A	15	–	55	–	–	
++2 Strength
++4% Melee Attack Damage
++4 Main Attack Neutral Damage
+
+Bear Body	N/A	16	–	75	–	–	–	
++6% Main Attack Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus
+Health	–	+30
+Main Attack Damage	–	+14%
+Main Attack Neutral Damage	–	+20
+Pigman Set
+The Pigman Armour is an item set dropped from the Pigmen populating the Pigmen Ravines. It is a 2-piece set containing a helmet and a spear.
+
+Icon	Item	Identification Price	Lv. Min	Requirements	Health	Elemental Defense	Slots	Skill Points	Identifications
+
+Pigman Helmet		15	
+5 Strength
++80	
+-5 ❋ Air
++5 ✤ Earth
+1	-	
+-3-5% Walk Speed
++4-18% Earth Damage
+Icon	Item	Identification Price	Lv. Min	Type	Requirements	Attack Speed	Main Attack Neutral Damage	Elemental Damage	Slots	Skill Points	Identifications
+
+Pigman Battle Hammer		16	Spear (Warrior/Knight)	
+5 Strength
+Very Slow	24-32 ✣ Neutral damage	
+28-36 ✤ Earth damage
+1	
++4 Strength
+–4-8% Walk Speed
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus
+Strength	–	+20
+Earth Damage	–	+40%
+Spore Set
+The Spore set is an item set dropped from the mushroom enemies near and on the Black Road. It is a 2-piece set containing a helmet and a dagger.
+
+Icon	Item	Identification Price	Lv. Min	Requirements	Health	Elemental Defense	Slots	Skill Points	Identifications
+
+Spore Cap		13	-	+55	-	1	
++4 Strength
++5-23/3s Poison
+Icon	Item	Identification Price	Lv. Min	Type	Requirements	Attack Speed	Main Attack Neutral Damage	Elemental Damage	Slots	Skill Points	Identifications
+
+Spore Shortsword		15	Dagger (Assassin/Ninja)	-	Super Fast	11-15 ✣ Neutral damage	-	1	-	
++3-13% Exploding
++11-47/3s Poison
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus
+Poison	-	+70/3s
+Life Steal	-	+20/4s
+Exploding	-	+20%
+Beachside Set
+The Beachside Set is an item set dropped along the Coastal Trail by the enemies closer to Nemract. It is a 2-piece set containing a helmet and a relik.
+
+Icon	Item	Identification Price	Lv. Min	Requirements	Health	Elemental Defense	Slots	Skill Points	Identifications
+
+Beachside Headwrap		17	
+5 Intelligence
++75	
++6 ✽ Water
+1	
++1-4 Intelligence
++3-11% Loot Bonus
++3-11 Water Defence
+Icon	Item	Identification Price	Lv. Min	Type	Requirements	Attack Speed	Main Attack Neutral Damage	Elemental Damage	Slots	Skill Points	Identifications
+
+Beachside Conch		19	Relik (Shaman/Skyseer)	
+8 intelligence
+Slow	42-48 ✣ Neutral damage	-	1	-	
+-8-16% Main Attack Damage
+-5-10 Spell Damage
++2-10% Water Defence
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus
+Loot Bonus	–	+20%
+Water Damage	–	+35%
+Water Defence	–	+25%
+Tribal Set
+The Tribal Armour set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Tribal Cap	18	–	65	–	1	
++4% Loot Bonus
++2 Agility Points
+
+Tribal Tunic	18	–	85	–	1	
++2 Dexterity Points
++2 Raw Melee Damage Bonus
+
+Tribal Pants	18	–	80	–	1	
++4% Health Regen
++4% Melee Damage Bonus
++2 Strength Points
+
+Tribal Boots	18	–	70	–	1	
+-3% Spell Damage Bonus
++4% Melee Damage Bonus
++1 Agility Points
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Health Bonus	-	+100	+70	+40
+Walking Speed Bonus	-	+5%	+10%	+15%
+Raw Spell Damage Bonus	-	+2	+10	+28
+Raw Melee Damage Bonus	-	+2	+10	+22
+Bony Set
+The Bony Set is an item set dropped from the Skeletons in and around Ancient Nemract. It is a 2-piece set containing a helmet and a bow.
+
+Icon	Item	Identification Price	Lv. Min	Requirements	Health	Elemental Defense	Slots	Skill Points	Identifications
+
+Bony Circlet	46	21	
+6 Agility
++90	
++5 ❋ Air
+1	-	
++2-10% Main Attack Damage
++9-39 Main Attack Neutral Damage
+Icon	Item	Identification Price	Lv. Min	Type	Requirements	Attack Speed	Main Attack Neutral Damage	Elemental Damage	Slots	Skill Points	Identifications
+
+Bony Bow		22	Bow (Archer/Hunter)	
+8 Agility
+Fast	15-36 ✣ Neutral damage	
+8-12 ❋ Air damage
+1	
++6 Agility
++2-10% Main Attack Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus
+Agility	–	+8
+Main Attack Damage	–	+45
+Air Damage	–	+15%
+
+
+Adventurer's Set
+Adventurer's Armour is a lower-leveled set, composed of the following pieces:
+
+Icon	Item Name	Lv. Min	Requirements	Health	Slots	Avg. Identifications
+
+Adventurer's Cap	26	–	+135	1	
++1 Defense
++1 Intelligence
++1 Agility
++1 Dexterity
++1 Strength
+
+Adventurer's Tunic	29	–	+165	1	
++1 Defense
++1 Intelligence
++1 Agility
++1 Dexterity
++1 Strength
+
+Adventurer's Pants	28	–	+153	1	
++1 Defense
++1 Intelligence
++1 Agility
++1 Dexterity
++1 Strength
+
+Adventurer's Boots	27	–	+147	1	
++1 Defense
++1 Intelligence
++1 Agility
++1 Dexterity
++1 Strength
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+XP Bonus	-	+10%	+20%	+50%
+Loot Bonus	-	+5%	+10%	+30%
+Main Attack Damage	-	+4%	+12%	+25%
+Spell Damage	-	+4%	+12%	+25%
+Walk Speed	-	+2%	+5%	+15%
+Soul Point Regen	-	+5%	+15%	+50%
+Health Bonus	-	+15	+40	+175
+Mana Regen	-	-	-	+12/5s
+Horse Set
+The Horse Armour set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Horse Mask	22	–	+130	–	2	
++10% Health Regen
++8% Melee Damage Bonus
++2 Strength Points
++2 Agility Points
+-3 Dexterity Points
++7% Walking Speed Bonus
+-4 Raw Melee Damage Bonus
+
+Horse Hoof	22	–	+300	–	2	
++5 Agility Points
++11% Walking Speed Bonus
++8% Bonus Air Damage
++8% Bonus Earth Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus
+Walking Speed Bonus	-	+20%
+Agility Points	-	+8
+Bonus Air Damage	-	+5%
+Bonus Earth Damage	-	+5%
+Relic Set
+As after the update that removed the Relic Set, the set split into 5 that each one focus different element. Each piece is at a different level and can be found in a different area:
+
+Boots are level 25 and found at the Savannah
+
+Helmets are level 30 and found at Desert of Almuj
+
+Chestplates are level 35 and found at Mesa
+
+Pants are level 40 and found at Nesaak Forest
+
+Nether Set
+The Nether Set used to be bought in the old Nether, but now it is dropped by monsters around the Roots of Corruption.
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Nether Cap	24	8 Defense	125	+7 ✹ Fire
+-4 ✽ Water	1	
++2 Defense Points
++3% Exploding
++3% Bonus Fire Defense
+
+Nether Tunic	25	–	130	+4 ✹ Fire
+-5 ✽ Water	1	
++4 Defense Points
+-2 Intelligence Points
++5% Bonus Fire Damage
+-5% Bonus Water Damage
+
+Nether Pants	27	10 Defense	125	-8 ✽ Water	1	
++2% Exploding
++40 Health Bonus
+
+Nether Boots	28	10 Defense	140	+3 ✹ Fire	1	
++5% XP Bonus
++5 Raw Melee Damage Bonus
++8% Bonus Fire Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Defense Points	-	-	+4	+8
+Exploding	-	+2%	+4%	+6%
+Bonus Fire Damage	-	+4%	+12%	+22%
+Bonus Water Damage	-	-2%	-10%	-26%
+Bandit's Set
+The Bandit's Set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Slots	Avg. Identifications
+
+Bandit's Bangle	36	–	-25	–	
++3% Stealing
++5% Loot Bonus
+
+Bandit's Ring	32	–	-25	–	
++2% Stealing
++4% Loot Bonus
+
+Bandit's Locket	38	–	-25	–	
++4% Stealing
++3% Loot Bonus
+
+Bandit's Knuckle	36	–	-25	–	
++2% Stealing
++4% Melee Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+XP Bonus	-	3%	7%	12%
+Loot Bonus	-	4%	9%	15%
+Stealing	-	1%	3%	6%
+Silverfish Set
+The Silverfish Armour set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Silverfish Helmet	34	20 Agility	+110	+12 ❋ Air+6 ✤ Earth	2	
++4% Walking Speed Bonus
++7% Bonus Air Damage
++4% Bonus Thunder Damage
++72/3s Poison
+
+Silverfish Boots	32	15 Agility	+90	+10 ❋ Air	2	
++3 Agility Points
++4% Walking Speed Bonus
++3 Raw Melee Damage Bonus
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus
+Agility Points	-	+5
+Walking Speed Bonus	-	+5%
+Bonus Air Damage	-	+10%
+Outlaw Set
+The Outlaw Armour set is composed of the following pieces:
+
+Icon	Name	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Outlaw Cap	39	40 Agility	320	-20 ✹ Fire	1	
++29/4s Life Steal
++3% Stealing
++51*** Main Attack Neutral Damage
+
+Outlaw Tunic	38	35 Agility	310	-20 ✽ Water	–	
++31/4s* Life Steal
++2% Stealing
++4% Air Damage
+
+Outlaw Pants	37	35 Agility	290	-20 ✦ Thunder	1	
++4% Main Attack Damage
++23/4s Life Steal
++4%* Stealing
+
+Outlaw Boots	36	30 Agility	280	-20 ✤ Earth	2	
++25/4s Life Steal
++6%* Stealing
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Life Steal	-	+11/4s	+22/4s	+45/4s
+XP Bonus	-	+5%	+10%	+25%
+Agility	-	+4	+8	+28
+Stealing	-	+2%	+4%	+8%
+Snow Set
+The Snow Armour set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Snow Helmet	42	–	+300	+15 ❋ Air	2	
++5% Reflection
++5% Bonus Water Damage
++5% Bonus Air Damage
+
+Snow Tunic	44	25 Intelligence
+25 Agility	+450	-35 ✹ Fire	2	
++3 Intelligence Points
++2 Agility Points
++10 Raw Melee Damage Bonus
+
+Snow Pants	43	–	+365	–	2	
++10% Health Regen
+-20% Bonus Fire Damage
++5% Bonus Air Damage
++10% Bonus Water Defense
+
+Snow Boots	41	–	+305	–	2	
++4% XP Bonus
++2 Dexterity Points
+-25% Bonus Fire Damage
+-20% Bonus Fire Defense
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Spell Damage Bonus	-	+4%	+8%	+12%
+Bonus ✽ Water Damage	-	+4%	+10%	+15%
+Bonus ❋ Air Damage	-	+6%	+8%	+15%
+Goblin Set
+The Goblin Armour set is composed of the following pieces:
+
+Icon	Item	Price	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Goblin Hood	 3 Emerald Blocks
+
+ 3 Gold Nuggets	41	25 Strength
+10 Dexterity	+380	-10 ❋ Air	2	
+-7% Spell Damage
++27/3 Life Steal
++10% Loot Bonus
++8% Walk Speed
+
+Goblin Cloak	 3 Emerald Blocks
+
+ 3 Gold Nuggets	45	30 Strength
+30 Dexterity	+470	-20 ❋ Air	2	
++33/3 Life Steal
++1/3 Mana Steal
++15% Loot Bonus
+
+Goblin Runners	 3 Emerald Blocks
+
+ 3 Gold Nuggets	43	10 Strength
+25 Dexterity	+420	-	2	
+-7% Main Attack Damage
++1/3 Mana Steal
++10% Loot Bonus
++12% Walk Speed
+Set Bonuses
+
+When multiple pieces of the Goblin Set are used at the same time, the following set bonuses are applied:
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus
+Spell Damage	-	-13%	-33%
+Raw Spell Damage Bonus	-	+55	+160
+Main Attack Damage	-	-13%	-33%
+Raw Melee Damage Bonus	-	+70	+105
+Life Steal	-	+30/3s	+90/3s
+Mana Steal	-	-	+2/3s
+Attack Speed	-	-	+1 Tier
+Ghostly Set
+Ghostly Armour (sometimes referred to as 'Ghost Armour') is a set of armour that can only be dropped from mobs around The House of Twain.
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Identification Range
+
+Ghostly Cap	48	–	+550	+20 ✦ Thunder
+-20 ✤ Earth	2	
++[1,5]/3s Mana Steal
++[2,7]% Soul Point Regen
++[20,85] Spell Damage
+-[-8,-4]% Main Attack Damage
+
+Ghostly Tunic **	45	–	+500	+10 ❋ Air
+-25 ✹ Fire	1	
++2 Agility Points
+-3% Soul Point Regen
++5% Bonus Air Damage
+
+Ghostly Pants	50	Dexterity 45	+550	+30 ✦ Thunder
+-30 ✤ Earth	2	
++[1,5]/3s Mana Steal
++[2,7]% Soul Point Regen
++[4,18] ✦ Thunder Damage
+-[31,17] Main Attack Damage
+
+Ghostly Boots	49	Intelligence 35	+520	+20 ✽ Water
+-15 ✤ Earth	2	
++[1,5]/3s Mana Steal
++[2,7] Soul Point Regen
++[20,85]Spell Damage
+-[23,13]Main Attack Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Thunder Damage	-	+5%	+10%	**
+Mana Steal	-	+8/3sec	+16/3sec	**
+Earth Damage	-	-34%	-67%	**
+Mana Regen	-	-6/5sec	-12/5sec	**
+Water Damage	-	+5%	+10%	**
+Spell Damage	-	+40	+115	**
+|**Please note: sometime the stats/ranges changed. Currently only updated Cap and Legs (only things that have dropped for me thus far), Set Bonus' have changed as well, only plugging in what I've found thus far |
+
+Wynnterfest 2016 Set
+The Wynnterfest 2016 Set is composed of the following pieces:
+
+Icon	Accessory	Lv. Min	Requirements	Elemental Defense	Health	Avg. Identifications
+
+Green Ornament	55	–	–	–	
++6% XP Bonus
++6% Bonus Earth Damage
+
+Yellow Ornament	45	–	–	–	
++6% XP Bonus
++6% Bonus Thunder Damage
+
+Blue Ornament	45	–	–	–	
++6% XP Bonus
++6% Bonus Water Damage
+
+Red Ornament	50	–	–	–	
++6% XP Bonus
++6% Bonus Fire Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Spell Damage	+3%	+3%	+3%	+14%
+Main Attack Damage	-	+3%	+3%	+14%
+XP Bonus	-	+6%	+12%	+24%
+Health	-	-	+120	+480
+Elf Set
+The Elf Armour set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Elf Cap	50	35 Agility	+625	-	2	
++9% Loot Bonus
++8% Walk Speed
++5 Agility
+
+Elf Robe	50	35 Defence	+725	-	3	
++35 Health Regen
++8% Loot Bonus
++5 Defense
+
+
+Elf Pants	50	10 Agility
+25 Defence
+
++675	-	2	
++20 Health Regen
++9% Loot Bonus
++6% Walk Speed
+
+Elf Shoes	50	25 Agility
+10 Defence
+
++650	-	2	
++15% Health Regen
++9% Loot Bonus
++6% Walk Speed
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Health Regen	-	+10%	+20%	+45%, +45
+Loot Bonus	-	+8%	+16%	+32%
+Walk Speed Bonus	-	+6%	+14%	+20%
+Agility	-	+5	+7	+10
+Defense	-	+5	+7	+10
+Slime Set
+The Slime Armour is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Slime Plate	53	20 Strength
+35 Defence
+
+1100	–	2	
++2 Strength
+-8% Walk Speed
++168 Health
++4% Earth Damage
++4% Earth Defense
+
+Slime Boots	51	15 Strength
+35 Defence
+
+850	–	2	
++12% Health Regen
+-2 Agility
+-5% Walk Speed
++5% Melee Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus
+Walk Speed	-	-6%
+Health Bonus	-	+350
+Defense Bonus	-	+3
+Health Regen	-	+7%
+Jester Set
+The Jester Accessory set is composed of the following pieces:
+
+Icon	Accessory	Lv. Min	Requirements	Elemental Defense	Health	Avg. Identifications
+
+Jester Necklace	54	–	–	–	
++3% Stealing
++20% Loot Bonus
++20% XP Bonus
+
+Jester Ring	69	–	–	–	
++40/4s Life Steal
++20% Loot Bonus
++20% XP Bonus
+
+Jester Bracelet	72	–	–	–	
++8% Reflection
++20% Loot Bonus
++20% XP Bonus
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus (with two rings)
+Health Bonus	-	+300	-150	-150
+XP Bonus	-25%	-50%	-75%	-100%
+Loot Bonus	-25%	-50%	-75%	-100%
+Walking Speed Bonus	-	-10%	+5%	+5%
+Raw Spell Damage Bonus	-	-110	+100	+100
+Raw Melee Damage Bonus	-	+60	-75	-75
+NOTE: Equipping the 4-piece Jester Set does not display the correct set bonus on the tooltip of the jester items. However, the 4-piece set bonus is calculated in the identifications in the compass.
+
+Ultramarine Set
+The Ultramarine Armour set is composed of the following pieces
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Ultramarine Crown	59	70 Intelligence	+750	+50 ✽ Water
+-25 ✦ Thunder	1	
++5% Loot Bonus
+2/4s Mana Regen
+-11% Melee Damage
+
+Ultramarine Cape	65	100 Intelligence	+950	+80 ✽ Water
+-40 ✦ Thunder	2	
++10% Loot Bonus
++10% Spell Damage
++19 Spell Damage
+-36 Melee Damage
++10% ✽ Water Defence
++6% ✽ Water Damage
+
+Ultramarine Belt	63	90 Intelligence	+900	+70 ✽ Water
+-35 ✦ Thunder	1	
++3 Intelligence
++1/4 Mana Regen
++7% Loot Bonus
++4% ✽ Water Defence
+
+Ultramarine Boots	61	80 Intelligence	+825	+60 ✽ Water
+-30 ✦ Thunder	1	
++6% Loot Bonus
++52 Spell Damage
++8% ✽ Water Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Spell Damage	–	–	+5%	+10%
+✦ Thunder Damage	–	-10%	-30%	-30%
+Intelligence	–	+5	+10	+25
+Mana Regen	–	1/4s	3/4s	6/4s
+✽ Water Defence	–	+8%	+14%	+20%
+Melee Damage	–	-5%	-10%	-20%
+✽ Water Damage	–	+6%	+10%	+15%
+Saint's Set
+The Saint's Armour set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Saint's Shawl	70	60 Intelligence	+1500	+50 ✽ Water	3	
++15% Reflection
++8 Intelligence
++10% XP Bonus
+
+Saint's Tunic	70	60 Agility
+65 Intelligence	+1650	+40 ✽ Water
++30 ❋ Air	3	
++15% Reflection
++5 Agility
++15% Water Damage
++10% XP Bonus
+
+Saint's Leggings	70	65 Agility
+60 Intelligence	+1650	+30 ✽ Water
++40 ❋ Air	3	
++10% Walk Speed
++15% Air Damage
++5 Intelligence
++10% XP Bonus
+
+Saint's Sandals	70	60 Agility	+1500	+60 ❋ Air	3	
++10% Walk Speed
++8 Agility
++10% XP Bonus
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Mana Regen	-	-	+1/4s	+1/4s
+Soul Point Regen	-	+10%	+25%	+50%
+Agility Points	-	+2	+4	+6
+Intelligence Points	-	+2	+4	+6
+Water Defense	-	+5%	+10%	+20%
+Air Defense	-	+5%	+10%	+20%
+Champion Set
+The Champion Armour set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Champion Helmet	75	Tower of Ascension Quest	+1750	–	2	
++8% XP Bonus
++8% Loot Bonus
+
+Champion Chestplate	75	Tower of Ascension Quest	+1750	–	2	
++8% XP Bonus
++8% Loot Bonus
+
+Champion Leggings	75	Tower of Ascension Quest	+1750	–	2	
++16% Loot Bonus
+
+Champion Boots	75	Tower of Ascension Quest	+1750	–	2	
++16% Loot Bonus
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Mana Regen	-	-	-	+5/4s
+Mana Steal	-	-	-	+5/4s
+Life Steal	-	-	-	+400/4s
+Spell Damage	-	-	-	+75%
+Melee Damage	-	-	-	+75%
+Health Regen	-	-	-	+600
+Kaerynn's Set
+Kaerynn's Armour set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Kaerynn's Mind	78	Aldorei's Secret Part II
+45 intelligence
+2075	+120✽ Water
+-50 ✹ Fire	2	
+1/4 Mana Regen
+8-33% Health Regen
+6-26% Water Damage
+
+Kaerynn's Body	78	Aldorei's Secret Part II
+45 Strength	2075	+120✤ Earth
+-50 ✹ Fire	2	
+5-20% Spell Damage Bonus
+5-20% Main Attack Damage
+6-26% Earth Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus
+Health Bonus	-	+180
+XP Bonus	-	+40%
+Defense Points	-	+25
+Mana Regen	-	+2/4s
+Clock Set
+The Clock Set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Clock Helm	73	–	+1400	–	2	
+-1 Mana Regen
++10% Melee Damage Bonus
++1 Mana Steal
++6% XP Bonus
++3 Agility Points
++6% Walking Speed Bonus
+
+Clock Mail	76	–	+1800	–	3	
++15% Health Regen
++2 Mana Regen
++5% Spell damage Bonus
+-1 Mana Steal
++3 Defense Points
+-3% Walking Speed Bonus
++200 Health Bonus
+
+Clock Leggings	75	–	+1500	–	3	
++25% Spell Damage Bonus
++30% Melee Damage Bonus
++5% XP Bonus
++3 Strength Points
+-4% Walking Speed Bonus
+-1 Tier Attack Speed Bonus
++10 Raw Melee Damage Bonus
+
+Clock Boots	74	–	+1350	–	2	
+-30% Spell Damage Bonus
+-37% Melee damage Bonus
++6% XP Bonus
+-8 Strength Points
++3 Dexterity Points
++10% Walking Speed Bonus
++1 Tier Attack Speed Bonus
++20 Raw Melee Damage Bonus
+
+Clockwork Ring	80	–	-25	–	–	
++5% Spell Damage Bonus
++6% Loot Bonus
+
+Time Ring	80	–	–	–	–	
++11% Health Regen
+
+Clock Amulet	86	–	–	+25 in all Elements	–	
++6% Loot Bonus
++4% Bonus Fire Defense
++5% Bonus Water Defense
++3% Bonus Air Defense
++2% Bonus Thunder Defense
++6% Bonus Earth Defense
+
+Watch Bracelet	86	–	–	–	–	
++6% Loot Bonus
++5% Bonus Fire Damage
++5% Bonus Water Damage
++5% Bonus Air Damage
++5% Bonus Thunder Damage
++5% Bonus Earth Damage
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus	5-Piece Bonus	6-Piece Bonus	7-Piece Bonus	8-Piece Bonus
+Bonus Fire Damage	-	+15%	+14%	+13%	+12%	+11%	+10%	+9%
+Bonus Water Damage	-	+6%	+12%	+18%	+24%	+24%	+24%	+24%
+Bonus Air Damage	-	+5%	+13%	+20%	+28%	+24%	+19%	+14%
+Bonus Thunder Damage	-	+18%	-	+18%	-	+18%	-	+18%
+Bonus Earth Damage	-	+8%	-	+14%	-	+22%	-	+34%
+Snail Set
+The Snail Amour is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Snail Helm	93	10 Strength
+20 Defense	2800	–	2
+
+Snail Mail	97	10 Strength
+30 Defense	3000	- +30 ✹ Fire
+-50 ✽ Water
+-50 ❋ Air
++50 ✤ Earth	2	
+-1/4s Mana Regen
+-9% Walk Speed
+-7 Agility
++900 Health
++5% Thorns
+-3 Dexterity
++8 Defence
+
+Snail Leggings	95	20 Strength	2800	–	2
+
+Snail Boots	94	10 Strength
+10 Defense	2800	–	2
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Agility Points	-	-5	-10	-15
+Defense Points	-	+3	+8	+15
+Thorns	-	+5%	+15%	+30%
+Walk Speed	-	-5%	-10%	-20%
+Health Bonus	-	+850	+1750	+2975
+Health Regen	-	+100	+300	+500
+Cosmic Set
+The Cosmic Armour is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Avg. Identifications
+
+Cosmic Visor	80	??? Quest	1800	-	4	
+19% XP Bonus
+1 Mana Regen
+10% Reflection
+
+Cosmic Vest	80	??? Quest	2200	-	4	
+19% XP Bonus
+15% Spell Damage Bonus
+20% Health Regen Bonus
+
+Cosmic Ward	80	??? Quest	2100	-	4	
+19% XP Bonus
+4 Intelligence Points
+4 Strength Points
+4 Defense Points
+4 Dexterity Points
+4 Agility Points
+
+Cosmic Walkers	80	??? Quest	1900	-	4	
+19% XP Bonus
+100 Raw Spell Damage Bonus
+11% Walking Speed Bonus
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus
+Spell Damage	0%	0%	0%	40%
+Mana Steal	0%	4/3s	8/3s	24/3s
+Earth Defense	0%	20%	50%	100%
+Fire Defense	0%	20%	50%	100%
+Thunder Defense	0%	20%	50%	100%
+Water Defense	0%	20%	50%	100%
+Air Defense	0%	20%	50%	100%
+Loot Bonus	0%	25%	50%	75%
+XP Bonus	0%	25%	50%	75%
+Morph Set
+The Morph Set is composed of the following pieces:
+
+Icon	Item	Lv. Min	Requirements	Health	Elemental Defense	Slots	Identifications
+
+Morph-Stardust	100	44 in all skills	+3250	+60 in all elements	3	
++5 in all skills
++1/4s Mana Regen
++5% to +20% Walk Speed
++60 to +260 Health Regen
++60 to +260 Neutral Spell Damage
++45 to +205 Main Attack Neutral Damage
+
+Morph-Steel	75	32 in all skills	+1750	+40 in all elements	3	
++4 in all skills
++5% to +20% Fire Defense
++5% to +20% Water Defense
++5% to +20% Air Defense
++5% to +20% Thunder Defense
++5% to +20% Earth Defense
+
+Morph-Iron	50	20 in all skills	+600	+20 in all elements	3	
++3 in all skills
++5% to +20% Fire Damage
++5% to +20% Water Damage
++5% to +20% Air Damage
++5% to +20% Thunder Damage
++5% to +20% Earth Damage
+
+Morph-Gold	25	10 in all skills	+150	+5 in all elements	3	
++2 in all skills
++5% to +20% Health Regen
++1/4s Mana Regen
++3% to +13% Main Attack Damage
++3% to +13% Spell Damage
++3% to +13% Walk Speed
+
+Morph-Topaz	12	4 in all skills	-	-	-	
++1 in all skills
++2% to +10% XP Bonus
+
+Morph-Emerald	37	16 in all skills	+50	-	-	
++1 in all skills
++2% to +10% Loot Bonus
+
+Morph-Amethyst	87	41 in all skills	+225	-	-	
++1 in all skills
++3% to +13% Soul Point Regen
+
+Morph-Ruby	62	26 in all skills	+175	-	-	
++1 in all skills
++2% to +7% Stealing
+Set Bonus
+
+Identification	1-Piece Bonus	2-Piece Bonus	3-Piece Bonus	4-Piece Bonus	5-Piece Bonus	6-Piece Bonus	7-Piece Bonus	8-Piece Bonus
+Strength	-	-	-	-	-	-	-	+15
+Intelligence	-	-	-	-	-	-	-	+15
+Agility	-	-	-	-	-	-	-	+15
+Defence	-	-	-	-	-	-	-	+15
+Dexterity	-	-	-	-	-	-	-	+15
+Health	-	-	+125	+425	+1325	+2575	+4450	+8250
+1st Spell Cost	-	-	-	-	-	-	-1	-1
+2nd Spell Cost	-	-	-1	-1	-1	-1	-1	-1
+3rd Spell Cost	-	-	-	-	-	-	-	-1
+4th Spell Cost	-	-	-	-	-1	-1	-1	-1
+XP Bonus	-	+5%	+10%	+15%	+35%	+55%	+80%	+100%
+Loot Bonus	-	+5%	+10%	+15%	+35%	+55%	+80%	+100%
+Mana Regen	-	-	+1/4s	+1/4s	+2/4s	+2/4s	+3/4s	+4/4s

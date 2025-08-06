@@ -1,0 +1,108 @@
+You are an expert Python developer. Create a modern command-line interface (CLI) tool that automates Wynncraft item build generation. Use only open-source packages. Follow these specifications:
+
+🔧 CLI Purpose
+Create full Wynncraft builds (helmet, chestplate, leggings, boots, weapon, accessories).
+
+Filter by class, level, and playstyle (spellspam, melee, hybrid, etc.).
+
+Show only valid builds that meet skill point (SP) requirements and other constraints.
+
+Score and sort builds based on effectiveness (e.g., damage, mana, EHP).
+
+📦 Requirements
+Load Wynncraft item data from items.json or use a local copy.
+
+Parse item data into Python objects or dictionaries.
+
+Filter items based on:
+
+Class compatibility
+
+Level requirement
+
+Playstyle (based on IDs like spell damage, melee damage, mana regen, etc.)
+
+Generate valid builds using itertools.product, with one item per equipment slot.
+
+Validate builds:
+
+Check total skill points (max 200 or specified cap)
+
+Ensure the player meets stat requirements for all gear
+
+Score builds using a customizable scoring function:
+
+python
+Copy
+Edit
+score = damage + mana_regen * 10 + ehp / 1000
+Sort builds by score and return the top N.
+
+Display results in a user-friendly way using rich.table.
+
+🎨 User Experience Features
+Use argparse or prompt_toolkit for interactive CLI filtering.
+
+Allow setting filters such as:
+
+Max level (e.g., --max-level 105)
+
+Element (e.g., --element thunder)
+
+Playstyle (e.g., --playstyle spellspam)
+
+Max results (e.g., --top 10)
+
+Show full build breakdown in terminal.
+
+Optional: Export build as JSON.
+
+🛠 Tech Stack
+Python 3.10+
+
+Modules: argparse, json, rich, itertools, prompt_toolkit (optional)
+
+📁 File Structure
+css
+Copy
+Edit
+/wynncli
+├── main.py
+├── data/
+│   └── items.json
+├── core/
+│   ├── build_generator.py
+│   ├── filters.py
+│   ├── scorer.py
+│   └── validator.py
+└── utils/
+    └── display.py
+🧠 Bonus Features (Optional if time permits)
+Cache filtered builds.
+
+Allow custom scoring functions from user.
+
+Add command to analyze a specific build.
+
+🧪 Testing
+Ensure testable modules with unit tests for:
+
+is_valid_build()
+
+score_build()
+
+filter_items()
+
+generate_builds()
+
+Use mock item data for testing.
+
+You can paste that directly into ChatGPT, GPT-4 Turbo, or a Code Interpreter model to generate the full CLI app from scratch.
+
+Let me know if you want:
+
+The generated Python files directly
+
+A GUI version (like PyQt or Tkinter)
+
+A web app version using Flask or Next.js

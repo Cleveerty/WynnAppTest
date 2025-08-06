@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Meteor",
+    "description": "has an auto-aim radius of 2 blocks where the meteor will automaticaly lock onto an enemy's position instead of where you aimed at."
+  },
+  {
+    "name": "Main Attack",
+    "description": "Improve your 's damage and range when using a wand."
+  },
+  {
+    "name": "Meteor",
+    "description": "Reduce the mana cost of ."
+  },
+  {
+    "name": "Meteor",
+    "description": "Drastically increase the speed of your ability."
+  },
+  {
+    "name": "Shooting Star",
+    "description": "doubles the speed of Meteor, making it only take 1.25s for the meteor to land."
+  },
+  {
+    "name": "Main Attack",
+    "description": "Improve your 's damage and range when using a wand."
+  },
+  {
+    "name": "Teleport",
+    "description": "'s distance decreases the more you aim vertically up or down; at most, you can teleport 6 blocks upwards and 3 blocks downwards."
+  },
+  {
+    "name": "their",
+    "description": "Heals you and nearby allies in a large area around you.(When healing others, you can't heal more than 30% of max health)"
+  },
+  {
+    "name": "Heal",
+    "description": "Recasting while healing is already in progress will cancel the previous heal."
+  },
+  {
+    "name": "Teleport",
+    "description": "Reduce the mana cost of ."
+  },
+  {
+    "name": "Teleport",
+    "description": "When using , slash through the air and deal damage to enemies you pierce."
+  },
+  {
+    "name": "Meteor",
+    "description": "After casting , summon 3 lightning strikes and deal additional damage."
+  },
+  {
+    "name": "Breathless",
+    "description": "Each lightning strike will trigger 's Winded damage bonuses."
+  },
+  {
+    "name": "Meteor",
+    "description": "and Ophanim will leave a sigil of fire on the ground that damage enemies every 0.4s."
+  },
+  {
+    "name": "Burning Sigil",
+    "description": "Damage from does not count for Arcane Transfer's Mana Bank and does not trigger Breathless's Winded damage bonuses."
+  },
+  {
+    "name": "Heal",
+    "description": "emits a strong light, damaging nearby enemies."
+  },
+  {
+    "name": "Arcane Transfer",
+    "description": "will damage nearby enemies when transferring 30+ Mana."
+  },
+  {
+    "name": "Larger Heal",
+    "description": "Sunshower's damaging range is the same as your healing range. will increase the size of Sunshower's damaging area as well."
+  },
+  {
+    "name": "Orphion's Pulse",
+    "description": "will trigger Sunshower's damage on each pulse in addition to the initial cast."
+  },
+  {
+    "name": "Meteor",
+    "description": "Increase the damage of ."
+  },
+  {
+    "name": "Ophanim",
+    "description": "Does not affect in any way."
+  },
+  {
+    "name": "Main Attack",
+    "description": "Your will add +1 Winded to enemies you hit. (Max 10, 0.2s Cooldown)"
+  },
+  {
+    "name": "Ice Snake",
+    "description": "will deal additional damage to enemies for every Winded they have."
+  },
+  {
+    "name": "Meteor",
+    "description": "When casting , instead summon 2 orbs of light with 200 Health that will attack when you use your Main Attack."
+  },
+  {
+    "name": "Fortitude",
+    "description": "Healing the orbs will contribute to effects that require you to heal health, like , Lightweaver, and Sunflare."
+  },
+  {
+    "name": "Breathless",
+    "description": "The orbs' damage will be boosted on Winded enemies if you have ."
+  },
+  {
+    "name": "Ophanim",
+    "description": "'s orbs also lose health at a rate of 1% HP per second even if they aren't attacking."
+  },
+  {
+    "name": "Meteor",
+    "description": ", Ice Snake, and Wind Slash will add 13 Mana to a Mana Bank for every aggressive enemy you hit. With Thunderstorm, Mana gain from Meteor is reduced to 4."
+  },
+  {
+    "name": "Heal",
+    "description": "will now transfer the contents of your Mana Bank into usable Mana instead of healing."
+  },
+  {
+    "name": "Arcane Transfer",
+    "description": "also completely removes the Mana cost of casting Heal."
+  },
+  {
+    "name": "Heal",
+    "description": "Reduce the mana cost of ."
+  },
+  {
+    "name": "Heal",
+    "description": "and Arcane Transfer will purify allies of all negative effects and fire."
+  },
+  {
+    "name": "Ice Snake",
+    "description": "will follow the direction you're facing, allowing you to control it."
+  },
+  {
+    "name": "Teleport",
+    "description": "will blind enemies, confusing them for a brief period of time."
+  },
+  {
+    "name": "Meteor",
+    "description": "and Ophanim will deal additional damage to enemies for every Winded they have."
+  },
+  {
+    "name": "Thunderstorm",
+    "description": "Total Damage: 10% (of your DPS, with , per Winded) ( Damage: 8%) ( Earth: 2%)"
+  },
+  {
+    "name": "Ophanim",
+    "description": "Total Damage: 3% (of your DPS, with , per Winded) ( Damage: 2%) ( Earth: 1%)"
+  },
+  {
+    "name": "Breathless",
+    "description": "'s damage boost will trigger each time you hit a Winded mob with Meteor, Thunderstorm, or Ophanim."
+  },
+  {
+    "name": "Heal",
+    "description": "Increase your 's range."
+  },
+  {
+    "name": "Sunshower",
+    "description": "Also increases the damaging area of ."
+  },
+  {
+    "name": "Ice Snake",
+    "description": "Reduce the mana cost of ."
+  },
+  {
+    "name": "Teleport",
+    "description": "Reduce the mna cost of ."
+  },
+  {
+    "name": "Main Attack",
+    "description": "When your Mana Bank reaches 30, your will explode upon impact with enemies.(Damage is dealt as Main Attack Damage)"
+  },
+  {
+    "name": "Teleport",
+    "description": "will trigger 2 times in quick succession."
+  },
+  {
+    "name": "Ice Snake",
+    "description": "will leave a sigil of ice beneath you that slows and damages enemies every 0.8s. Allies standing on the sigil will be immune to knockback."
+  },
+  {
+    "name": "Ophanim",
+    "description": "Increases the health of 's orbs by +800 and reduce the damage they take when attacking by -5%."
+  },
+  {
+    "name": "Ophanim",
+    "description": "This brings the total health of 's orbs to 1000, and the damage they take when attacking to -15% of their HP."
+  },
+  {
+    "name": "Ice Snake",
+    "description": "will summon 3 snakes."
+  },
+  {
+    "name": "Teleport",
+    "description": "will deal additional damage to enemies for every Winded they have."
+  },
+  {
+    "name": "Transonic Warp",
+    "description": "'s damage boost will trigger each time you hit a Winded mob with Teleport or Explosive Entrance, including the second teleport from Blink."
+  },
+  {
+    "name": "Heal",
+    "description": "For every 1% Water Damage Bonus you have from items, buff 's healing power by +0.3% (Max +75%)."
+  },
+  {
+    "name": "Heal",
+    "description": "becomes slower and stronger, pulsing 2 more times for greater healing."
+  },
+  {
+    "name": "Heal",
+    "description": "Like , each pulse also does not instantly restore health but rapidly heals over 1s."
+  },
+  {
+    "name": "Heal",
+    "description": "Each pulse occurs every 1.5s after is initially cast. Recasting Heal will override previous pulses from happening."
+  },
+  {
+    "name": "Pyrokinesis",
+    "description": "will add +1 Mana every 0.25s to your Mana Bank when hitting an aggressive enemy."
+  },
+  {
+    "name": "Pyrokinesis",
+    "description": "Hitting multiple enemies with does not increase the Mana given, and further hits will only refresh the duration."
+  },
+  {
+    "name": "Pyrokinesis",
+    "description": "Hitting an enemy with also adds +4 Mana to your Mana Bank instantly."
+  },
+  {
+    "name": "Ophanim",
+    "description": "Increase the damage of ."
+  },
+  {
+    "name": "Ophanim",
+    "description": "Despite having an identical appearance to 's orbs, Lightweaver's orbs have a duration and do not have health."
+  },
+  {
+    "name": "Lightweaver",
+    "description": "will not damage enemies that are too close or too far; they have to be directly in the path of the orbs, which are on a fixed radius of 7 blocks away from the player."
+  },
+  {
+    "name": "Heal",
+    "description": "You gain a walk speed buff after casting or Arcane Transfer."
+  },
+  {
+    "name": "Meteor",
+    "description": "Shoots from you as a slow projectile."
+  },
+  {
+    "name": "Psychokinesis",
+    "description": "essentially turns Meteor into a long-range lobbed projectile instead of delayed damage in an area. This allows Meteor to hit mobs faster if you are close and makes it easier to hit on mobs with large hitboxes."
+  },
+  {
+    "name": "Ice Snake",
+    "description": "Reduce the mana cost of ."
+  },
+  {
+    "name": "Teleport",
+    "description": "Deal damage in an area on the location you to."
+  },
+  {
+    "name": "Explosive Entrance",
+    "description": "'s damage will trigger Transonic Warp's Winded damage bonuses."
+  },
+  {
+    "name": "Meteor",
+    "description": "Reduce the mana cost of ."
+  },
+  {
+    "name": "Arcane Transfer",
+    "description": "When your Mana Bank reaches 120, casting will rapidly unleash the last 3 spells you've cast in order."
+  },
+  {
+    "name": "Arcane Transfer",
+    "description": "does not count as a spell to be recast, and Chaos Explosion will just cast the next-last spell besides Arcane Transfer, and Chaos Explosion takes 0.4s to cast each spell."
+  },
+  {
+    "name": "Chaos Explosion",
+    "description": "Activating will still transfer your Mana Bank into usable Mana, on top of recasting spells."
+  },
+  {
+    "name": "Meteor",
+    "description": "Hitting aggressive mobs with and Ice Snake during Chaos Explosion will still add Mana to your Mana Bank ."
+  },
+  {
+    "name": "Teleport",
+    "description": "cannot be recast."
+  },
+  {
+    "name": "Ice Snake",
+    "description": "will add +3 Winded to enemies and deal more damage."
+  },
+  {
+    "name": "Gust",
+    "description": "Winded added from shares the same 0.5s stack cooldown as your Main Attack."
+  },
+  {
+    "name": "Snake Nest",
+    "description": "Mobs hit by multiple snakes from will still only take damage from 1 snake and only have +1 Winded added to them."
+  },
+  {
+    "name": "Ophanim",
+    "description": "Increase your maximum orbs from by +1."
+  },
+  {
+    "name": "Ice Snake",
+    "description": "will freeze enemies for 2s."
+  },
+  {
+    "name": "Ice Snake",
+    "description": "This completely replaces the slow effect of . Enemies will not be slowed after the freeze expires."
+  },
+  {
+    "name": "Sunshower",
+    "description": "Increase the damage of ."
+  },
+  {
+    "name": "Meteor",
+    "description": ", Ice Snake, and Wind Slash will add +8 Mana to your Mana Bank for each aggressive enemy you hit.With Thunderstorm, Meteor only adds +2 Mana."
+  },
+  {
+    "name": "Arcane Restoration",
+    "description": "will restore mana 0.1s faster."
+  },
+  {
+    "name": "Ophanim",
+    "description": "Increase the health of your orbs from by +3000."
+  },
+  {
+    "name": "Ophanim",
+    "description": "This brings the total health of 's orbs to 4000."
+  },
+  {
+    "name": "Ophanim",
+    "description": "Increases your maximum orbs from by +3 and reduces their damage."
+  },
+  {
+    "name": "Heal",
+    "description": "Healing 250% of your Max Health within 10s will make your next activate Sunflare."
+  },
+  {
+    "name": "Sunflare",
+    "description": "While is active, you will restore your health and mana to all nearby allies, and your Ophanim orbs will attack constantly."
+  },
+  {
+    "name": "Lightweaver",
+    "description": "Increase your Max Orbs from by +2."
+  },
+  {
+    "name": "Arcane Transfer",
+    "description": "will allow you to overflow your Mana over its maximum limit. (Max 300)"
+  },
+  {
+    "name": "Heal",
+    "description": "Holding shift and casting will absorb all Winded on nearby enemies and make you Timelocked ."
+  },
+  {
+    "name": "Teleport",
+    "description": "Becoming immovable from external forces means you become completely immune to knockback, and will deal damage as if you teleported, without actually teleporting you forward."
+  },
+  {
+    "name": "Heal",
+    "description": "Reduce the mana cost of ."
+  },
+  {
+    "name": "Chaos Explosion",
+    "description": "will cast +2 spells."
+  }
+]

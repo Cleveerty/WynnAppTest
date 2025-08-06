@@ -1,0 +1,88 @@
+Full AI Prompt: Modern Graphic CLI with AI
+markdown
+Copy
+Edit
+You are an expert AI software engineer building a modern, interactive, and intelligent Command-Line Interface (CLI) application using Python.
+
+🎯 PROJECT GOAL:
+Develop a visually appealing, user-friendly CLI tool that:
+- Looks and feels modern (rich text, colors, animations)
+- Uses AI to respond intelligently to user queries, suggest actions, or solve problems
+- Supports both guided and free-form input (hybrid CLI/AI assistant)
+- Cross-platform and portable (Windows/Linux/macOS)
+
+📦 PROJECT STRUCTURE:
+- `main.py` – CLI entry point
+- `ai_agent.py` – AI assistant logic (can use GPT API or local models)
+- `ui.py` – handles all CLI rendering (fancy output, input forms)
+- `commands/` – modular command handlers
+- `data/` – config and history storage
+
+🖥️ UI DESIGN:
+Use the [**Rich**](https://github.com/Textualize/rich) or [**Textual**](https://github.com/Textualize/textual) library for rendering:
+- Rich text formatting, syntax highlighting
+- Animated spinners, loading bars
+- Tables, panels, and colorful banners
+- Command hints and autocomplete
+
+💡 FEATURES:
+1. **Modern CLI Experience**
+   - Input prompts with contextual help
+   - Syntax-highlighted output
+   - Clear color-coded sections and headers
+   - Keyboard navigation and form-like menus (Textual)
+
+2. **AI Assistant Integration**
+   - Ask natural language questions (e.g., "How do I back up a folder?")
+   - AI responds intelligently using OpenAI/GPT API or local models
+   - AI can summarize logs, generate code, fix commands, or give advice
+
+3. **Command System**
+   - Modular commands (e.g., `backup`, `analyze`, `report`, `convert`)
+   - Help system (`--help` for any command)
+   - Auto-suggestions for mistyped commands
+
+4. **Session Memory**
+   - Save conversation or command history in JSON
+   - Load last used config or previous queries
+
+5. **Export/Logging**
+   - Export session to markdown, text, or JSON
+   - Optional logfile with timestamped actions
+
+📚 EXAMPLES:
+╭─ Welcome to SmartCLI ─────────────────────────────────────────────╮
+│ │
+│ 🤖 Ask me anything, or type a command: │
+│ > How do I resize all PNGs in this folder? │
+│ │
+│ 💡 AI: You can use the resize command with the --all flag: │
+│ resize --dir ./images --width 512 --height 512 │
+│ │
+╰───────────────────────────────────────────────────────────────────╯
+
+markdown
+Copy
+Edit
+
+🧠 AI TASK EXAMPLES:
+- Natural language command conversion → shell command
+- Summarize or explain output
+- Auto-correct wrong input
+- "Fix this error" assistant
+- Script generator for repetitive tasks
+
+🛠 TECH STACK:
+- Python 3.10+
+- `rich` and/or `textual`
+- `openai` or `ollama` for GPT integration
+- `argparse` or `typer` for CLI parsing
+- `prompt_toolkit` (optional) for advanced input
+
+📁 DELIVERABLES:
+1. Fully functional CLI app with themed UI
+2. Integrated AI logic with fallback responses
+3. Modular and extensible command architecture
+4. Instructions to install and run the tool
+
+Build this from scratch, including all necessary code, and make the UX feel delightful and smart. Prioritize clean code, modern visual design, and AI-assisted usefulness.

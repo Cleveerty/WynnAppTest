@@ -1,0 +1,61 @@
+You are an AI software engineer building a modern Python CLI for a Wynncraft item builder.
+
+🎯 GOAL:
+Build an interactive, responsive, AI-enhanced CLI that allows users to construct item builds by selecting one item per equipment slot, using fuzzy name search and autocomplete based on a local JSON item database.
+
+✅ FUNCTIONALITY:
+
+1. Load item data from a JSON file (such as Wynnbuilder's items.json).
+2. Categorize items into:
+   - Helmet
+   - Chestplate
+   - Leggings
+   - Boots
+   - Ring 1
+   - Ring 2
+   - Bracelet
+   - Necklace
+   - Weapon (filtered by class)
+3. For each category, prompt the user to select one item using:
+   - Fuzzy search (e.g., typing "Orna" finds "Ornate Shadow Garb")
+   - Live autocompletion as the user types (optional: arrow key navigation)
+4. Validate selections (class requirements, level requirements)
+5. After all items are selected, output:
+   - List of selected items
+   - Computed stats (main stats like SP total, health, elemental defense, spell/melee DPS, mana regen/cost)
+   - Option to export as Wynnbuilder import string
+
+📦 REQUIREMENTS:
+- Use the `prompt_toolkit` Python package for interactive CLI with autocompletion
+- Use `fuzzywuzzy` or `rapidfuzz` for fuzzy matching of item names
+- Data loading from a static JSON file (`items.json`)
+- Organize the CLI so each section prompts user for:
+   - Slot name
+   - Suggested/fuzzy matched items
+   - Confirmation
+
+📁 FILE STRUCTURE:
+- `main.py` — entry point CLI
+- `autocomplete.py` — handles item search/autocomplete/fuzzy matching
+- `item_loader.py` — loads and categorizes item data
+- `build_validator.py` — checks class, level, and stat compatibility
+- `stat_calculator.py` — computes final build stats
+- `exporter.py` — builds output summary or Wynnbuilder import string
+
+🔧 EXAMPLE FLOW:
+1. "Select a Helmet" — user types "Morph", autocomplete shows:
+    - Morph-Stardust
+    - Morph-Iron
+2. "Select a Chestplate" — user types "Orna", shows:
+    - Ornate Shadow Garb
+    - Ornate Chainmail
+3. Repeat for all gear slots
+4. Final summary shows:
+    - Selected gear
+    - Total stats (SP breakdown, mana, damage, hp)
+    - Export options
+
+🚀 OBJECTIVE:
+Make the CLI feel *fast*, *friendly*, and *intelligent*, similar to a terminal-native version of Wynnbuilder with real-time suggestions and minimal typing.
+
+Use efficient Python design, clean OOP where needed, and clear CLI interactions with autocompletion and fuzzy matching. Include help text, default selection hints, and colored terminal outputs.
